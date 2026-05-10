@@ -1,7 +1,7 @@
 #EXTM3U url-tvg="https://epgshare01.online/epgshare01/epg_ripper_PH1.xml.gz, https://epgshare01.online/epgshare01/epg_ripper_PH2.xml.gz, https://epgshare01.online/epgshare01/epg_ripper_ID1.xml.gz, https://epgshare01.online/epgshare01/epg_ripper_MY1.xml.gz, https://epgshare01.online/epgshare01/epg_ripper_HK1.xml.gz, https://epgshare01.online/epgshare01/epg_ripper_US1.xml.gz"
 #EXTINF:-1 group-logo="https://i.imgur.com/c7CDrvS.png"
 
-#EXTINF:-1 channel-number="2" tvg-chno="2" tvg-id="" tvg-logo="https://i.imgur.com/vq2TMHj.png" group-title="TV",Kapamilya Channel
+#EXTINF:-1 channel-number="2" tvg-chno="2" tvg-id="" tvg-logo="https://i.imgur.com/vq2TMHj.png" group-title="TV",Kapamilya Channel HD
 http://136.239.173.2:6610/001/2/ch00000090990000001286/manifest.mpd?AuthInfo=v87HD9rEhwHiAdYyrP20Tg5pgSMSITY%2FHYvvCWJRp%2Bqw65FFCygtQMRRIUPF0xuXytokK1MIobcue1ImXa0ZEA%3D%3D&version=v1.0&BreakPoint=0&virtualDomain=001.live_hls.zte.com&programid=ch00000000000000001694&contentid=ch00000000000000001694&videoid=ch00000090990000001286&recommendtype=0&userid=1004802317138&boid=001&stbid=02%3A00%3A00%3A00%3A00%3A00&terminalflag=1&profilecode=&usersessionid=CCJLYZ04O9IXXX&NeedJITP=1&JITPMediaType=DASH&JITPDRMType=NO
 
 #EXTINF:-1 channel-number="4" tvg-chno="4" tvg-id="" tvg-logo="https://static.wikia.nocookie.net/russel/images/d/dc/PTV_4_Para_Sa_Bayan_Alternative_Logo_June_2017.png" group-title="TV",PTV 4
