@@ -1,3 +1,4 @@
+#EXTM3U url-tvg="https://epgshare01.online/epgshare01/epg_ripper_PH1.xml.gz, https://epgshare01.online/epgshare01/epg_ripper_PH2.xml.gz, https://epgshare01.online/epgshare01/epg_ripper_ID1.xml.gz, https://epgshare01.online/epgshare01/epg_ripper_MY1.xml.gz, https://epgshare01.online/epgshare01/epg_ripper_HK1.xml.gz, https://epgshare01.online/epgshare01/epg_ripper_US1.xml.gz"
 #EXTINF:-1 group-logo="https://i.imgur.com/c7CDrvS.png"
 
 #EXTINF:-1 channel-number="2" tvg-chno="2" tvg-id="" tvg-logo="https://i.imgur.com/vq2TMHj.png" group-title="TV",Kapamilya Channel
@@ -6,13 +7,13 @@ http://136.239.173.2:6610/001/2/ch00000090990000001286/manifest.mpd?AuthInfo=v87
 #EXTINF:-1 channel-number="4" tvg-chno="4" tvg-id="" tvg-logo="https://static.wikia.nocookie.net/russel/images/d/dc/PTV_4_Para_Sa_Bayan_Alternative_Logo_June_2017.png" group-title="TV",PTV 4
 http://136.239.173.26:6610/001/2/ch00000090990000001086/manifest.mpd?AuthInfo=v87HD9rEhwHiAdYyrP20Tg5pgSMSITY%2FHYvvCWJRp%2BogpxrMDVv1bZ%2FeMkgHZmwQytokK1MIobcue1ImXa0ZEA%3D%3D&version=v1.0&BreakPoint=0&virtualDomain=001.live_hls.zte.com&programid=ch00000000000000001175&contentid=ch00000000000000001175&videoid=ch00000090990000001086&recommendtype=0&userid=1252187837705&boid=001&stbid=02%3A00%3A00%3A00%3A00%3A00&terminalflag=1&profilecode=&usersessionid=I0ZZE3KB7BIXXX&NeedJITP=1&JITPMediaType=DASH&JITPDRMType=NO
 
-#EXTINF:-1 channel-number="5" tvg-chno="5" tvg-id="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/8b/TV5_2026_HQ.png/" group-title="TV",TV5
+#EXTINF:-1 channel-number="5" tvg-chno="5" tvg-id="TV5.ph" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/8b/TV5_2026_HQ.png/" group-title="TV",TV5
 http://136.239.158.30:6610/001/2/ch00000090990000001088/manifest.mpd?AuthInfo=v87HD9rEhwHiAdYyrP20Tg5pgSMSITY%2FHYvvCWJRp%2Boh0xOsaoSFLqA0PEh9gVjiytokK1MIobcue1ImXa0ZEA%3D%3D&version=v1.0&BreakPoint=0&virtualDomain=001.live_hls.zte.com&programid=ch00000000000000001213&contentid=ch00000000000000001213&videoid=ch00000090990000001088&recommendtype=0&userid=1150006064464&boid=001&stbid=02%3A00%3A00%3A00%3A00%3A00&terminalflag=1&profilecode=&usersessionid=J62NMXIGLTMXXX&NeedJITP=1&JITPMediaType=DASH&JITPDRMType=NO
 
 #EXTINF:-1 channel-number="7" tvg-chno="7" tvg-id="" tvg-logo="https://i.imgur.com/qqpsrHd.png" group-title="TV",GMA
 http://136.158.97.2:6610/001/2/ch00000090990000001093/manifest.mpd?AuthInfo=v87HD9rEhwHiAdYyrP20Tg5pgSMSITY%2FHYvvCWJRp%2BoLvT86fM74ocVChyFS93HUytokK1MIobcue1ImXa0ZEA%3D%3D&version=v1.0&BreakPoint=0&virtualDomain=001.live_hls.zte.com&programid=ch00000000000000001214&contentid=ch00000000000000001214&videoid=ch00000090990000001093&recommendtype=0&userid=1084724632836&boid=001&stbid=02%3A00%3A00%3A00%3A00%3A00&terminalflag=1&profilecode=&usersessionid=FGE3OISG4KGXXX&NeedJITP=1&JITPMediaType=DASH&JITPDRMType=NO
 
-#EXTINF:-1 channel-number="8" tvg-chno="8" tvg-id="" tvg-logo="https://i.imgur.com/geuq18u.png" group-title="TV",GTV
+#EXTINF:-1 channel-number="8" tvg-chno="8" tvg-id="GTV.ph@SD" tvg-logo="https://i.imgur.com/geuq18u.png" group-title="TV",GTV
 http://136.239.159.18:6610/001/2/ch00000090990000001143/manifest.mpd?AuthInfo=v87HD9rEhwHiAdYyrP20Tg5pgSMSITY%2FHYvvCWJRp%2BrwAtJC%2BsmBQ5ARU076BdkhytokK1MIobcue1ImXa0ZEA%3D%3D&version=v1.0&BreakPoint=0&virtualDomain=001.live_hls.zte.com&programid=ch00000000000000001313&contentid=ch00000000000000001313&videoid=ch00000090990000001143&recommendtype=0&userid=1590268675436&boid=001&stbid=02%3A00%3A00%3A00%3A00%3A00&terminalflag=1&profilecode=&usersessionid=AAIUZ2MAG7XXXX&NeedJITP=1&JITPMediaType=DASH&JITPDRMType=NO
 
 #EXTINF:-1 channel-number="9" tvg-chno="9" tvg-id="" tvg-logo="https://static.wikia.nocookie.net/russel/images/f/fb/RPTV_Alternative_Logo_2024.png" group-title="TV",RPTV
@@ -120,8 +121,12 @@ http://136.239.173.26:6610/001/2/ch00000090990000001152/manifest.mpd?AuthInfo=v8
 #EXTINF:-1 channel-number="43" tvg-chno="43" tvg-id="" tvg-logo="" group-title="TV",KBS World
 http://136.239.158.30:6610/001/2/ch00000090990000001353/manifest.mpd?AuthInfo=v87HD9rEhwHiAdYyrP20TsXah2%2FZLFNNIdWrVrXDMArJao%2B3Joh62iO894OkSinn2%2FjHNuou2Jtxin49X3LQKw%3D%3D&version=v1.0&BreakPoint=0&virtualDomain=001.live_hls.zte.com&programid=ch00000000000000001876&contentid=ch00000000000000001876&videoid=ch00000090990000001353&recommendtype=0&userid=1681064024103&boid=001&stbid=02%3A00%3A00%3A00%3A00%3A00&terminalflag=1&profilecode=&usersessionid=M43OJUQLPCQXXX&NeedJITP=1&JITPMediaType=DASH&JITPDRMType=NO
 
-#EXTINF:-1 channel-number="44" tvg-chno="44" tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTgfG0d-KoiqybGIrsDStbxjWjZ6mtN-155zQ&s" group-title="TV",NHK BS
-http://136.239.173.10:6610/001/2/ch00000090990000001165/manifest.mpd?AuthInfo=v87HD9rEhwHiAdYyrP20TsXah2%2FZLFNNIdWrVrXDMAqH%2B5l99GK8Rg%2FAZvU0C4flsyK4TH4mOENKJ45mwOyS0g%3D%3D&version=v1.0&BreakPoint=0&virtualDomain=001.live_hls.zte.com&programid=ch00000000000000001376&contentid=ch00000000000000001376&videoid=ch00000090990000001165&recommendtype=0&userid=1819022413813&boid=001&stbid=02%3A00%3A00%3A00%3A00%3A00&terminalflag=1&profilecode=&usersessionid=02C8ZA4KMMUKXX&NeedJITP=1&JITPMediaType=DASH&JITPDRMType=NO&IASHttpSessionId=RR20453620260101155239199069&ispcode=55
+#EXTINF:-1 channel-number="44" tvg-chno="44" tvg-id="" tvg-logo="https://i.imgur.com/eE9IBhJ.png" group-title="TV",tvN
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=e1bde543e8a140b38d3f84ace746553e:b712c4ec307300043333a6899a402c10
+https://qp-pldt-live-bpk-02-prod.akamaized.net/bpk-tv/cg_tvnpre/default/index.mpd
 
 #EXTINF:-1 channel-number="45" tvg-chno="45" tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Japan_BS10_logo.svg/3840px-Japan_BS10_logo.svg.png" group-title="TV",NHK BS 10
 http://136.239.158.30:6610/001/2/ch00000090990000001201/manifest.mpd?AuthInfo=v87HD9rEhwHiAdYyrP20TsXah2%2FZLFNNIdWrVrXDMAoc972%2B9bszPiQPXL2uIItWsyK4TH4mOENKJ45mwOyS0g%3D%3D&version=v1.0&BreakPoint=0&virtualDomain=001.live_hls.zte.com&programid=ch00000000000000001420&contentid=ch00000000000000001420&videoid=ch00000090990000001201&recommendtype=0&userid=1264262612215&boid=001&stbid=02%3A00%3A00%3A00%3A00%3A00&terminalflag=1&profilecode=&usersessionid=US5Y9RCOTWMXXX&NeedJITP=1&JITPMediaType=DASH&JITPDRMType=NO&IASHttpSessionId=RR20451420260101155239188187&ispcode=55
@@ -163,7 +168,11 @@ http://161.49.17.2:6610/001/2/ch00000090990000001335/manifest.mpd?AuthInfo=v87HD
 http://136.239.158.30:6610/001/2/ch00000090990000001144/manifest.mpd?AuthInfo=v87HD9rEhwHiAdYyrP20TsXah2%2FZLFNNIdWrVrXDMAoS213aSan0K8PDwf0g%2BPDMsyK4TH4mOENKJ45mwOyS0g%3D%3D&version=v1.0&BreakPoint=0&virtualDomain=001.live_hls.zte.com&programid=ch00000000000000001314&contentid=ch00000000000000001314&videoid=ch00000090990000001144&recommendtype=0&userid=1617976077926&boid=001&stbid=02%3A00%3A00%3A00%3A00%3A00&terminalflag=1&profilecode=&usersessionid=8D8KL1IJM8UXXX&NeedJITP=1&JITPMediaType=DASH&JITPDRMType=NO&IASHttpSessionId=RR20451420260101155238188159&ispcode=55
 
 #EXTINF:-1 channel-number="59" tvg-chno="59" tvg-id="" tvg-logo="https://cantseeus.com/wp-content/uploads/2023/10/discov.png" group-title="TV",Discovery
-https://linearjitp-playback.astro.com.my/dash-wv/linear/2510/default_ott.mpd
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=d9ac48f5131641a789328257e778ad3a:b6e67c37239901980c6e37e0607ceee6
+https://qp-pldt-live-bpk-01-prod.akamaized.net/bpk-tv/discovery/default/index.mpd
 
 #EXTINF:-1 channel-number="60" tvg-chno="60" tvg-id=" tvg-logo="https://i.imgur.com/vGEL2Ne.png" group-title="TV",Warner TV
 http://136.158.97.2:6610/001/2/ch00000090990000001096/manifest.mpd?AuthInfo=v87HD9rEhwHiAdYyrP20TsXah2%2FZLFNNIdWrVrXDMAqRhIO4pq%2FZNG%2BJhjsEpHHCsyK4TH4mOENKJ45mwOyS0g%3D%3D&version=v1.0&BreakPoint=0&virtualDomain=001.live_hls.zte.com&programid=ch00000000000000001219&contentid=ch00000000000000001219&videoid=ch00000090990000001096&recommendtype=0&userid=1960431864174&boid=001&stbid=02%3A00%3A00%3A00%3A00%3A00&terminalflag=1&profilecode=&usersessionid=JLYLAQSERX9XXX&NeedJITP=1&JITPMediaType=DASH&JITPDRMType=NO&IASHttpSessionId=RR20446220260101155237280423&ispcode=55
