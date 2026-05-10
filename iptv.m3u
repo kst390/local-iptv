@@ -1,5 +1,5 @@
 #EXTM3U url-tvg="https://epgshare01.online/epgshare01/epg_ripper_PH1.xml.gz, https://epgshare01.online/epgshare01/epg_ripper_PH2.xml.gz, https://epgshare01.online/epgshare01/epg_ripper_ID1.xml.gz, https://epgshare01.online/epgshare01/epg_ripper_MY1.xml.gz, https://epgshare01.online/epgshare01/epg_ripper_HK1.xml.gz, https://epgshare01.online/epgshare01/epg_ripper_US1.xml.gz"
-#EXTINF:-1 group-logo="https://i.imgur.com/c7CDrvS.png"
+#EXTINF:-1 group-logo=""
 
 #EXTINF:-1 channel-number=“1” tvg-chno=“1” tvg-id="" tvg-logo="" group-title="TV",TestCh001
 http://136.158.97.2:6610/001/2/ch00000090990000001416/manifest.mpd?AuthInfo=v87HD9rEhwHiAdYyrP20TsXah2%2FZLFNNIdWrVrXDMApiydQwVS6x%2ByI3x6azD4uC2%2FjHNuou2Jtxin49X3LQKw%3D%3D&version=v1.0&BreakPoint=0&virtualDomain=001.live_hls.zte.com&programid=ch00000000000000001946&contentid=ch00000000000000001946&videoid=ch00000090990000001416&recommendtype=0&userid=1190242979749&boid=001&stbid=02%3A00%3A00%3A00%3A00%3A00&terminalflag=1&profilecode=&usersessionid=OJTGYO5YNXXXXX&NeedJITP=1&JITPMediaType=DASH&JITPDRMType=NO&IASHttpSessionId=RR20449820260101155242149767&ispcode=55\
