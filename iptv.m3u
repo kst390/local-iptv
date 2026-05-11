@@ -150,8 +150,13 @@ http://136.239.159.20:6610/001/2/ch00000090990000001314/manifest.mpd?AuthInfo=v8
 #EXTINF:-1 channel-number="39" tvg-chno="39" tvg-id="" tvg-logo="https://i.imgur.com/6mNCite.png" group-title="TV", Tagalized Movie Channel
 http://136.239.159.20:6610/001/2/ch00000090990000001080/manifest.mpd?AuthInfo=v87HD9rEhwHiAdYyrP20Tg5pgSMSITY%2FHYvvCWJRp%2BrHx%2Fyl86rMkFVqtHp1NtQIytokK1MIobcue1ImXa0ZEA%3D%3D&version=v1.0&BreakPoint=0&virtualDomain=001.live_hls.zte.com&programid=ch00000000000000001153&contentid=ch00000000000000001153&videoid=ch00000090990000001080&recommendtype=0&userid=1123674387331&boid=001&stbid=02%3A00%3A00%3A00%3A00%3A00&terminalflag=1&profilecode=&usersessionid=OWFM2G9EILPXXX&NeedJITP=1&JITPMediaType=DASH&JITPDRMType=NO
 
-#EXTINF:-1 channel-number="40" tvg-chno="40" tvg-id="" tvg-logo="https://img.dge-prod.dicelaboratory.com/thumbnails/300024/1280x720/latest.jpg" group-title="TV",Tap Silog
-https://dice-live-ap.akamaized.net/hls/live/2102444/300024-321110/exchange300024wfvgj_300024_4500/chunklist.m3u8?hdntl=exp%3D1778419365~acl%3D/*~id%3Dcc211e1a-5ff5-49e6-aa37-f5cd85bde29e~data%3Dhdntl,dWlkPVRpQXc3VHwwMTg1NDI3ZS0yMTgwLTRkNDMtYjZkZi04NzgxZjQ0ZmY0MDcmaXA9MTIwLjI5Ljg3Ljc4JmV4cD0xNzc4NDE5Mzk1JmVpZD0zMDAwMjQmY2lkPWRjZS50YXBnbyZvaWQ9MzI1JnR5cGU9TElWRQ~hmac%3D1cbe4e89d718645b070dd4e9b8f46c66cf866587194bea27825fcdded2fd7df3
+#EXTINF:-1 channel-number="40" tvg-chno="40" tvg-id="KIX.ph" tvg-logo="https://i.imgur.com/B8Fmzer.png" group-title="TV",KIX
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=c9d4b7a18e2f4d6c9a103f5b7e1c2d88:7f3139092bf87d8aa51ee40e6294d376
+https://qp-pldt-live-bpk-02-prod.akamaized.net/bpk-tv/kix_hd1/default/index.mpd
+
 
 #EXTINF:-1 channel-number="41" tvg-chno="41" tvg-id="" tvg-logo="https://i.imgur.com/4JCkzjl.png" group-title="TV",Celestial Movies Pinoy
 http://136.239.159.20:6610/001/2/ch00000090990000001077/manifest.mpd?AuthInfo=v87HD9rEhwHiAdYyrP20Tg5pgSMSITY%2FHYvvCWJRp%2BrHUpvQtyXgWxpVCozt4hcgytokK1MIobcue1ImXa0ZEA%3D%3D&version=v1.0&BreakPoint=0&virtualDomain=001.live_hls.zte.com&programid=ch00000000000000001136&contentid=ch00000000000000001136&videoid=ch00000090990000001077&recommendtype=0&userid=1863800460286&boid=001&stbid=02%3A00%3A00%3A00%3A00%3A00&terminalflag=1&profilecode=&usersessionid=EJ21Z5961VKXXX&NeedJITP=1&JITPMediaType=DASH&JITPDRMType=NO
