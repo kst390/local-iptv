@@ -136,8 +136,8 @@ https://qp-pldt-live-bpk-02-prod.akamaized.net/bpk-tv/cg_hbosign/default/index.m
 #KODIPROP:inputstream.adaptive.license_key=872910c843294319800d85f9a0940607:f79fd895b79c590708cf5e8b5c6263be
 https://qp-pldt-live-bpk-02-prod.akamaized.net/bpk-tv/cg_hbofam/default/index.mpd
 
-#EXTINF:-1 channel-number="37" tvg-chno="37" tvg-id="BLASTMOVIES.ph" tvg-logo="https://s3.ap-southeast-1.amazonaws.com/epg.tapdmv.com/blastmovies.png" group-title="Movies",Blast Movies
-https://amg19223-amg19223c7-amgplt0351.playout.now3.amagi.tv/playlist/amg19223-amg19223c7-amgplt0351/playlist.m3u8
+#EXTINF:-1 channel-number="37" tvg-chno="37" tvg-id="Celestial.Classic.Movies.my" tvg-logo="https://console.celestialtiger.com/images/upload/33c6ce3020b60990be738fdbedc3b8a40980763c.png" group-title="Movies",CCM Celestial Classic Movies
+http://136.239.158.18:6610/001/2/ch00000090990000001244/manifest.mpd?AuthInfo=v87HD9rEhwHiAdYyrP20Tg5pgSMSITY%2FHYvvCWJRp%2Bp8jImOa2AKrqwa1m%2FJfhceytokK1MIobcue1ImXa0ZEA%3D%3D&version=v1.0&BreakPoint=0&virtualDomain=001.live_hls.zte.com&programid=ch00000000000000001544&contentid=ch00000000000000001544&videoid=ch00000090990000001244&recommendtype=0&userid=1537952098663&boid=001&stbid=02%3A00%3A00%3A00%3A00%3A00&terminalflag=1&profilecode=&usersessionid=WEF0S27HC1HXXX&NeedJITP=1&JITPMediaType=DASH&JITPDRMType=NO
 
 #EXTINF:-1 channel-number="38" tvg-chno="38" tvg-id="CLTV36.ph" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/4/48/Cl_tv_36_ph.png" group-title="Local",CLTV36
 http://136.239.159.20:6610/001/2/ch00000090990000001314/manifest.mpd?AuthInfo=v87HD9rEhwHiAdYyrP20Tg5pgSMSITY%2FHYvvCWJRp%2Bp7Iya5QVRTA1RELFN4tQIJytokK1MIobcue1ImXa0ZEA%3D%3D&version=v1.0&BreakPoint=0&virtualDomain=001.live_hls.zte.com&programid=ch00000000000000001814&contentid=ch00000000000000001814&videoid=ch00000090990000001314&recommendtype=0&userid=1863730940752&boid=001&stbid=02%3A00%3A00%3A00%3A00%3A00&terminalflag=1&profilecode=&usersessionid=689D0763BF7XXX&NeedJITP=1&JITPMediaType=DASH&JITPDRMType=NO
@@ -156,7 +156,7 @@ http://136.239.159.20:6610/001/2/ch00000090990000001263/manifest.mpd?AuthInfo=v8
 #KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Linux; Android 13; UltraBox Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML,like Gecko) Version/4.0 Chrome/136.0.7103.61 Mobile Safari/537.36
 https://linearjitp-playback.astro.com.my/dash-wv/linear/2305/default_ott.mpd
 
-#EXTINF:-1 channel-number="42" tvg-chno="42" tvg-id="" tvg-logo="https://cms.cignal.tv/Upload/Thumbnails/mo-macau-lotus-tv-3757.png" group-title="Movies",Lotus Macao
+#EXTINF:-1 channel-number="42" tvg-chno="42" tvg-id="" tvg-logo="https://cms.cignal.tv/Upload/Thumbnails/mo-macau-lotus-tv-3757.png" group-title="Movies",Lotus Macau
 http://136.239.159.20:6610/001/2/ch00000090990000001196/manifest.mpd?AuthInfo=v87HD9rEhwHiAdYyrP20Tg5pgSMSITY%2FHYvvCWJRp%2BrUraXHxRLZkchi69sJ%2B10xytokK1MIobcue1ImXa0ZEA%3D%3D&version=v1.0&BreakPoint=0&virtualDomain=001.live_hls.zte.com&programid=ch00000000000000001400&contentid=ch00000000000000001400&videoid=ch00000090990000001196&recommendtype=0&userid=1065444060343&boid=001&stbid=02%3A00%3A00%3A00%3A00%3A00&terminalflag=1&profilecode=&usersessionid=9JQRNS5OZKWXXX&NeedJITP=1&JITPMediaType=DASH&JITPDRMType=NO
 
 #EXTINF:-1 channel-number="43" tvg-chno="43" tvg-id="tvN.Movies.HD.my" tvg-logo="https://i.imgur.com/c4XvwO2.png" group-title="Movies",tvN Movies
