@@ -277,8 +277,8 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/604/default_ott.mpd
 
 
 **********FM Radio**********
-#EXTINF:-1 group-logo="https://upload.wikimedia.org/wikipedia/commons/4/47/FMRadio_Philippines.png"
-
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/15/MOR_Entertainment_logo.png" group-title="Live Radio",MOR Entertainment (ABS-CBN)
 https://stream-289.zeno.fm/0ha8ftewqp8uv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiIwaGE4ZnRld3FwOHV2IiwiaG9zdCI6InN0cmVhbS0yODkuemVuby5mbSIsInJ0dGwiOjUsImp0aSI6Im4weUYxOFhMUUNpZ3RGNmRiM0FCT1EiLCJpYXQiOjE3Nzg5MjEwNDYsImV4cCI6MTc3ODkyMTEwNn0.38gcTiir085KN2juW8cSO1vUCGXkdfTEVuWENqYTNgg&aw_0_req_lsid=6539a79957fbed1bacb897ce9ddc7c00
 
+#EXTINF:-1 tvg-logo="https://static.mytuner.mobi/media/tvos_radios/216/dwtm-magic-899-fm.dd9f5d41.png" group-title="Live Radio",89.9 Magic
+https://stream.zeno.fm/sh37pvfd938uv
