@@ -96,7 +96,7 @@ http://136.239.173.2:6610/001/2/ch00000090990000001087/manifest.mpd?AuthInfo=v87
 #EXTINF:-1 channel-number="28" tvg-chno="28" tvg-id="CNN.HD.my" tvg-logo="http://115.146.176.131:80/images/2acf9495fde07739914e7a7bb3ffee94.png" group-title="News",CNN
 https://turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_0_3564000.m3u8
 
-#EXTINF:-1 channel-number="29" tvg-chno="29" tvg-id="MOVIEBOX.ph" tvg-logo="https://i.imgur.com/b4rjf8n.png" group-title="Movies",MovieBox
+#EXTINF:-1 channel-number="29" tvg-chno="29" tvg-id="MOVIE.BOX.ph" tvg-logo="https://i.imgur.com/b4rjf8n.png" group-title="Movies",MovieBox
 https://3rsmoviebox.elektriko4444.workers.dev/moon.m3u8
 
 #EXTINF:-1 channel-number="30" tvg-chno="30" tvg-id=TAPMOVIES.ph" tvg-logo="https://i.imgur.com/3RVA5mV.png" group-title="Movies",Tap Movies
