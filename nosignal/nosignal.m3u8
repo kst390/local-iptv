@@ -3,5 +3,5 @@
 #EXT-X-TARGETDURATION:10
 #EXT-X-MEDIA-SEQUENCE:0
 #EXTINF:10.000000,
-nosignal0.ts
+https://github.com/kst390/local-iptv/raw/refs/heads/main/nosignal/nosignal0.ts
 #EXT-X-ENDLIST
