@@ -3,5 +3,5 @@
 #EXT-X-TARGETDURATION:10
 #EXT-X-MEDIA-SEQUENCE:0
 #EXTINF:10.000000,
-nba3-to-530.ts
+https://github.com/kst390/local-iptv/raw/62702d27760bdc71c4eb953aca26b53af8f17ca9/nba3-to-530.ts
 #EXT-X-ENDLIST
