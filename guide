@@ -1,14 +1,92 @@
 GUIDE FOR IPTV:
 #EXTINF:-1 ch-number="" tvg-chno="" tvg-id=".ph" tvg-logo="" group-title="Live TV",
 
-CHANNEL LIST
-1 - Special / PPV
-2 - Kapamilya Channel
-3
-4 - PTV-4
-5 - TV5
-6 - True TV
-7 - GMA
-8 - GTV
-9 - RPTV
-10 - 
+LOCAL
+1 Special / PPV
+2 Kapamilya Channel
+3 Special2 / PPV2
+4 PTV-4
+5 TV5
+6 True TV
+7 GMA
+8 GTV
+9 RPTV
+10 Kapatid
+11 A2Z
+12 Jeepney
+13 IBC 13
+14 PBO
+15 VivaCinema
+16 CineMo
+17 Cinema One
+18 Knowledge Channel
+19 DZMM TeleRadyo
+20 ANC
+21 One News
+22 One PH
+23 Aliw 23
+24 CNA
+25 Net25
+26 MYX
+27 ALLTV
+28 CNN
+29 BBC News (http://136.239.158.30:6610/001/2/ch00000090990000001095/manifest.mpd?AuthInfo=v87HD9rEhwHiAdYyrP20TsXah2%2FZLFNNIdWrVrXDMAqx1PFsBS2oDQ%2F0bDb4P2SmsyK4TH4mOENKJ45mwOyS0g%3D%3D&version=v1.0&BreakPoint=0&virtualDomain=001.live_hls.zte.com&programid=ch00000000000000001218&contentid=ch00000000000000001218&videoid=ch00000090990000001095&recommendtype=0&userid=1001363869638&boid=001&stbid=02%3A00%3A00%3A00%3A00%3A00&terminalflag=1&profilecode=&usersessionid=MC1HG0HEY2EXXX&NeedJITP=1&JITPMediaType=DASH&JITPDRMType=NO&IASHttpSessionId=RR20448220260101155237082552&ispcode=55)
+
+
+MOVIES
+30 Tap Movies
+31 Tap Action Flix
+32 HBO
+33 CineMax
+34 HBO Hits
+35 HBO Signature
+36 HBO Family
+37 MovieBox
+38 HITS Movies
+39 
+
+
+WESTERN
+40 Tap TV
+41 Tap Edge
+42 HITS
+43 AXN
+44 Warner TV
+45 Discovery
+46 History
+47 Crime+Investigation
+48 Animal Planet
+49 BBC Earth
+
+SPORTS
+50 Solar Sports
+51 One Sports
+52 One Sports+
+53 NBA TV Philippines
+54 PBA Rush
+55 UAAP Varsity
+56 Tap Sports
+57 Premier Sports
+58 Premier Sports 2
+59 SPOTV
+
+LIFESTYLE
+60 Metro
+61 Lifetime
+62 Food Network
+63 Outdoor Channel
+
+KIDS
+66 Cartoon Network
+67 Cartoonito
+68 Nickelodeon
+69 Moonbug
+
+ASIAN (KOREAN)
+70 KIX
+71 KBS World
+72 tvN Movies
+73 tvN Asia
+74 MNet
+75 Animax
+
