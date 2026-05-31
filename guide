@@ -24,14 +24,13 @@ LOCAL
 20 ANC
 21 One News
 22 One PH
-23 Aliw 23
+23 Bilyonaryo
 24 CNA
 25 Net25
 26 MYX
 27 ALLTV
 28 CNN
-29 BBC News (http://136.239.158.30:6610/001/2/ch00000090990000001095/manifest.mpd?AuthInfo=v87HD9rEhwHiAdYyrP20TsXah2%2FZLFNNIdWrVrXDMAqx1PFsBS2oDQ%2F0bDb4P2SmsyK4TH4mOENKJ45mwOyS0g%3D%3D&version=v1.0&BreakPoint=0&virtualDomain=001.live_hls.zte.com&programid=ch00000000000000001218&contentid=ch00000000000000001218&videoid=ch00000090990000001095&recommendtype=0&userid=1001363869638&boid=001&stbid=02%3A00%3A00%3A00%3A00%3A00&terminalflag=1&profilecode=&usersessionid=MC1HG0HEY2EXXX&NeedJITP=1&JITPMediaType=DASH&JITPDRMType=NO&IASHttpSessionId=RR20448220260101155237082552&ispcode=55)
-
+29 CLTV36
 
 MOVIES
 30 Tap Movies
@@ -74,14 +73,15 @@ LIFESTYLE
 60 Metro
 61 Lifetime
 62 Food Network
-63 Outdoor Channel
+63 Travel Channel
 
 KIDS
+64 Dreamworks
 65 Cartoon Network
 66 Cartoonito
-67 Boomerang
-68 Nickelodeon
-69 Nick Jr
+67 Nickelodeon
+68 Nick Jr
+69 Moonbug
 
 ASIAN (KOREAN)
 70 KIX
