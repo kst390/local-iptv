@@ -351,7 +351,7 @@ http://136.239.159.20:6610/001/2/ch00000090990000001263/manifest.mpd?AuthInfo=v8
 #KODIPROP:inputstream.adaptive.license_key=22ff2347107e4871aa423bea9c2bd363:c6e7ba2f48b3a3b8269e8bc360e60404
 https://qp-pldt-live-bpk-02-prod.akamaized.net/bpk-tv/kbsworld/default/index.mpd
 
-#EXTINF:-1 ch-number="72" tvg-id="tvN.hk" tvg-logo="https://i.imgur.com/eE9IBhJ.png" group-title="Live TV",tvN Asia
+#EXTINF:-1 ch-number="72" tvg-id="tvN.hk" tvg-logo="https://i.imgur.com/gc3Kf0Q.png" group-title="Live TV",tvN Asia
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
