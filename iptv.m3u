@@ -367,9 +367,18 @@ https://qp-pldt-live-bpk-02-prod.akamaized.net/bpk-tv/cg_tvnpre/default/index.mp
 https://linearjitp-playback.astro.com.my/dash-wv/linear/2406/default_ott.mpd
 
 #EXTINF:-1 ch-number="74" tvg-id="MNet.kr" tvg-logo="https://image.tving.com/upload/cms/caic/CAIC1400/C00579.png" group-title="Live TV",MNet Korea
-ttp://mnet.x10.mx/mnet.m3u8
+http://mnet.x10.mx/mnet.m3u8
 
-#EXTINF:-1 ch-number="75" tvg-id="Animax.hk" tvg-logo="https://i.imgur.com/MiUDLVa.png" group-title="Live TV",Animax
+#EXTINF:-1 ch-number="75" tvg-id="M2" tvg-id="M2.kr" tvg-logo="https://i.ibb.co/xtM0XJJ2/image.png" group-title="Live TV",M2
+https://cc-rc3dzkm6l1xpq.akamaized.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-rc3dzkm6l1xpq/AMCJ/CJENM/KRBC3200023BG/playlist.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.ssai_vendor=SSSLIVE&ads.afsdk_params=%7BAFSDK_VALUE%7D&ads.service_id=KRBC3200023BG
+
+#EXTINF:-1 ch-number="76" tvg-id="" tvg-logo="http://image.tving.com/upload/cms/caic/CAIC1600/C43342.png" group-title="Live TV",SBS The Kpop
+http://mnet.x10.mx/koreaiptv/gorealra.php?channelPath=sbskpop&streamName=sbskpop2
+
+#EXTINF:-1 ch-number="77" tvg-id="SBS.kr" tvg-logo="http://image.tving.com/public_v4/portal/images/smr/logo_sbs.png" group-title="Live TV",SBS
+http://mnet.x10.mx/koreaiptv/gorealra.php?channelPath=sbsch6&streamName=sbsch61
+
+#EXTINF:-1 ch-number="78" tvg-id="Animax.hk" tvg-logo="https://i.imgur.com/MiUDLVa.png" group-title="Live TV",Animax
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
@@ -382,8 +391,8 @@ https://qp-pldt-live-bpk-02-prod.akamaized.net/bpk-tv/cg_animax_sd_new/default/i
 
 
 **********FM Radio**********
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/15/MOR_Entertainment_logo.png" group-title="Live Radio",MOR Entertainment (ABS-CBN)
+#EXTINF:-1 type="radio" tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/15/MOR_Entertainment_logo.png" group-title="Live Radio",MOR Entertainment (ABS-CBN)
 https://stream-289.zeno.fm/0ha8ftewqp8uv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiIwaGE4ZnRld3FwOHV2IiwiaG9zdCI6InN0cmVhbS0yODkuemVuby5mbSIsInJ0dGwiOjUsImp0aSI6Im4weUYxOFhMUUNpZ3RGNmRiM0FCT1EiLCJpYXQiOjE3Nzg5MjEwNDYsImV4cCI6MTc3ODkyMTEwNn0.38gcTiir085KN2juW8cSO1vUCGXkdfTEVuWENqYTNgg&aw_0_req_lsid=6539a79957fbed1bacb897ce9ddc7c00
 
-#EXTINF:-1 tvg-logo="https://static.mytuner.mobi/media/tvos_radios/216/dwtm-magic-899-fm.dd9f5d41.png" group-title="Live Radio",89.9 Magic
+#EXTINF:-1 type="radio" tvg-logo="https://static.mytuner.mobi/media/tvos_radios/216/dwtm-magic-899-fm.dd9f5d41.png" group-title="Live Radio",89.9 Magic
 https://stream.zeno.fm/sh37pvfd938uv
