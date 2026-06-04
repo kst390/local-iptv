@@ -103,8 +103,8 @@ http://136.239.158.10:6610/001/2/ch00000090990000001179/manifest.mpd?AuthInfo=v8
 #KODIPROP:inputstream.adaptive.license_key=900c43f0e02742dd854148b7a75abbec:da315cca7f2902b4de23199718ed7e90
 https://qp-pldt-live-bpk-02-prod.akamaized.net/bpk-tv/cg_cnnhd/default/index.mpd
 
-#EXTINF:-1 ch-number="29" tvg-id=" tvg-logo="" group-title="Live Television",CLTV
-https://video.gumlet.io/66fc268e39995a2b6ce85ae3/66fc28d639995a2b6ce8640e/main.m3u8
+#EXTINF:-1 ch-number="29" tvg-id=" tvg-logo="" group-title="Live Television",GMA News Livestream
+https://utube.cocker-tk.workers.dev/UCqYw-CTd1dU2yGI71sEyqNw/master.m3u8
 
 #EXTINF:-1 ch-number="30" tvg-id=TAPMOVIES.ph" tvg-logo="https://i.imgur.com/3RVA5mV.png" group-title="Live Television",Tap Movies
 #KODIPROP:inputstreamaddon=inputstream.adaptive
@@ -385,3 +385,6 @@ https://stream-289.zeno.fm/0ha8ftewqp8uv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiI
 
 #EXTINF:-1 type="radio" tvg-logo="https://static.mytuner.mobi/media/tvos_radios/216/dwtm-magic-899-fm.dd9f5d41.png" group-title="Live Radio",89.9 Magic
 https://stream.zeno.fm/sh37pvfd938uv
+
+#EXTINF:-1 type="radio" group-title="Live Radio",Dummy
+https://video.gumlet.io/66fc268e39995a2b6ce85ae3/66fc28d639995a2b6ce8640e/main.m3u8
