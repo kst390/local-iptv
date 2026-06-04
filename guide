@@ -4,6 +4,9 @@ GUIDE FOR IPTV:
 #EXTINF:-1 ch-number="3" codec="soft_vlc,auto" tvg-id="" tvg-logo="" group-title="Live Television",CH003
 https://github.com/kst390/local-iptv/raw/refs/heads/main/nba3-to-53.m3u8
 
+#EXTINF:-1 ch-number="3" tvg-logo="https://i.imgur.com/uALGz0s.png" group-title="Live Television",Kapamilya Online Live
+https://utube.cocker-tk.workers.dev/UCqYw-UCstEtN0pgOmCf02EdXsGChw/master.m3u8
+
 LOCAL
 1 Special / PPV
 2 Kapamilya Channel
