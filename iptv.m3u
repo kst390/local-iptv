@@ -6,6 +6,9 @@ http://136.239.173.2:6610/001/2/ch00000090990000001339/manifest.mpd?AuthInfo=v87
 #EXTINF:-1 ch-number="2" tvg-id="Kapamilya.Channel.ph" tvg-logo="https://i.imgur.com/clvKHdZ.png" group-title="Live Television",Kapamilya Channel
 https://cignalplaymaxphcorner.vwgsalvador.workers.dev/conv_local_kapamilya_channel_hd/cplaymax/playlist.m3u8
 
+#EXTINF:-1 ch-number="3" tvg-logo="https://i.imgur.com/uALGz0s.png" group-title="Live Television",Kapamilya Online Live
+https://utube.cocker-tk.workers.dev/UCqYw-UCstEtN0pgOmCf02EdXsGChw/master.m3u8
+
 #EXTINF:-1 ch-number="4" tvg-id="PTV.ph" tvg-logo="https://static.wikia.nocookie.net/russel/images/d/dc/PTV_4_Para_Sa_Bayan_Alternative_Logo_June_2017.png" group-title="Live Television",PTV
 http://136.239.173.26:6610/001/2/ch00000090990000001086/manifest.mpd?AuthInfo=v87HD9rEhwHiAdYyrP20Tg5pgSMSITY%2FHYvvCWJRp%2BogpxrMDVv1bZ%2FeMkgHZmwQytokK1MIobcue1ImXa0ZEA%3D%3D&version=v1.0&BreakPoint=0&virtualDomain=001.live_hls.zte.com&programid=ch00000000000000001175&contentid=ch00000000000000001175&videoid=ch00000090990000001086&recommendtype=0&userid=1252187837705&boid=001&stbid=02%3A00%3A00%3A00%3A00%3A00&terminalflag=1&profilecode=&usersessionid=I0ZZE3KB7BIXXX&NeedJITP=1&JITPMediaType=DASH&JITPDRMType=NO
 
@@ -47,10 +50,10 @@ https://abslive.akamaized.net/dash/live/2027618/jeepneytv/manifest.mpd
 #EXTINF:-1 ch-number="13" tvg-id="IBC.TV.13.ph" tvg-logo="https://ibctv13.com/wp-content/uploads/2024/06/ibc-logo-updated_1.webp" group-title="Live Television",IBC 13
 http://136.239.159.20:6610/001/2/ch00000090990000001089/manifest.mpd?AuthInfo=v87HD9rEhwHiAdYyrP20TsXah2%2FZLFNNIdWrVrXDMAo0mldwqx%2BTfpKT3KIgGit9syK4TH4mOENKJ45mwOyS0g%3D%3D&version=v1.0&BreakPoint=0&virtualDomain=001.live_hls.zte.com&programid=ch00000000000000001216&contentid=ch00000000000000001216&videoid=ch00000090990000001089&recommendtype=0&userid=1773865046699&boid=001&stbid=02%3A00%3A00%3A00%3A00%3A00&terminalflag=1&profilecode=&usersessionid=HCPD4Q2RTHUXXX&NeedJITP=1&JITPMediaType=DASH&JITPDRMType=NO&IASHttpSessionId=RR20448620260101155237367182&ispcode=55
 
-#EXTINF:-1 ch-number="14" tvg-shift="2" tvg-id="PinoyBoxOffice.ph" tvg-logo="https://i.imgur.com/61fHpnW.png" group-title="Live Television",PBO
+#EXTINF:-1 ch-number="14" tvg-shift="2" tvg-id="PBO.ph" tvg-logo="https://i.imgur.com/61fHpnW.png" group-title="Live Television",PBO
 http://136.239.173.10:6610/001/2/ch00000090990000001078/manifest.mpd?AuthInfo=v87HD9rEhwHiAdYyrP20Tg5pgSMSITY%2FHYvvCWJRp%2Bq9SZLE5HgafIcQ2VcLQB9EytokK1MIobcue1ImXa0ZEA%3D%3D&version=v1.0&BreakPoint=0&virtualDomain=001.live_hls.zte.com&programid=ch00000000000000001137&contentid=ch00000000000000001137&videoid=ch00000090990000001078&recommendtype=0&userid=1302493816250&boid=001&stbid=02%3A00%3A00%3A00%3A00%3A00&terminalflag=1&profilecode=&usersessionid=52Y01DLD7HXXXX&NeedJITP=1&JITPMediaType=DASH&JITPDRMType=NO
 
-#EXTINF:-1 ch-number="15" tvg-shift="2" tvg-id="VivaCinema.ph" tvg-logo="https://static.wikia.nocookie.net/tvfanon6528/images/2/2f/Viva_Cinema_%282021-.n.v.%29.png" group-title="Live Television",Viva Cinema
+#EXTINF:-1 ch-number="15" tvg-shift="2" tvg-id="VIVA.Cinema.ph" tvg-logo="https://static.wikia.nocookie.net/tvfanon6528/images/2/2f/Viva_Cinema_%282021-.n.v.%29.png" group-title="Live Television",Viva Cinema
 http://136.239.158.18:6610/001/2/ch00000090990000001079/manifest.mpd?AuthInfo=v87HD9rEhwHiAdYyrP20Tg5pgSMSITY%2FHYvvCWJRp%2BoglCgy7TAZamPXsCV8PgebytokK1MIobcue1ImXa0ZEA%3D%3D&version=v1.0&BreakPoint=0&virtualDomain=001.live_hls.zte.com&programid=ch00000000000000001138&contentid=ch00000000000000001138&videoid=ch00000090990000001079&recommendtype=0&userid=1897516127558&boid=001&stbid=02%3A00%3A00%3A00%3A00%3A00&terminalflag=1&profilecode=&usersessionid=1Z8S6AOLQ8XXXX&NeedJITP=1&JITPMediaType=DASH&JITPDRMType=NO
 
 #EXTINF:-1 ch-number="16" tvg-id="CineMo.ph" tvg-logo="https://static.wikia.nocookie.net/russel/images/f/f2/Cine_Mo%21_3D_Logo_2011.png" group-title="Live Television",CineMo!
@@ -66,7 +69,7 @@ http://136.158.97.2:6610/001/2/ch00000090990000001283/manifest.mpd?AuthInfo=v87H
 #KODIPROP:inputstream.adaptive.license_key=c7d2b1e94f8a4d6c8a106b3d1f9c2e55:2052f6b844aa53144bb32f0e41295106
 https://qp-pldt-live-bpk-01-prod.akamaized.net/bpk-tv/knowledge_channel/default/index.mpd
 
-#EXTINF:-1 ch-number="19" tvg-id="" tvg-logo="https://i.imgur.com/npj41pk.png" group-title="Live Television",DZMM Teleradyo
+#EXTINF:-1 ch-number="19" tvg-logo="https://i.imgur.com/npj41pk.png" group-title="Live Television",DZMM Teleradyo
 http://136.239.159.20:6610/001/2/ch00000090990000001249/manifest.mpd?AuthInfo=v87HD9rEhwHiAdYyrP20Tg5pgSMSITY%2FHYvvCWJRp%2Br70JxlZHE85iqqUwY%2BlbxPytokK1MIobcue1ImXa0ZEA%3D%3D&version=v1.0&BreakPoint=0&virtualDomain=001.live_hls.zte.com&programid=ch00000000000000001585&contentid=ch00000000000000001585&videoid=ch00000090990000001249&recommendtype=0&userid=1574307143185&boid=001&stbid=02%3A00%3A00%3A00%3A00%3A00&terminalflag=1&profilecode=&usersessionid=8MHILOPG9AVXXX&NeedJITP=1&JITPMediaType=DASH&JITPDRMType=NO
 
 #EXTINF:-1 ch-number="20" tvg-id="ANC.ph" tvg-logo="https://i.imgur.com/Bcu69bU.png" group-title="Live Television",ANC
@@ -100,7 +103,7 @@ http://136.239.158.10:6610/001/2/ch00000090990000001179/manifest.mpd?AuthInfo=v8
 #KODIPROP:inputstream.adaptive.license_key=900c43f0e02742dd854148b7a75abbec:da315cca7f2902b4de23199718ed7e90
 https://qp-pldt-live-bpk-02-prod.akamaized.net/bpk-tv/cg_cnnhd/default/index.mpd
 
-#EXTINF:-1 ch-number="29" tvg-id=" tvg-logo="" group-title="Live Television",GMA News Livestream
+#EXTINF:-1 ch-number="29" tvg-logo="https://i.imgur.com/HOfns7Q.png" group-title="Live Television",GMA News Bulletin
 https://utube.cocker-tk.workers.dev/UCqYw-CTd1dU2yGI71sEyqNw/master.m3u8
 
 #EXTINF:-1 ch-number="30" tvg-id=TAPMOVIES.ph" tvg-logo="https://i.imgur.com/3RVA5mV.png" group-title="Live Television",Tap Movies
@@ -291,7 +294,7 @@ http://136.158.97.2:6610/001/2/ch00000090990000001267/manifest.mpd?AuthInfo=v87H
 #KODIPROP:inputstream.adaptive.license_key=cf861d26e7834166807c324d57df5119:64a81e30f6e5b7547e3516bbf8c647d0
 https://qp-pldt-live-bpk-02-prod.akamaized.net/bpk-tv/dr_lifetime/default/index.mpd
 
-#EXTINF:-1 ch-number="62" tvg-id="Food.Network.hk" tvg-logo="https://i.imgur.com/vucZeKB.png" group-title="Live Television", Food Network
+#EXTINF:-1 ch-number="62" tvg-shift="2" tvg-id="Food.Network.hk" tvg-logo="https://i.imgur.com/vucZeKB.png" group-title="Live Television", Food Network
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
