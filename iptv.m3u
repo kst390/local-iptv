@@ -6,9 +6,6 @@ http://136.239.173.2:6610/001/2/ch00000090990000001339/manifest.mpd?AuthInfo=v87
 #EXTINF:-1 ch-number="2" tvg-id="Kapamilya.Channel.ph" tvg-logo="https://i.imgur.com/clvKHdZ.png" group-title="Live Television",Kapamilya Channel
 https://cignalplaymaxphcorner.vwgsalvador.workers.dev/conv_local_kapamilya_channel_hd/cplaymax/playlist.m3u8
 
-#EXTINF:-1 ch-number="3" tvg-logo="https://i.imgur.com/uALGz0s.png" group-title="Live Television",Kapamilya Online Live
-https://utube.cocker-tk.workers.dev/UCqYw-UCstEtN0pgOmCf02EdXsGChw/master.m3u8
-
 #EXTINF:-1 ch-number="4" tvg-id="PTV.ph" tvg-logo="https://static.wikia.nocookie.net/russel/images/d/dc/PTV_4_Para_Sa_Bayan_Alternative_Logo_June_2017.png" group-title="Live Television",PTV
 http://136.239.173.26:6610/001/2/ch00000090990000001086/manifest.mpd?AuthInfo=v87HD9rEhwHiAdYyrP20Tg5pgSMSITY%2FHYvvCWJRp%2BogpxrMDVv1bZ%2FeMkgHZmwQytokK1MIobcue1ImXa0ZEA%3D%3D&version=v1.0&BreakPoint=0&virtualDomain=001.live_hls.zte.com&programid=ch00000000000000001175&contentid=ch00000000000000001175&videoid=ch00000090990000001086&recommendtype=0&userid=1252187837705&boid=001&stbid=02%3A00%3A00%3A00%3A00%3A00&terminalflag=1&profilecode=&usersessionid=I0ZZE3KB7BIXXX&NeedJITP=1&JITPMediaType=DASH&JITPDRMType=NO
 
@@ -102,9 +99,6 @@ http://136.239.158.10:6610/001/2/ch00000090990000001179/manifest.mpd?AuthInfo=v8
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=900c43f0e02742dd854148b7a75abbec:da315cca7f2902b4de23199718ed7e90
 https://qp-pldt-live-bpk-02-prod.akamaized.net/bpk-tv/cg_cnnhd/default/index.mpd
-
-#EXTINF:-1 ch-number="29" tvg-logo="https://i.imgur.com/HOfns7Q.png" group-title="Live Television",GMA News Bulletin
-https://utube.cocker-tk.workers.dev/UCqYw-CTd1dU2yGI71sEyqNw/master.m3u8
 
 #EXTINF:-1 ch-number="30" tvg-id=TAPMOVIES.ph" tvg-logo="https://i.imgur.com/3RVA5mV.png" group-title="Live Television",Tap Movies
 #KODIPROP:inputstreamaddon=inputstream.adaptive
