@@ -130,20 +130,29 @@ KIDS
 95 Cartoon Network
 96 Dreamworks
 
-ASIAN
+PAN-ASIAN
 97 Animax
-98 NHK BS
-99 NHK BSP4K
-100 BS10
-101 KIX
-102 Hallypop
-103 K-Plus
-104 KBS World
-105 tvN Asia
-106 tvN Movies
-107 CJ ENM
+98 Aniplus
+99 KIX
+100 Hallypop
+101 K-Plus
+102 KBS World
+103 tvN Asia
+104 tvN Movies
+105 CJ ENM
 
-KOREAN
+JAPAN
+120 NHK BS
+121 NHK BSP4K
+122 BS Nittele
+123 BS10
+124 WOWOW Prime
+125 WOWOW Live
+126 WOWOW Cinema
+127 WOWOW Plus
+128 The Cinema
+
+KOREA
 206 SBS
 207 KBS2
 209 KBS1
