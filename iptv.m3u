@@ -477,10 +477,16 @@ https://d50a1g0nh14ou.cloudfront.net/e91c6419_2e45_4f6c_a646_b912658d73b8/hls/ma
 
 ***** KOREA *****
 
-#EXTINF:-1 ch-number="221" tvg-id="Mnet.kr" tvg-logo="https://image.tving.com/upload/cms/caic/CAIC1400/C00579.png" group-title="Live Television",MNet
+#EXTINF:-1 ch-number="221" tvg-id="Mnet.kr" tvg-logo="https://image.tving.com/upload/cms/caic/CAIC1400/C00579.png" group-title="Korea",MNet
 http://mnet.x10.mx/mnet.m3u8
 
 
+***** SPECIAL BROADCASTS *****
+#EXTINF:-1 ch-number="301" tvg-id="WWE-Live" tvg-logo="https://i.imgur.com/PbENHJw.png" group-title="Special / Limited runtime",WWE
+https://wwe.warm98.workers.dev/playlist.m3u8
+
+#EXTINF:-1 ch-number="302" tvg-id="NBA-Live" tvg-logo="https://content.sportslogos.net/logos/6/6662/full/-nba-finals-logo-primary-dark-2026-666267372026.png" group-title="Special / Limited runtime",NBA Finals
+http://cdn.djdoolky76.net/nbalp/nbafinalsyay.m3u
 
 
 ***** RADIO STATIONS *****
