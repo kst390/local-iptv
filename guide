@@ -119,7 +119,7 @@ NEWS
 86 Channel News Asia
 87 Al Jazeera
 88 CGTN
-89 CGTN Documentaries
+89 ABC Australia
 90 NHK World Japan
 91 Arirang
 
@@ -142,17 +142,6 @@ PAN-ASIAN
 105 tvN Movies
 106 CJ ENM
 
-JAPAN
-120 NHK BS
-121 NHK BSP4K
-122 BS Nittele
-123 BS10
-124 WOWOW Prime
-125 WOWOW Live
-126 WOWOW Cinema
-127 WOWOW Plus
-128 The Cinema
-
 KOREA
 206 SBS
 207 KBS2
@@ -170,8 +159,20 @@ KOREA
 226 MBC every1
 228 tvN Show
 
+JAPAN
+270 NHK BS
+271 NHK BSP4K
+272 BS Nittele
+273 BS10
+274 WOWOW Prime
+275 WOWOW Live
+276 WOWOW Cinema
+277 WOWOW Plus
+278 The Cinema
+
 SPECIAL BROADCASTS
 300 Special Broadcast
-301 WWE (https://wwe.warm98.workers.dev/playlist.m3u8)
-302 FIFA
+301 WWE
+302 NBA
+303 FIFA
 310 2028 Olympics
