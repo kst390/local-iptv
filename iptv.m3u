@@ -1,13 +1,11 @@
-#EXTM3U billed-msg="IPTV: Internet Protocol Television" 
+#EXTM3U billed-msg="NOTE: Channels are streamed over internet. Ensure stable internet connection." 
 #EXTM#U url-tvg="https://epgshare01.online/epgshare01/epg_ripper_PH2.xml.gz,https://iptv-epg.org/files/epg-ph.xml.gz,https://epgshare01.online/epgshare01/epg_ripper_HK1.xml.gz,https://epgshare01.online/epgshare01/epg_ripper_MY1.xml.gz,https://iptv-epg.org/files/epg-kr.xml.gz"
 
 #EXTINF:-1 ch-number="99" tvg-logo="https://fiberx.convergeict.com/_ipx/_/white-logo.png" group-title="Live Television",Converge Advisory Channel
 http://136.239.173.2:6610/001/2/ch00000090990000001339/manifest.mpd?AuthInfo=v87HD9rEhwHiAdYyrP20TsXah2%2FZLFNNIdWrVrXDMArIns6uYH1PmyGMLXykGGlJ2%2FjHNuou2Jtxin49X3LQKw%3D%3D&version=v1.0&BreakPoint=0&virtualDomain=001.live_hls.zte.com&programid=ch00000000000000001830&contentid=ch00000000000000001830&videoid=ch00000090990000001339&recommendtype=0&userid=1484278731567&boid=001&stbid=02%3A00%3A00%3A00%3A00%3A00&terminalflag=1&profilecode=&usersessionid=0BULWC8LCNH8XX&NeedJITP=1&JITPMediaType=DASH&JITPDRMType=NO&IASHttpSessionId=RR20448620260101155241367240&ispcode=55
 
 #EXTINF:-1 ch-number="2" tvg-id="Kapamilya.Channel.ph" tvg-logo="https://i.imgur.com/clvKHdZ.png" group-title="Live Television",Kapamilya Channel
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=bd17afb5dc9648a39be79ee3634dd4b8:b475084a1a58857e18480e30fbb0e544
-https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01006-abs-cbn-kapcha-dash-abscbnono/index.mpd
+https://cignalplaymaxphcorner.vwgsalvador.workers.dev/conv_local_kapamilya_channel_hd/cplaymax/playlist.m3u8
 
 #EXTINF:-1 ch-number="4" tvg-id="PTV.ph" tvg-logo="https://static.wikia.nocookie.net/russel/images/d/dc/PTV_4_Para_Sa_Bayan_Alternative_Logo_June_2017.png" group-title="Live Television",PTV
 http://136.239.173.26:6610/001/2/ch00000090990000001086/manifest.mpd?AuthInfo=v87HD9rEhwHiAdYyrP20Tg5pgSMSITY%2FHYvvCWJRp%2BogpxrMDVv1bZ%2FeMkgHZmwQytokK1MIobcue1ImXa0ZEA%3D%3D&version=v1.0&BreakPoint=0&virtualDomain=001.live_hls.zte.com&programid=ch00000000000000001175&contentid=ch00000000000000001175&videoid=ch00000090990000001086&recommendtype=0&userid=1252187837705&boid=001&stbid=02%3A00%3A00%3A00%3A00%3A00&terminalflag=1&profilecode=&usersessionid=I0ZZE3KB7BIXXX&NeedJITP=1&JITPMediaType=DASH&JITPDRMType=NO
@@ -60,9 +58,7 @@ http://136.239.158.18:6610/001/2/ch00000090990000001079/manifest.mpd?AuthInfo=v8
 http://136.239.158.30:6610/001/2/ch00000090990000001254/manifest.mpd?AuthInfo=v87HD9rEhwHiAdYyrP20Tg5pgSMSITY%2FHYvvCWJRp%2BpP1%2FTBq4G4yW%2Bysf7XC2GUytokK1MIobcue1ImXa0ZEA%3D%3D&version=v1.0&BreakPoint=0&virtualDomain=001.live_hls.zte.com&programid=ch00000000000000001547&contentid=ch00000000000000001547&videoid=ch00000090990000001254&recommendtype=0&userid=1828619826254&boid=001&stbid=02%3A00%3A00%3A00%3A00%3A00&terminalflag=1&profilecode=&usersessionid=RW7BWNI1AISXXX&NeedJITP=1&JITPMediaType=DASH&JITPDRMType=NO
 
 #EXTINF:-1 ch-number="17" tvg-id="Cinema.One.ph" tvg-logo="https://static.wikia.nocookie.net/russel/images/9/94/Cinema_One_Logo_2020.png" group-title="Live Television",Cinema One
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=58d0e56991194043b8fb82feb4db7276:c116c612201e178193693eced13d7319
-https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01006-abs-cbn-cinemaone-dash-abscbnono/index.mpd
+http://136.158.97.2:6610/001/2/ch00000090990000001283/manifest.mpd?AuthInfo=v87HD9rEhwHiAdYyrP20Tg5pgSMSITY%2FHYvvCWJRp%2Br2cQyuTRlDkHeiqeVidUqqytokK1MIobcue1ImXa0ZEA%3D%3D&version=v1.0&BreakPoint=0&virtualDomain=001.live_hls.zte.com&programid=ch00000000000000001548&contentid=ch00000000000000001548&videoid=ch00000090990000001283&recommendtype=0&userid=1041236685526&boid=001&stbid=02%3A00%3A00%3A00%3A00%3A00&terminalflag=1&profilecode=&usersessionid=852NEU8T1ZOXXX&NeedJITP=1&JITPMediaType=DASH&JITPDRMType=NO
 
 #EXTINF:-1 ch-number="18" tvg-shift="2" tvg-id="KnowledgeChannel.ph" tvg-logo="https://i.imgur.com/UIqEr2y.png" group-title="Live Television",Knowledge Channel
 #KODIPROP:inputstreamaddon=inputstream.adaptive
@@ -72,9 +68,7 @@ https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01006-abs-cbn-cinemaone-dash-abscbn
 https://qp-pldt-live-bpk-01-prod.akamaized.net/bpk-tv/knowledge_channel/default/index.mpd
 
 #EXTINF:-1 ch-number="19" tvg-logo="https://i.imgur.com/npj41pk.png" group-title="Live Television",DZMM Teleradyo
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=47c093e0c9fd4f80839a0337da3dd876:603248b858276f533a13e17f2f48c711
-https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01006-abs-cbn-teleradyo-dash-abscbnono/index.mpd
+http://136.239.159.20:6610/001/2/ch00000090990000001249/manifest.mpd?AuthInfo=v87HD9rEhwHiAdYyrP20Tg5pgSMSITY%2FHYvvCWJRp%2Br70JxlZHE85iqqUwY%2BlbxPytokK1MIobcue1ImXa0ZEA%3D%3D&version=v1.0&BreakPoint=0&virtualDomain=001.live_hls.zte.com&programid=ch00000000000000001585&contentid=ch00000000000000001585&videoid=ch00000090990000001249&recommendtype=0&userid=1574307143185&boid=001&stbid=02%3A00%3A00%3A00%3A00%3A00&terminalflag=1&profilecode=&usersessionid=8MHILOPG9AVXXX&NeedJITP=1&JITPMediaType=DASH&JITPDRMType=NO
 
 #EXTINF:-1 ch-number="20" tvg-id="ANC.ph" tvg-logo="https://i.imgur.com/Bcu69bU.png" group-title="Live Television",ANC
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
