@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<tv source-info-name="none" source-info-url="none">
+  <channel id="WWE-Live">
+    <display-name>WWE</display-name>
+    <icon src="https://i.imgur.com/PbENHJw.png"/>
+  </channel>
+  <channel id="NBA-Live">
+    <display-name>NBA Finals</display-name>
+    <icon src="https://content.sportslogos.net/logos/6/6662/full/-nba-finals-logo-primary-dark-2026-666267372026.png"/>
+  </channel>
+  <programme start="20260606083000 -0500" stop="20260606113000 -0500" channel="NBA-Live">
+    <title lang="en">GAME 2: New York Knicks vs San Antonio Spurs</title>
+    <desc lang="en">LIVE | PG | NYK leads 1-0</desc>
+    <category lang="en">Sports</category>
+  <programme start="20260609113001 -0500" stop="20260611082959 -0500" channel="NBA-Live">
+    <title lang="en">NEXT: Game 3 on Tuesday, 8:30 AM</title>
+    <desc lang="en">Press OK on remote to view schedule.</desc>
+    <category lang="en">Sports</category>
+  </programme>
+    <programme start="20260609083000 -0500" stop="20260608113000 -0500" channel="NBA-Live">
+    <title lang="en">GAME 3: New York Knicks vs San Antonio Spurs</title>
+    <desc lang="en">LIVE | PG</desc>
+    <category lang="en">Sports</category>
+  </programme>
+  <programme start="20260608113000 -0500" stop="20260611082959 -0500" channel="NBA-Live">
+    <title lang="en">NEXT: Game 4 on Thursday, 8:30 AM</title>
+    <desc lang="en">Press OK on remote to view schedule.</desc>
+    <category lang="en">Sports</category>
+  </programme>
+  <programme start="20260611083000 -0500" stop="20260611113000 -0500" channel="NBA-Live">
+    <title lang="en">GAME 4: New York Knicks vs San Antonio Spurs</title>
+    <desc lang="en">LIVE | PG</desc>
+    <category lang="en">Sports</category>
+  </programme>
+  <programme start="20260614083000 -0500" stop="20260614113000 -0500" channel="NBA-Live">
+    <title lang="en">(IF NECCESARY) GAME 5: New York Knicks vs San Antonio Spurs</title>
+    <desc lang="en">PG</desc>
+    <category lang="en">Sports</category>
+  </programme>
+  <programme start="20260617083000 -0500" stop="20260617113000 -0500" channel="NBA-Live">
+    <title lang="en">(IF NECCESARY) GAME 6: New York Knicks vs San Antonio Spurs</title>
+    <desc lang="en">PG</desc>
+    <category lang="en">Sports</category>
+  </programme>
+  <programme start="20260620083000 -0500" stop="20260620113000 -0500" channel="NBA-Live">
+    <title lang="en">(IF NECCESARY) GAME 7: New York Knicks vs San Antonio Spurs</title>
+    <desc lang="en">PG</desc>
+    <category lang="en">Sports</category>
+  </programme>
