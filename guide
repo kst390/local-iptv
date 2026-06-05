@@ -11,12 +11,22 @@ https://utube.cocker-tk.workers.dev/UCqYw-UCstEtN0pgOmCf02EdXsGChw/master.m3u8
 https://utube.cocker-tk.workers.dev/UCqYw-CTd1dU2yGI71sEyqNw/master.m3u8
 
 LOCAL
-1 Special / PPV
+MOVIES
+FOREIGN
+SPORTS
+LIFESTYLE
+NEWS
+KIDS
+ASIAN
+
+
+LOCAL
+1 Special / PPV / NBA
 2 Kapamilya Channel
 3 Special2 / PPV2
 4 PTV-4
 5 TV5
-6 True TV
+6 GMA News Bulletin
 7 GMA
 8 GTV
 9 RPTV
@@ -31,40 +41,42 @@ LOCAL
 18 Knowledge Channel
 19 DZMM TeleRadyo
 20 ANC
-21 One News
-22 One PH
+21 One PH
+22 One News
 23 Bilyonaryo
-24 CNA
+24 DZRH or DZBB
 25 Net25
 26 MYX
 27 ALLTV
-28 CNN
-29 CLTV36
+28 Rock MNL
+29 SolarFlix
 
 MOVIES
-30 Tap Movies
-31 Tap Action Flix
+30 3rs TV
+31 3rs MovieBox
 32 HBO
 33 CineMax
 34 HBO Hits
 35 HBO Signature
 36 HBO Family
-37 MovieBox
+37 Tap Movies
+38 Tap Action Flix
 38 HITS Movies
-39 
-
+39 Star Movies (India)
+40 Star Movies Select (India)
+41 MN+ (India)
+42 Studio Universal
+43 Rock Action
 
 WESTERN
-40 Tap TV
-41 Tap Edge
-42 HITS
-43 AXN
+44 Rock Entertainment
+45 Tap Edge
+46 Tap TV
+47 HITS Now
 44 Warner TV
-45 Discovery
-46 History
-47 Crime+Investigation
-48 Animal Planet
-49 BBC Earth
+45 AXN
+46 HITS Now
+47 Tap TV
 
 SPORTS
 50 Solar Sports
@@ -77,29 +89,76 @@ SPORTS
 57 Premier Sports
 58 Premier Sports 2
 59 SPOTV
+60 SPOTV2 
+61 UFC TV
+62 Sky Sports (F1)
 
 LIFESTYLE
-60 Metro
-61 Lifetime
-62 Food Network
-63 Travel Channel
+63 Discovery
+64 History
+65 Crime+Investigation
+63 Animal Planet
+64 BBC Earth
+65 Stingray Naturescape
+66 Metro
+67 Living Asia Channel
+68 Lifetime
+69 TLC
+70 HGTV
+71 Food Network
+72 Asian Food Network
+73 Fashion TV
+
+NEWS
+74 Al Jazeera
+75 BBC News
+76 Bloomberg
+77 CGTN
+78 CGTN Documentaries
+79 Channel News Asia
+80 CNN
+81 DW
+82 Euronews
+83 FOX News
+84 Arirang
+85 NHK World Japan
 
 KIDS
-64 Dreamworks
-65 Cartoon Network
-66 Cartoonito
-67 Nickelodeon
-68 Nick Jr
-69 Moonbug
+86 Dreamworks
+87 Cartoon Network
+88 Cartoonito
+89 Nickelodeon
+90 Nick Jr
+91 Moonbug
 
-ASIAN (KOREAN)
-70 KIX
-71 KBS World
-72 tvN Movies
-73 tvN Asia
-74 MNet
-75 M2
-76 SBS The Kpop
-77 SBS
-78 Animax
+ASIAN
+92 Animax
+93 KIX
+94 K-Plus
+95 KBS World
+96 tvN Asia
+97 tvN Movies
+98 CJ ENM
 
+KOREAN
+206 SBS
+207 KBS2
+209 KBS1
+210 MBC
+212 JTBC
+213 JTBC2
+215 TV Chosun
+217 MBN
+219 ENA
+220 tvN
+221 Mnet
+223 SBS Kpop
+225 MBC M
+226 MBC every1
+228 tvN Show
+
+SPECIAL BROADCASTS
+300 PPV
+301 NBA
+302 FIFA
+310 2028 Olympics
