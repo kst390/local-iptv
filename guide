@@ -132,12 +132,16 @@ KIDS
 
 ASIAN
 97 Animax
-98 KIX
-99 K-Plus
-100 KBS World
-101 tvN Asia
-102 tvN Movies
-103 CJ ENM
+98 NHK BS
+99 NHK BSP4K
+100 BS10
+101 KIX
+102 Hallypop
+103 K-Plus
+104 KBS World
+105 tvN Asia
+106 tvN Movies
+107 CJ ENM
 
 KOREAN
 206 SBS
@@ -158,6 +162,6 @@ KOREAN
 
 SPECIAL BROADCASTS
 300 Special Broadcast
-301 WWE
+301 WWE (https://wwe.warm98.workers.dev/playlist.m3u8)
 302 FIFA
 310 2028 Olympics
