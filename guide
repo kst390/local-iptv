@@ -21,7 +21,7 @@ ASIAN
 
 
 LOCAL
-1 Special / PPV / NBA
+1 Special / PPV
 2 Kapamilya Channel
 3 Special2 / PPV2
 4 PTV-4
@@ -46,10 +46,10 @@ LOCAL
 23 Bilyonaryo
 24 DZRH or DZBB
 25 Net25
-26 MYX
-27 ALLTV
-28 Rock MNL
-29 SolarFlix
+27 SolarFlix
+26 ALLTV
+28 MYX
+29 Rock MNL
 
 MOVIES
 30 3rs TV
@@ -61,84 +61,83 @@ MOVIES
 36 HBO Family
 37 Tap Movies
 38 Tap Action Flix
-38 HITS Movies
-39 Star Movies (India)
-40 Star Movies Select (India)
-41 MN+ (India)
-42 Studio Universal
+39 HITS Movies
+40 Star Movies (India)
+41 Star Movies Select (India)
+42 MN+ (India)
 43 Rock Action
+44 Studio Universal
 
 WESTERN
-44 Rock Entertainment
-45 Tap Edge
-46 Tap TV
-47 HITS Now
-44 Warner TV
-45 AXN
+45 Tap TV
 46 HITS Now
-47 Tap TV
+47 AXN
+48 Warner TV
+49 Rock Entertainment
+50 Tap Edge
 
 SPORTS
-50 Solar Sports
 51 One Sports
 52 One Sports+
-53 NBA TV Philippines
+53 UAAP Varsity
 54 PBA Rush
-55 UAAP Varsity
-56 Tap Sports
-57 Premier Sports
-58 Premier Sports 2
-59 SPOTV
-60 SPOTV2 
-61 UFC TV
-62 Sky Sports (F1)
+55 NBA TV Philippines
+56 Solar Sports
+57 Tap Sports
+58 Premier Sports
+59 Premier Sports 2
+60 SPOTV
+61 SPOTV2 
+62 UFC TV
+63 Sky Sports (F1)
 
 LIFESTYLE
-63 Discovery
-64 History
-65 Crime+Investigation
-63 Animal Planet
-64 BBC Earth
-65 Stingray Naturescape
-66 Metro
-67 Living Asia Channel
-68 Lifetime
-69 TLC
-70 HGTV
-71 Food Network
-72 Asian Food Network
-73 Fashion TV
+64 Discovery
+65 Discovery Asia
+66 History
+67 BBC Earth
+68 Animal Planet
+69 Stingray Naturescape
+70 Crime+Investigation
+71 Lifetime
+72 Metro
+73 Living Asia Channel
+74 Fashion TV
+75 TLC
+76 HGTV
+77 Food Network
+78 Asian Food Network
 
 NEWS
-74 Al Jazeera
-75 BBC News
-76 Bloomberg
-77 CGTN
-78 CGTN Documentaries
-79 Channel News Asia
-80 CNN
-81 DW
+79 CNN
+80 BBC News
+81 FOX News
 82 Euronews
-83 FOX News
-84 Arirang
-85 NHK World Japan
+83 DW
+84 Bloomberg
+85 Channel News Asia
+86 Al Jazeera
+87 CGTN
+88 CGTN Documentaries
+89 NHK World Japan
+90 Arirang
 
 KIDS
-86 Dreamworks
-87 Cartoon Network
-88 Cartoonito
-89 Nickelodeon
-90 Nick Jr
 91 Moonbug
+92 Nick Jr
+93 Nickelodeon
+94 Cartoonito
+95 Cartoon Network
+96 Dreamworks
 
 ASIAN
-92 Animax
-93 KIX
-94 K-Plus
-95 KBS World
-96 tvN Asia
-97 tvN Movies
-98 CJ ENM
+97 Animax
+98 KIX
+99 K-Plus
+100 KBS World
+101 tvN Asia
+102 tvN Movies
+103 CJ ENM
 
 KOREAN
 206 SBS
@@ -158,7 +157,7 @@ KOREAN
 228 tvN Show
 
 SPECIAL BROADCASTS
-300 PPV
-301 NBA
+300 Special Broadcast
+301 WWE
 302 FIFA
 310 2028 Olympics
