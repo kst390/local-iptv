@@ -20,7 +20,7 @@ KIDS
 ASIAN
 
 
-LOCAL
+GENERAL ENTERTAINMENT
 1 Special / PPV
 2 Kapamilya Channel
 3 Special2 / PPV2
@@ -35,7 +35,7 @@ LOCAL
 12 Jeepney
 13 IBC 13
 14 PBO
-15 VivaCinema
+15 Viva Cinema
 16 CineMo
 17 Cinema One
 18 Knowledge Channel
@@ -44,10 +44,10 @@ LOCAL
 21 One PH
 22 One News
 23 Bilyonaryo
-24 DZRH or DZBB
+24 DZRH / DZBB
 25 Net25
-27 SolarFlix
-26 ALLTV
+26 SolarFlix
+27 ALLTV
 28 MYX
 29 Rock MNL
 
@@ -55,91 +55,92 @@ MOVIES
 30 3rs TV
 31 3rs MovieBox
 32 HBO
-33 CineMax
+33 Cinemax
 34 HBO Hits
 35 HBO Signature
 36 HBO Family
-37 Tap Movies
-38 Tap Action Flix
-39 HITS Movies
-40 Star Movies (India)
-41 Star Movies Select (India)
-42 MN+ (India)
-43 Rock Action
-44 Studio Universal
+37 TAP Movies
+38 TAP Action Flix
+39 Thrill
+40 HITS Movies
+41 Star Movies (India)
+42 Star Movies Select (India)
+43 MN+ (India)
+44 Rock Action
+45 Studio Universal
 
 WESTERN
-45 Tap TV
-46 HITS Now
-47 AXN
-48 Warner TV
-49 Rock Entertainment
-50 Tap Edge
+46 TAP TV
+47 HITS Now
+48 AXN
+49 Warner TV
+50 Rock Entertainment
+51 TAP Edge
 
 SPORTS
-51 One Sports
-52 One Sports+
-53 UAAP Varsity
-54 PBA Rush
-55 NBA TV Philippines
-56 Solar Sports
-57 Tap Sports
-58 Premier Sports
-59 Premier Sports 2
-60 SPOTV
-61 SPOTV2 
-62 UFC TV
-63 Sky Sports (F1)
+52 One Sports
+53 One Sports+
+54 UAAP Varsity
+55 PBA Rush
+56 NBA TV Philippines
+57 Solar Sports
+58 TAP Sports
+59 Premier Sports
+60 Premier Sports 2
+61 SPOTV
+62 SPOTV2
+63 UFC TV
+64 Sky Sports (F1)
 
 LIFESTYLE
-64 Discovery
-65 Discovery Asia
-66 History
-67 BBC Earth
-68 Animal Planet
-69 Stingray Naturescape
-70 Crime+Investigation
-71 Lifetime
-72 Metro
-73 Living Asia Channel
-74 Fashion TV
-75 TLC
-76 HGTV
-77 Food Network
-78 Asian Food Network
+65 Discovery
+66 Discovery Asia
+67 History
+68 BBC Earth
+69 Animal Planet
+70 Stingray Naturescape
+71 Crime+Investigation
+72 Lifetime
+73 Metro
+74 Living Asia Channel
+75 Fashion TV
+76 TLC
+77 HGTV
+78 Food Network
+79 Asian Food Network
 
 NEWS
-79 CNN
-80 BBC News
-81 FOX News
-82 Euronews
-83 DW
-84 Bloomberg
-85 Channel News Asia
-86 Al Jazeera
-87 CGTN
-88 CGTN Documentaries
-89 NHK World Japan
-90 Arirang
+80 CNN
+81 BBC News
+82 FOX News
+83 Euronews
+84 DW
+85 Bloomberg
+86 Channel News Asia
+87 Al Jazeera
+88 CGTN
+89 CGTN Documentaries
+90 NHK World Japan
+91 Arirang
 
 KIDS
-91 Moonbug
-92 Nick Jr
-93 Nickelodeon
-94 Cartoonito
-95 Cartoon Network
-96 Dreamworks
+92 Moonbug
+93 Nick Jr
+94 Nickelodeon
+95 Cartoonito
+96 Cartoon Network
+97 DreamWorks
 
 PAN-ASIAN
-97 Animax
-98 Aniplus
-99 KIX
-100 Hallypop
-101 K-Plus
-102 KBS World
-103 tvN Asia
-104 tvN Movies
-105 CJ ENM
+98 Animax
+99 Aniplus
+100 KIX
+101 Hallypop
+102 K-Plus
+103 KBS World
+104 tvN Asia
+105 tvN Movies
+106 CJ ENM
 
 JAPAN
 120 NHK BS
