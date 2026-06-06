@@ -294,8 +294,10 @@ https://qp-pldt-live-bpk-01-prod.akamaized.net/bpk-tv/dr_spotv2hd/default/index.
 #EXTINF:-1 ch-number="63" tvg-id="UFC.TV.ca" tvg-logo="https://1000logos.net/wp-content/uploads/2017/06/Logo-UFC.png" group-title="Live Television",UFC TV
 https://converse.nathcreqtives.com/channels/xtream-ufc-tv-995c9965/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySWQiOiJQSENPUk5FUiIsImlhdCI6MTc3OTUzNzM0MSwiZXhwIjoxNzg0NzIxMzQxLCJhY2NvdW50RXhwaXJlZCI6ZmFsc2UsImFjY291bnRFeHBpcmVzQXQiOjE3ODQ3MjEzNDEsImFsbG93ZWRPcmlnaW5zIjpbImh0dHBzOi8vKiJdfQ.gwh-25mE-Da2DHwyZ0byGWiMo8lBFOD4ve5AJ3dZkpU
 
-#EXTINF:-1 ch-number="64" tvg-id="SkySportsF1UHD.uk" tvg-logo="https://www.thesportsdb.com/images/media/channel/logo/p3s0tg1772826749.png" group-title="Live Television",Sky Sports F1
-https://converse.nathcreqtives.com/channels/xtream-uhd-sky-sports-f1-4k-b747b36d/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySWQiOiJQSENPUk5FUiIsImlhdCI6MTc3OTUzNzM0MSwiZXhwIjoxNzg0NzIxMzQxLCJhY2NvdW50RXhwaXJlZCI6ZmFsc2UsImFjY291bnRFeHBpcmVzQXQiOjE3ODQ3MjEzNDEsImFsbG93ZWRPcmlnaW5zIjpbImh0dHBzOi8vKiJdfQ.gwh-25mE-Da2DHwyZ0byGWiMo8lBFOD4ve5AJ3dZkpU
+#EXTINF:-1 ch-number="64" tvg-id="WWE-Live" tvg-logo="https://i.imgur.com/PbENHJw.png" group-title="Special / Limited runtime",WWE
+#EXTVLCOPT:http-referrer=https://roxiestreams.su/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36
+https://601.thelistener.pk/wwe.m3u8
 
 
 ***** LIFESTYLE *****
@@ -482,8 +484,8 @@ http://mnet.x10.mx/mnet.m3u8
 
 
 ***** SPECIAL BROADCASTS *****
-#EXTINF:-1 ch-number="301" tvg-id="WWE-Live" tvg-logo="https://i.imgur.com/PbENHJw.png" group-title="Special / Limited runtime",WWE
-https://wwe.warm98.workers.dev/playlist.m3u8
+#EXTINF:-1 ch-number="301" tvg-id="SkySportsF1UHD.uk" tvg-logo="https://www.thesportsdb.com/images/media/channel/logo/p3s0tg1772826749.png" group-title="Live Television",Sky Sports F1
+https://converse.nathcreqtives.com/channels/xtream-uhd-sky-sports-f1-4k-b747b36d/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySWQiOiJQSENPUk5FUiIsImlhdCI6MTc3OTUzNzM0MSwiZXhwIjoxNzg0NzIxMzQxLCJhY2NvdW50RXhwaXJlZCI6ZmFsc2UsImFjY291bnRFeHBpcmVzQXQiOjE3ODQ3MjEzNDEsImFsbG93ZWRPcmlnaW5zIjpbImh0dHBzOi8vKiJdfQ.gwh-25mE-Da2DHwyZ0byGWiMo8lBFOD4ve5AJ3dZkpU
 
 #EXTINF:-1 ch-number="302" tvg-id="NBA-Live" tvg-logo="https://content.sportslogos.net/logos/6/6662/full/-nba-finals-logo-primary-dark-2026-666267372026.png" group-title="Special / Limited runtime",NBA Finals
 https://nbalp.djdoolky76.net/stream/nbalp/live/master.m3u8?u=gratisph&p=0792e0768d35c1038a8619275adefbab049f03d7ad08feebcb05fec8f9aca7a1
