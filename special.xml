@@ -5,13 +5,14 @@
     <icon src="https://i.imgur.com/PbENHJw.png"/>
   </channel>
   <channel id="NBA-Live">
-    <display-name>NBA Finals</display-name>
-    <icon src="https://content.sportslogos.net/logos/6/6662/full/-nba-finals-logo-primary-dark-2026-666267372026.png"/>
+    <display-name>NBA League Pass</display-name>
+    <icon src="https://github.com/djdoolky76/tv-channel-logos/blob/main/misc/sports/ppv-live/nba-league-pass-hz.png?raw=true"/>
   </channel>
   <programme start="20260606083000 -0500" stop="20260606113000 -0500" channel="NBA-Live">
     <title lang="en">GAME 2: New York Knicks vs San Antonio Spurs</title>
     <desc lang="en">LIVE | PG | NYK leads 1-0</desc>
     <category lang="en">Sports</category>
+  </programme>
   <programme start="20260609113001 -0500" stop="20260611082959 -0500" channel="NBA-Live">
     <title lang="en">NEXT: Game 3 on Tuesday, 8:30 AM</title>
     <desc lang="en">Press OK on remote to view schedule.</desc>
