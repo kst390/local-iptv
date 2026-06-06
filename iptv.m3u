@@ -486,8 +486,7 @@ http://mnet.x10.mx/mnet.m3u8
 https://wwe.warm98.workers.dev/playlist.m3u8
 
 #EXTINF:-1 ch-number="302" tvg-id="NBA-Live" tvg-logo="https://content.sportslogos.net/logos/6/6662/full/-nba-finals-logo-primary-dark-2026-666267372026.png" group-title="Special / Limited runtime",NBA Finals
-http://cdn.djdoolky76.net/nbalp/nbafinalsyay.m3u
-
+https://nbalp.djdoolky76.net/stream/nbalp/live/master.m3u8?u=gratisph&p=0792e0768d35c1038a8619275adefbab049f03d7ad08feebcb05fec8f9aca7a1
 
 ***** RADIO STATIONS *****
 #EXTINF:-1 type="radio" tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/15/MOR_Entertainment_logo.png" group-title="Live Radio",MOR Entertainment (ABS-CBN)
