@@ -6,9 +6,9 @@ http://136.239.173.2:6610/001/2/ch00000090990000001339/manifest.mpd?AuthInfo=v87
 
 #EXTINF:-1 ch-number="2" tvg-id="Kapamilya.Channel.ph" tvg-logo="https://i.imgur.com/clvKHdZ.png" group-title="Live Television",Kapamilya Channel
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://converse.nathcreqtives.com/api/license/0okLiEqG4giY4Cy8N70aWgJO?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySWQiOiJQSENPUk5FUiIsImlhdCI6MTc3OTUzNzM0MSwiZXhwIjoxNzg0NzIxMzQxLCJhY2NvdW50RXhwaXJlZCI6ZmFsc2UsImFjY291bnRFeHBpcmVzQXQiOjE3ODQ3MjEzNDEsImFsbG93ZWRPcmlnaW5zIjpbImh0dHBzOi8vKiJdfQ.gwh-25mE-Da2DHwyZ0byGWiMo8lBFOD4ve5AJ3dZkpU
-https://converse.nathcreqtives.com/channels/gsat-kapamilya-channel/manifest.mpd?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySWQiOiJQSENPUk5FUiIsImlhdCI6MTc3OTUzNzM0MSwiZXhwIjoxNzg0NzIxMzQxLCJhY2NvdW50RXhwaXJlZCI6ZmFsc2UsImFjY291bnRFeHBpcmVzQXQiOjE3ODQ3MjEzNDEsImFsbG93ZWRPcmlnaW5zIjpbImh0dHBzOi8vKiJdfQ.gwh-25mE-Da2DHwyZ0byGWiMo8lBFOD4ve5AJ3dZkpU
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=292dee4236d04054910e9706ee22626b:b7c5d3220f6eb6e042a2bcb367b5c09b
+https://converse.nathcreqtives.com/channels/kapamilya-hd/manifest.mpd?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySWQiOiJQSENPUk5FUiIsImlhdCI6MTc3OTUzNzM0MSwiZXhwIjoxNzg0NzIxMzQxLCJhY2NvdW50RXhwaXJlZCI6ZmFsc2UsImFjY291bnRFeHBpcmVzQXQiOjE3ODQ3MjEzNDEsImFsbG93ZWRPcmlnaW5zIjpbImh0dHBzOi8vKiJdfQ.gwh-25mE-Da2DHwyZ0byGWiMo8lBFOD4ve5AJ3dZkpU
 
 #EXTINF:-1 ch-number="4" tvg-id="PTV.ph" tvg-logo="https://static.wikia.nocookie.net/russel/images/d/dc/PTV_4_Para_Sa_Bayan_Alternative_Logo_June_2017.png" group-title="Live Television",PTV
 http://136.239.173.26:6610/001/2/ch00000090990000001086/manifest.mpd?AuthInfo=v87HD9rEhwHiAdYyrP20Tg5pgSMSITY%2FHYvvCWJRp%2BogpxrMDVv1bZ%2FeMkgHZmwQytokK1MIobcue1ImXa0ZEA%3D%3D&version=v1.0&BreakPoint=0&virtualDomain=001.live_hls.zte.com&programid=ch00000000000000001175&contentid=ch00000000000000001175&videoid=ch00000090990000001086&recommendtype=0&userid=1252187837705&boid=001&stbid=02%3A00%3A00%3A00%3A00%3A00&terminalflag=1&profilecode=&usersessionid=I0ZZE3KB7BIXXX&NeedJITP=1&JITPMediaType=DASH&JITPDRMType=NO
@@ -397,6 +397,12 @@ https://qp-pldt-live-bpk-02-prod.akamaized.net/bpk-tv/cg_cnnhd/default/index.mpd
 
 #EXTINF:-1 ch-number="81" tvg-id="BBC.News.hk" tvg-logo="https://iptv-epg.org/images/Xg8XRLmqfDtHjw3OHojWlyRcVvjLZRJoyM8JNHVLR8FgN2GXo474IKVDy8yxkAaED-LVOOBvFrjCqouNJQ0MX0IToYNEENYcJjX5YRQnE0pwige9kw" group-title="Live Television",BBC News
 http://136.239.158.30:6610/001/2/ch00000090990000001095/manifest.mpd?AuthInfo=v87HD9rEhwHiAdYyrP20TsXah2%2FZLFNNIdWrVrXDMAqx1PFsBS2oDQ%2F0bDb4P2SmsyK4TH4mOENKJ45mwOyS0g%3D%3D&version=v1.0&BreakPoint=0&virtualDomain=001.live_hls.zte.com&programid=ch00000000000000001218&contentid=ch00000000000000001218&videoid=ch00000090990000001095&recommendtype=0&userid=1001363869638&boid=001&stbid=02%3A00%3A00%3A00%3A00%3A00&terminalflag=1&profilecode=&usersessionid=MC1HG0HEY2EXXX&NeedJITP=1&JITPMediaType=DASH&JITPDRMType=NO&IASHttpSessionId=RR20448220260101155237082552&ispcode=55
+
+#EXTINF:-1 ch-number="82" tvg-id="FOX.News" tvg-logo="https://i.imgur.com/VMjbHww.png" group-title="Live Television",FOX News
+http://136.239.173.10:6610/001/2/ch00000090990000001105/manifest.mpd?AuthInfo=v87HD9rEhwHiAdYyrP20TsXah2%2FZLFNNIdWrVrXDMArJrNGPTxGM8qlI%2FCYICZgnsyK4TH4mOENKJ45mwOyS0g%3D%3D&version=v1.0&BreakPoint=0&virtualDomain=001.live_hls.zte.com&programid=ch00000000000000001220&contentid=ch00000000000000001220&videoid=ch00000090990000001105&recommendtype=0&userid=1221561345308&boid=001&stbid=02%3A00%3A00%3A00%3A00%3A00&terminalflag=1&profilecode=&usersessionid=3IL8RUTMYBCXXX&NeedJITP=1&JITPMediaType=DASH&JITPDRMType=NO&IASHttpSessionId=RR20445320260101155237172197&ispcode=55
+
+#EXTINF:-1 ch-number="83" tvg-id="euronews.hk" tvg-logo="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch326_160_115" group-title="Live Television",Euronews
+https://converse.nathcreqtives.com/channels/bcf4d555-20d2-469e-abb3-9a024a192d46/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySWQiOiJQSENPUk5FUiIsImlhdCI6MTc3OTUzNzM0MSwiZXhwIjoxNzg0NzIxMzQxLCJhY2NvdW50RXhwaXJlZCI6ZmFsc2UsImFjY291bnRFeHBpcmVzQXQiOjE3ODQ3MjEzNDEsImFsbG93ZWRPcmlnaW5zIjpbImh0dHBzOi8vKiJdfQ.gwh-25mE-Da2DHwyZ0byGWiMo8lBFOD4ve5AJ3dZkpU
 
 #EXTINF:-1 ch-number="86" tvg-id="Channel.NewsAsia.hk" tvg-logo="https://i.imgur.com/vm9Z0uV.png" group-title="Live Television",Channel News Asia
 http://136.239.173.26:6610/001/2/ch00000090990000001106/manifest.mpd?AuthInfo=v87HD9rEhwHiAdYyrP20Tg5pgSMSITY%2FHYvvCWJRp%2BqhARVluhpunJiYdQ%2BUDM8fytokK1MIobcue1ImXa0ZEA%3D%3D&version=v1.0&BreakPoint=0&virtualDomain=001.live_hls.zte.com&programid=ch00000000000000001181&contentid=ch00000000000000001181&videoid=ch00000090990000001106&recommendtype=0&userid=1618692244090&boid=001&stbid=02%3A00%3A00%3A00%3A00%3A00&terminalflag=1&profilecode=&usersessionid=0A4KF9O3OZU7XX&NeedJITP=1&JITPMediaType=DASH&JITPDRMType=NO
