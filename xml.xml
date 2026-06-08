@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <tv source-info-name="none" source-info-url="none">
-  <channel id="WWE-Live">
-    <display-name>WWE</display-name>
+  <channel id="PPV299">
+    <display-name>Cignal PPV 299</display-name>
     <icon src="https://i.imgur.com/PbENHJw.png"/>
   </channel>
   <channel id="NBA-Live">
