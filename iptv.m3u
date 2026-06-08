@@ -1,5 +1,5 @@
 #EXTM3U billed-msg="Channels are streamed over internet. Ensure stable internet connection." 
-#EXTM3U url-tvg="https://epgshare01.online/epgshare01/epg_ripper_PH2.xml.gz,https://iptv-epg.org/files/epg-ph.xml.gz,https://epgshare01.online/epgshare01/epg_ripper_HK1.xml.gz,https://epgshare01.online/epgshare01/epg_ripper_MY1.xml.gz,https://iptv-epg.org/files/epg-kr.xml.gz,https://raw.githubusercontent.com/kst390/local-iptv/refs/heads/main/special.xml"
+#EXTM3U url-tvg="https://epgshare01.online/epgshare01/epg_ripper_PH2.xml.gz,https://iptv-epg.org/files/epg-ph.xml.gz,https://epgshare01.online/epgshare01/epg_ripper_HK1.xml.gz,https://epgshare01.online/epgshare01/epg_ripper_MY1.xml.gz,https://iptv-epg.org/files/epg-kr.xml.gz,https://raw.githubusercontent.com/kst390/local-iptv/refs/heads/main/xmltv.xml"
 
 #EXTINF:-1 ch-number="999" tvg-logo="https://fiberx.convergeict.com/_ipx/_/white-logo.png" group-title="SPECIAL BROADCAST",Converge Advisory Channel
 https://video.gumlet.io/66fc268e39995a2b6ce85ae3/66fc28d639995a2b6ce8640e/main.m3u8
@@ -174,21 +174,22 @@ https://converse.nathcreqtives.com/channels/stalker-6680-8a31f0be/playlist.m3u8?
 #EXTINF:-1 ch-number="42" tvg-id="Star.Movies.Select.HD.in" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_STAR_MOVIES_SELECT/images/LOGO_HD/image.png" group-title="Movies",Star Movies Select (India)
 https://converse.nathcreqtives.com/channels/stalker-324-8dca62be/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySWQiOiJQSENPUk5FUiIsImlhdCI6MTc3OTUzNzM0MSwiZXhwIjoxNzg0NzIxMzQxLCJhY2NvdW50RXhwaXJlZCI6ZmFsc2UsImFjY291bnRFeHBpcmVzQXQiOjE3ODQ3MjEzNDEsImFsbG93ZWRPcmlnaW5zIjpbImh0dHBzOi8vKiJdfQ.gwh-25mE-Da2DHwyZ0byGWiMo8lBFOD4ve5AJ3dZkpU
 
-#EXTINF:-1 ch-number="43" tvg-id="MN+.HD.in" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_MNSYMPLUS/images/LOGO_HD/image.png" group-title="Movies",MoviesNow+ (India)
+#EXTINF:-1 ch-number="43" tvg-id="MN+.HD.in" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_MNSYMPLUS/images/LOGO_HD/image.png" group-title="Movies",MN+ (India)
 https://converse.nathcreqtives.com/channels/stalker-6720-6a543f85/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySWQiOiJQSENPUk5FUiIsImlhdCI6MTc3OTUzNzM0MSwiZXhwIjoxNzg0NzIxMzQxLCJhY2NvdW50RXhwaXJlZCI6ZmFsc2UsImFjY291bnRFeHBpcmVzQXQiOjE3ODQ3MjEzNDEsImFsbG93ZWRPcmlnaW5zIjpbImh0dHBzOi8vKiJdfQ.gwh-25mE-Da2DHwyZ0byGWiMo8lBFOD4ve5AJ3dZkpU
 
-#EXTINF:-1 ch-number="44" tvg-id="RockAction.ph" tvg-shift="2" tvg-logo="https://i.imgur.com/l6lmlqG.png" group-title="Movies;General Entertainment",Rock Action
+#EXTINF:-1 ch-number="44" tvg-id="tvg-id="MNX.HD.in" tvg-logo="https://upload.wikimedia.org/wikipedia/en/5/50/MNX_new_logo.png" group-title="Movies",MNX (India)
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=40f019b86241d23ef075633fd7f1e927:058dec845bd340178a388edd104a015e
+https://cignalplaymaxphcorner.vwgsalvador.workers.dev/mnx_hd/cplaymax/manifest.mpd
+
+#EXTINF:-1 ch-number="45" tvg-id="RockAction.ph" tvg-shift="2" tvg-logo="https://i.imgur.com/l6lmlqG.png" group-title="Movies;General Entertainment",Rock Action
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=0f852fb8412b11edb8780242ac120002:4cbc004d8c444f9f996db42059ce8178
 https://qp-pldt-live-bpk-02-prod.akamaized.net/bpk-tv/dr_rockextreme/default/index.mpd
-
-#EXTINF:-1 ch-number="45" tvg-id="tvg-id="STUDIOUNIVERSAL" tvg-logo="https://s3.ap-southeast-1.amazonaws.com/epg.tapdmv.com/studiouniversal.png" group-title="Movies",Studio Universal
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=77b7711693a9f32c0bd81ef8782f716b:0802df5ea0615ca2638b3b38f9ab3926
-https://zap-live1-ott.izzigo.tv/1/out/u/dash/STUDIO-UNIVERSAL-HD/default.mpd'
 
 
 ***** WESTERN *****
@@ -605,9 +606,8 @@ https://converse.nathcreqtives.com/channels/jp33/playlist.m3u8?token=eyJhbGciOiJ
 
 
 ***** SPECIAL BROADCASTS *****
-#EXTINF:-1 ch-number="299" tvg-id="" tvg-logo="" group-title="SPECIAL BROADCAST",Cignal Pay-Per-View (PPV 299)
-https://qp-pldt-live-bpk-ucd-prod.akamaized.net/bpk-tv/ch299/default/index.mpd
-https://ucdn.mediaquest.com.ph/bpk-tv/ch299/default/index.mpd - MPD
+#EXTINF:-1 ch-number="299" tvg-id="" tvg-logo="" group-title="SPECIAL BROADCAST",Cignal PPV 299
+https://cignalplaymax.gabuyomarygrace20.workers.dev/ppv299/cignalplaymax/manifest.mpd
 
 
 ***** RADIO STATIONS *****
