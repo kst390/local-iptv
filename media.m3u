@@ -1,9 +1,6 @@
 #EXTM3U url-tvg="https://raw.githubusercontent.com/mystery75/streaming/app/VOD.xml"
 
-========IWAN 🎬 TFC MOVIES ========
-
-#EXTINF:-1 group-logo="https://i.pinimg.com/originals/77/90/4b/77904bbc3b52fb7ac716913212545d79.png"
-
+# ***** IWANTTFC MOVIES *****
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=5b2c1ec68ac711ef82fd506b4d4f9255:9f059838c8ac7a21fea2476abfce12ae
@@ -821,10 +818,10 @@ https://absvod.akamaized.net/c/2/m/5c17122e-89bc-11eb-9393-4c2b408284f3.ism/mani
 https://absvod.akamaized.net/c/2/m/4c053ed4-b5a7-11ec-86d5-ba9c6a45220a.ism/manifest.mpd
 
 
-````````🎬 VIVAONE MOVIES TAGALOG````````
 
-#EXTINF:-1 group-logo="https://play-lh.googleusercontent.com/L_91b9_-4xDNFK7BVHkKYY_yuLjV5WEmdSiNzf74PKXehRiH_V9E2P44-_IQqqH0MQkv"
 
+
+# ***** VIVAONE MOVIES TAGALOG *****
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=4300fbce3ce3193ce5cc03af0988f595:f9f1bfd9678f11b0efda77aa70308084
@@ -1202,9 +1199,9 @@ https://d1qfpvemzhsbpm.cloudfront.net/video/P00160_FF_LM_REVIRGINIZED/dash/hd.mp
 
 
 
-````````🎬 VIVAONE MOVIES MIX````````
 
-#EXTINF:-1 group-logo="https://i.ibb.co/t3QXbKB/472280715-592028373776839-2731000620220674000-n.jpg"
+
+# ***** VIVAONE MOVIES MIX *****
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=d4cdc45e32f4272bea5aac2cf4f47419:1c4878a93b13dec518e98240baeeacb2
@@ -1612,11 +1609,10 @@ https://d1qfpvemzhsbpm.cloudfront.net/video/P00587_FF_FM_THE%20LAST%20WITCH%20HU
 https://d1qfpvemzhsbpm.cloudfront.net/video/P02062_FF_FM_GHOSTS%20OF%20WAR/dash/hd.mpd
 
 
-````````HBOGO Asia````````
-
-#EXTINF:-1 group-logo="https://i.pinimg.com/originals/43/9e/48/439e4802f4992b8266ae3f19998078d9.jpg"
 
 
+
+# ***** HBOGO Asia *****
 
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
@@ -3060,18 +3056,7 @@ https://vodejitp-asset-playback-b.astro.com.my/v4/default/dash-wv/vode/8a8249b5-
 
 
 
-
-
-
-
-############################################################################################################################################################################################################################
-
-
-````````📀 MAALA-ALA MO KAYA",MMK````````
-
-#EXTINF:-1 group-logo="https://3.bp.blogspot.com/-kdXNwm6lSo8/WeN0Js_O9oI/AAAAAAAABOE/vVkIpQcdGXQgX18CkKXjZsL9Mm29PqAswCLcBGAs/w1200-h630-p-k-no-nu/MMK-Maalaala-Mo-Kaya.jpg"
-
-
+# ***** MAALA-ALA MO KAYA MMK *****
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=8368c32c50e011ec9a581d789b9349dd:0c14fa00271a48acf7d90630fc2521fe
