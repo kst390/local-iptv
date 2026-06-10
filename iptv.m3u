@@ -637,8 +637,3 @@ https://stream.gmanews.tv/ioslive/livestream/playlist.m3u8
 
 #EXTINF:-1 type="radio" group-title="Radio Stations (FM/AM)",Dummy
 https://video.gumlet.io/66fc268e39995a2b6ce85ae3/66fc28d639995a2b6ce8640e/main.m3u8
-
-
-***** LINK TO VOD *****
-#EXTINF:-1 content-type="playlist" group-title="VOD Library",VOD Library
-https://raw.githubusercontent.com/kst390/local-iptv/main/media.m3u
