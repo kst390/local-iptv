@@ -1,4 +1,4 @@
-#EXTM3U billed-msg="Live channels and video-on-demand (VOD) are streamed over internet" url-tvg="https://iptv-epg.org/files/epg-ph.xml.gz,https://epgshare01.online/epgshare01/epg_ripper_PH2.xml.gz,https://epgshare01.online/epgshare01/epg_ripper_HK1.xml.gz,https://epgshare01.online/epgshare01/epg_ripper_MY1.xml.gz,https://iptv-epg.org/files/epg-kr.xml.gz,https://epgshare01.online/epgshare01/epg_ripper_IN4.xml.gz,https://akariko.netgenx.site/epg/kai-epg.xml,https://raw.githubusercontent.com/mystery75/streaming/app/VOD.xml" vod_library="https://raw.githubusercontent.com/kst390/local-iptv/main/media.m3u"
+#EXTM3U billed-msg="Live channels and video-on-demand (VOD) are streamed over internet" url-tvg="https://iptv-epg.org/files/epg-ph.xml.gz,https://epgshare01.online/epgshare01/epg_ripper_PH2.xml.gz,https://raw.githubusercontent.com/atone77721/CIGNAL_EPG/main/merged_epg.xml.gz,https://epgshare01.online/epgshare01/epg_ripper_HK1.xml.gz,https://epgshare01.online/epgshare01/epg_ripper_MY1.xml.gz,https://iptv-epg.org/files/epg-kr.xml.gz,https://epgshare01.online/epgshare01/epg_ripper_IN4.xml.gz,https://akariko.netgenx.site/epg/kai-epg.xml,https://raw.githubusercontent.com/mystery75/streaming/app/VOD.xml" vod_library="https://raw.githubusercontent.com/kst390/local-iptv/main/media.m3u"
 
 #EXTINF:-1 ch-number="999" tvg-logo="https://st.depositphotos.com/2274151/3306/i/600/depositphotos_33060717-stock-photo-reserved-red-grunge-stamp.jpg" group-title="Live Television",RESERVED
 https://video.gumlet.io/66fc268e39995a2b6ce85ae3/66fc28d639995a2b6ce8640e/main.m3u8
@@ -6,12 +6,10 @@ https://video.gumlet.io/66fc268e39995a2b6ce85ae3/66fc28d639995a2b6ce8640e/main.m
 
 ***** Philippine Television *****
 
-#EXTINF:-1 ch-number="2" tvg-id="Kapamilya.Channel.ph" tvg-logo="https://i.imgur.com/clvKHdZ.png" group-title="Live Television",Kapamilya Channel
+#EXTINF:-1 ch-number="2" tvg-id="kapamilya-channel.click" tvg-logo="https://i.imgur.com/clvKHdZ.png" group-title="Live Television",Kapamilya Channel
 #KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=292dee4236d04054910e9706ee22626b:b7c5d3220f6eb6e042a2bcb367b5c09b
-https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01006-abs-cbn-kapcha-dash-abscbnono/manifest.mpd
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+https://cplaymax.netlify.app/kapamilya_converge_mpd/cplaymax/manifest.mpd
 
 #EXTINF:-1 ch-number="3" tvg-id="PBB" tvg-logo="https://static.wikia.nocookie.net/bigbrother/images/d/dc/PBBCOLLAB2_EYE.png" group-title="Live Television",PBB All-Access
 #KODIPROP:inputstreamaddon=inputstream.adaptive
@@ -20,7 +18,7 @@ https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01006-abs-cbn-kapcha-dash-abscbnono
 #KODIPROP:inputstream.adaptive.license_key=8438e8495659425585a09749cd6bc39a:9d92b12db092fe6bdf2207ef7a2a9e65
 https://abslive.akamaized.net/dash/live/2112806/pbbmain/manifest.mpd
 
-#EXTINF:-1 ch-number="4" tvg-id="PTV.ph" tvg-logo="https://static.wikia.nocookie.net/russel/images/d/dc/PTV_4_Para_Sa_Bayan_Alternative_Logo_June_2017.png" group-title="Live Television",PTV
+#EXTINF:-1 ch-number="4" tvg-id="ptv.click" tvg-logo="https://static.wikia.nocookie.net/russel/images/d/dc/PTV_4_Para_Sa_Bayan_Alternative_Logo_June_2017.png" group-title="Live Television",PTV
 http://136.239.173.26:6610/001/2/ch00000090990000001086/manifest.mpd?AuthInfo=v87HD9rEhwHiAdYyrP20Tg5pgSMSITY%2FHYvvCWJRp%2BogpxrMDVv1bZ%2FeMkgHZmwQytokK1MIobcue1ImXa0ZEA%3D%3D&version=v1.0&BreakPoint=0&virtualDomain=001.live_hls.zte.com&programid=ch00000000000000001175&contentid=ch00000000000000001175&videoid=ch00000090990000001086&recommendtype=0&userid=1252187837705&boid=001&stbid=02%3A00%3A00%3A00%3A00%3A00&terminalflag=1&profilecode=&usersessionid=I0ZZE3KB7BIXXX&NeedJITP=1&JITPMediaType=DASH&JITPDRMType=NO
 
 #EXTINF:-1 ch-number="5" tvg-shift="2" tvg-id="TV5.ph" tvg-logo="https://i.imgur.com/rzjGS5x.png" group-title="Live Television",TV5
@@ -61,10 +59,10 @@ https://abslive.akamaized.net/dash/live/2027618/jeepneytv/manifest.mpd
 #EXTINF:-1 ch-number="13" tvg-id="IBC.TV.13.ph" tvg-logo="https://ibctv13.com/wp-content/uploads/2024/06/ibc-logo-updated_1.webp" group-title="Live Television",IBC 13
 http://136.239.159.20:6610/001/2/ch00000090990000001089/manifest.mpd?AuthInfo=v87HD9rEhwHiAdYyrP20TsXah2%2FZLFNNIdWrVrXDMAo0mldwqx%2BTfpKT3KIgGit9syK4TH4mOENKJ45mwOyS0g%3D%3D&version=v1.0&BreakPoint=0&virtualDomain=001.live_hls.zte.com&programid=ch00000000000000001216&contentid=ch00000000000000001216&videoid=ch00000090990000001089&recommendtype=0&userid=1773865046699&boid=001&stbid=02%3A00%3A00%3A00%3A00%3A00&terminalflag=1&profilecode=&usersessionid=HCPD4Q2RTHUXXX&NeedJITP=1&JITPMediaType=DASH&JITPDRMType=NO&IASHttpSessionId=RR20448620260101155237367182&ispcode=55
 
-#EXTINF:-1 ch-number="14" tvg-id="PBO.ph" tvg-logo="https://i.imgur.com/61fHpnW.png" group-title="Live Television",PBO
+#EXTINF:-1 ch-number="14" tvg-id="pbo.click" tvg-logo="https://i.imgur.com/61fHpnW.png" group-title="Live Television",PBO
 http://136.239.173.10:6610/001/2/ch00000090990000001078/manifest.mpd?AuthInfo=v87HD9rEhwHiAdYyrP20Tg5pgSMSITY%2FHYvvCWJRp%2Bq9SZLE5HgafIcQ2VcLQB9EytokK1MIobcue1ImXa0ZEA%3D%3D&version=v1.0&BreakPoint=0&virtualDomain=001.live_hls.zte.com&programid=ch00000000000000001137&contentid=ch00000000000000001137&videoid=ch00000090990000001078&recommendtype=0&userid=1302493816250&boid=001&stbid=02%3A00%3A00%3A00%3A00%3A00&terminalflag=1&profilecode=&usersessionid=52Y01DLD7HXXXX&NeedJITP=1&JITPMediaType=DASH&JITPDRMType=NO
 
-#EXTINF:-1 ch-number="15" tvg-id="VIVA.Cinema.ph" tvg-logo="https://static.wikia.nocookie.net/tvfanon6528/images/2/2f/Viva_Cinema_%282021-.n.v.%29.png" group-title="Live Television",Viva Cinema
+#EXTINF:-1 ch-number="15" tvg-id="viva-cinema.click" tvg-logo="https://static.wikia.nocookie.net/tvfanon6528/images/2/2f/Viva_Cinema_%282021-.n.v.%29.png" group-title="Live Television",Viva Cinema
 http://136.239.158.18:6610/001/2/ch00000090990000001079/manifest.mpd?AuthInfo=v87HD9rEhwHiAdYyrP20Tg5pgSMSITY%2FHYvvCWJRp%2BoglCgy7TAZamPXsCV8PgebytokK1MIobcue1ImXa0ZEA%3D%3D&version=v1.0&BreakPoint=0&virtualDomain=001.live_hls.zte.com&programid=ch00000000000000001138&contentid=ch00000000000000001138&videoid=ch00000090990000001079&recommendtype=0&userid=1897516127558&boid=001&stbid=02%3A00%3A00%3A00%3A00%3A00&terminalflag=1&profilecode=&usersessionid=1Z8S6AOLQ8XXXX&NeedJITP=1&JITPMediaType=DASH&JITPDRMType=NO
 
 #EXTINF:-1 ch-number="16" tvg-id="CineMo.ph" tvg-logo="https://static.wikia.nocookie.net/russel/images/f/f2/Cine_Mo%21_3D_Logo_2011.png" group-title="Live Television",CineMo!
@@ -80,7 +78,7 @@ http://136.158.97.2:6610/001/2/ch00000090990000001283/manifest.mpd?AuthInfo=v87H
 #KODIPROP:inputstream.adaptive.license_key=c7d2b1e94f8a4d6c8a106b3d1f9c2e55:2052f6b844aa53144bb32f0e41295106
 https://qp-pldt-live-bpk-01-prod.akamaized.net/bpk-tv/knowledge_channel/default/index.mpd
 
-#EXTINF:-1 ch-number="19" tvg-logo="https://i.imgur.com/npj41pk.png" group-title="Live Television",DZMM Teleradyo
+#EXTINF:-1 ch-number="19" tvg-id="DZMM.dzmm" tvg-logo="https://i.imgur.com/npj41pk.png" group-title="Live Television",DZMM Teleradyo
 http://136.239.159.20:6610/001/2/ch00000090990000001249/manifest.mpd?AuthInfo=v87HD9rEhwHiAdYyrP20Tg5pgSMSITY%2FHYvvCWJRp%2Br70JxlZHE85iqqUwY%2BlbxPytokK1MIobcue1ImXa0ZEA%3D%3D&version=v1.0&BreakPoint=0&virtualDomain=001.live_hls.zte.com&programid=ch00000000000000001585&contentid=ch00000000000000001585&videoid=ch00000090990000001249&recommendtype=0&userid=1574307143185&boid=001&stbid=02%3A00%3A00%3A00%3A00%3A00&terminalflag=1&profilecode=&usersessionid=8MHILOPG9AVXXX&NeedJITP=1&JITPMediaType=DASH&JITPDRMType=NO
 
 #EXTINF:-1 ch-number="20" tvg-id="ANC.ph" tvg-logo="https://i.imgur.com/Bcu69bU.png" group-title="Live Television",ANC
@@ -177,25 +175,28 @@ https://qp-pldt-live-bpk-01-prod.akamaized.net/bpk-tv/cg_thrill_sd/default/index
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=f56b57b32d7e4b2cb21748c0b56761a7:3df06a89aa01b32655a77d93e09e266f
-https://qp-pldt-live-bpk-02-prod.akamaized.net/bpk-tv/hitsmovies/default/index.mpd
+3https://qp-pldt-live-bpk-02-prod.akamaized.net/bpk-tv/hitsmovies/default/index.mpd
 
-#EXTINF:-1 ch-number="41" tvg-id="Star.Movies.in" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_STAR_MOVIES/images/LOGO_HD/image.png" group-title="Live Television",Star Movies | IN
-http://techtalks.uk:80/live/UO6Oq8Zn4G/inexperienced5sentence/979.ts?RKDYIPTV&token=rkdyiptv
+#EXTINF:-1 ch-number="40" tvg-id="MovieSphere" tvg-logo="https://lionsgatechannels.com/assets/img/moviesphere/movie-sphere-large-logo.png" group-title="Live Television",Moviesphere by Lionsgate
+https://cplaymax.netlify.app/moviesphere/cplaymax/playlist.m3u8
 
-#EXTINF:-1 ch-number="42" tvg-id="Star.Movies.Select.HD.in" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_STAR_MOVIES_SELECT/images/LOGO_HD/image.png" group-title="Live Television",Star Movies Select | IN
-http://techtalks.uk:80/live/UO6Oq8Zn4G/inexperienced5sentence/218.ts?RKDYIPTV&token=rkdyiptv
+#EXTINF:-1 ch-number="41" tvg-id="Star.Movies.in" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_STAR_MOVIES/images/LOGO_HD/image.png" group-title="Live Television",Star Movies India
+https://converse.nathcreqtives.com/channels/star-movies-hd/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySWQiOiJQSENPUk5FUiIsImlhdCI6MTc3OTUzNzM0MSwiZXhwIjoxNzg0NzIxMzQxLCJhY2NvdW50RXhwaXJlZCI6ZmFsc2UsImFjY291bnRFeHBpcmVzQXQiOjE3ODQ3MjEzNDEsImFsbG93ZWRPcmlnaW5zIjpbImh0dHBzOi8vKiJdfQ.gwh-25mE-Da2DHwyZ0byGWiMo8lBFOD4ve5AJ3dZkpU
 
-#EXTINF:-1 ch-number="43" tvg-id="MN+.HD.in" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_MNSYMPLUS/images/LOGO_HD/image.png" group-title="Live Television",MN+ | IN
+#EXTINF:-1 ch-number="42" tvg-id="Star.Movies.Select.HD.in" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_STAR_MOVIES_SELECT/images/LOGO_HD/image.png" group-title="Live Television",Star Movies Select India
+https://converse.nathcreqtives.com/channels/star-movies-select/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySWQiOiJQSENPUk5FUiIsImlhdCI6MTc3OTUzNzM0MSwiZXhwIjoxNzg0NzIxMzQxLCJhY2NvdW50RXhwaXJlZCI6ZmFsc2UsImFjY291bnRFeHBpcmVzQXQiOjE3ODQ3MjEzNDEsImFsbG93ZWRPcmlnaW5zIjpbImh0dHBzOi8vKiJdfQ.gwh-25mE-Da2DHwyZ0byGWiMo8lBFOD4ve5AJ3dZkpU
+
+#EXTINF:-1 ch-number="43" tvg-id="MN+.HD.in" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_MNSYMPLUS/images/LOGO_HD/image.png" group-title="Live Television",MN+ India
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"BY3shFvTQBeKOI7dEEoBXg", "kid":"QPAZuGJB0j7wdWM/1/HpJw" } ], "type":"temporary" }
 https://times-ott-live.akamaized.net/mnplus_wv_drm/index.mpd
 
-#EXTINF:-1 ch-number="44" tvg-id="MNX.HD.in" tvg-logo="https://upload.wikimedia.org/wikipedia/en/5/50/MNX_new_logo.png" group-title="Live Television",MNX | IN
+#EXTINF:-1 ch-number="44" tvg-id="MNX.HD.in" tvg-logo="https://upload.wikimedia.org/wikipedia/en/5/50/MNX_new_logo.png" group-title="Live Television",MNX India
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"BY3shFvTQBeKOI7dEEoBXg", "kid":"QPAZuGJB0j7wdWM/1/HpJw" } ], "type":"temporary" }
 https://times-ott-live.akamaized.net/mnxhd_wv_drm/index.mpd
 
-#EXTINF:-1 ch-number="45" tvg-id="RockAction.ph" tvg-shift="2" tvg-logo="https://i.imgur.com/l6lmlqG.png" group-title="Live Television",Rock Action
+#EXTINF:-1 ch-number="45" tvg-id="RockAction.ph" tvg-shift="2" tvg-logo="https://i.imgur.com/l6lmlqG.png" group-title="Live Television",ROCK Action
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
@@ -229,7 +230,7 @@ https://qp-pldt-live-bpk-02-prod.akamaized.net/bpk-tv/cg_axn_sd/default/index.mp
 #KODIPROP:inputstream.adaptive.license_key=4503cf86bca3494ab95a77ed913619a0:afc9c8f627fb3fb255dee8e3b0fe1d71
 https://qp-pldt-live-bpk-02-prod.akamaized.net/bpk-tv/cg_warnerhd/default/index.mpd
 
-#EXTINF:-1 ch-number="50" tvg-id="ROCK.Entertainment.hk" tvg-logo="https://i.imgur.com/PWzq0aU.png" group-title="Live Television",Rock Entertainment
+#EXTINF:-1 ch-number="50" tvg-id="ROCK.Entertainment.hk" tvg-logo="https://i.imgur.com/PWzq0aU.png" group-title="Live Television",ROCK Entertainment
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
@@ -312,7 +313,14 @@ https://qp-pldt-live-bpk-01-prod.akamaized.net/bpk-tv/cg_spotvhd/default/index.m
 https://qp-pldt-live-bpk-01-prod.akamaized.net/bpk-tv/dr_spotv2hd/default/index.mpd
 
 #EXTINF:-1 ch-number="63" tvg-id="UFC.TV.ca" tvg-logo="https://1000logos.net/wp-content/uploads/2017/06/Logo-UFC.png" group-title="Live Television",UFC TV
-https://converse.nathcreqtives.com/channels/xtream-ufc-tv-995c9965/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySWQiOiJQSENPUk5FUiIsImlhdCI6MTc3OTUzNzM0MSwiZXhwIjoxNzg0NzIxMzQxLCJhY2NvdW50RXhwaXJlZCI6ZmFsc2UsImFjY291bnRFeHBpcmVzQXQiOjE3ODQ3MjEzNDEsImFsbG93ZWRPcmlnaW5zIjpbImh0dHBzOi8vKiJdfQ.gwh-25mE-Da2DHwyZ0byGWiMo8lBFOD4ve5AJ3dZkpU
+#https://converse.nathcreqtives.com/channels/xtream-ufc-tv-995c9965/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySWQiOiJQSENPUk5FUiIsImlhdCI6MTc3OTUzNzM0MSwiZXhwIjoxNzg0NzIxMzQxLCJhY2NvdW50RXhwaXJlZCI6ZmFsc2UsImFjY291bnRFeHBpcmVzQXQiOjE3ODQ3MjEzNDEsImFsbG93ZWRPcmlnaW5zIjpbImh0dHBzOi8vKiJdfQ.gwh-25mE-Da2DHwyZ0byGWiMo8lBFOD4ve5AJ3dZkpU
+
+#EXTINF:-1 ch-number="63" tvg-id="EDGESPORTS.ph" tvg-logo="https://i.imgur.com/bgQ6kz7.png" group-title="Live Television",Edge Sports
+https://cplaymax.netlify.app/conv_local_edge_sports/cplaymax/manifest.mpd
+
+#EXTINF:-1 ch-number="64" tvg-id="FIGHTSPORTS.ph" tvg-logo="https://i.imgur.com/nV55veq.png" group-title="Live Television",Fight Sports
+https://cplaymax.netlify.app/fight_sports/cplaymax/playlist.m3u8
+
 
 
 ***** LIFESTYLE *****
@@ -618,14 +626,36 @@ https://converse.nathcreqtives.com/channels/bs07/playlist.m3u8?token=eyJhbGciOiJ
 https://converse.nathcreqtives.com/channels/jp33/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySWQiOiJQSENPUk5FUiIsImlhdCI6MTc3OTUzNzM0MSwiZXhwIjoxNzg0NzIxMzQxLCJhY2NvdW50RXhwaXJlZCI6ZmFsc2UsImFjY291bnRFeHBpcmVzQXQiOjE3ODQ3MjEzNDEsImFsbG93ZWRPcmlnaW5zIjpbImh0dHBzOi8vKiJdfQ.gwh-25mE-Da2DHwyZ0byGWiMo8lBFOD4ve5AJ3dZkpU
 
 
-***** SPECIAL BROADCASTS *****
-#EXTINF:-1 ch-number="197" tvg-id="" tvg-logo="" group-title="SPECIAL BROADCAST",PPV 197
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=8ad18258a9814d60a67efc6ec9fb3cbd:7ce6edd4bcf1510583c7739ac8f08e79
-https://qp-pldt-live-grp-04-prod.akamaized.net/out/u/ppvsd197.mpd
 
-#EXTINF:-1 ch-number="300" tvg-id="fifa" tvg-logo="https://images.seeklogo.com/logo-png/53/1/fifa-logo-png_seeklogo-537674.png" tvg-chno="53" group-title="SPECIAL BROADCAST",FIFA+
-https://cignalplaymax.gabuyomarygrace20.workers.dev/fifa/cplaymax/playlist.m3u8
+***** SPECIAL BROADCASTS *****
+#EXTINF:-1 ch-number="197" tvg-id="" tvg-logo="" group-title="SPECIAL BROADCAST",PPV 299
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=549ab7cd35a64bb6bb479ecead04d69d:829799ed534d11fcadeb4b192467e050
+https://qp-pldt-live-bpk-ucd-prod.akamaized.net/bpk-tv/ch299/default/index.mpd
+
+#EXTINF:-1 ch-number="301" tvg-id="fifa1" group-title="SPECIAL BROADCAST",FIFA 1 (via Unifi TV Malaysia)
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=10e2114398744f3880cc96653568da55:d6d40441f9fbebea03ec64c4aea7211f
+https://mc-2vmdh1p0ao.bunny.run/fifa1/dopamine/manifest.mpd
+
+#EXTINF:-1 ch-number="302" tvg-id="fifa2" group-title="SPECIAL BROADCAST",FIFA 2 (via Unifi TV Malaysia)
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=60a3773de4054a9680d6ca2277870a97:0ed58cdb97aaa8efba47b865ea7e8958
+https://mc-2vmdh1p0ao.bunny.run/fifa2/dopamine/manifest.mpd
+
+#EXTINF:-1 ch-number="303" tvg-id="fifa3" group-title="SPECIAL BROADCAST",FIFA 3 (via Unifi TV Malaysia)
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=f88c0e6ef2de4f92b7ce07e50cb2d937:7aff86770a0f0ac16b91a372e148a8bd
+https://mc-2vmdh1p0ao.bunny.run/fifa3/dopamine/manifest.mpd
+
 
 
 ***** RADIO STATIONS *****
