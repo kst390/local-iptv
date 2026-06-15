@@ -1,14 +1,14 @@
 #EXTM3U billed-msg="Live channels and video-on-demand (VOD) are streamed over internet" url-tvg="https://iptv-epg.org/files/epg-ph.xml.gz,https://epgshare01.online/epgshare01/epg_ripper_PH2.xml.gz,https://raw.githubusercontent.com/atone77721/CIGNAL_EPG/main/merged_epg.xml.gz,https://epgshare01.online/epgshare01/epg_ripper_HK1.xml.gz,https://epgshare01.online/epgshare01/epg_ripper_MY1.xml.gz,https://iptv-epg.org/files/epg-kr.xml.gz,https://epgshare01.online/epgshare01/epg_ripper_IN4.xml.gz,https://akariko.netgenx.site/epg/kai-epg.xml,https://github.com/kst390/local-iptv/main/xml.xml"
+
 #EXTINF:-1 ch-number="999" tvg-logo="https://st.depositphotos.com/2274151/3306/i/600/depositphotos_33060717-stock-photo-reserved-red-grunge-stamp.jpg" group-title="Live Television",RESERVED
 https://video.gumlet.io/66fc268e39995a2b6ce85ae3/66fc28d639995a2b6ce8640e/main.m3u8
+
 
 
 ***** Philippine Television *****
 
 #EXTINF:-1 ch-number="2" tvg-id="kapamilya-channel.click" tvg-logo="https://i.imgur.com/clvKHdZ.png" group-title="Live Television",Kapamilya Channel
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-https://cplaymax.netlify.app/kapamilya_converge_mpd/cplaymax/manifest.mpd
+http://136.239.173.2:6610/001/2/ch00000090990000001286/manifest.mpd?AuthInfo=v87HD9rEhwHiAdYyrP20Tg5pgSMSITY%2FHYvvCWJRp%2Bqw65FFCygtQMRRIUPF0xuXytokK1MIobcue1ImXa0ZEA%3D%3D&version=v1.0&BreakPoint=0&virtualDomain=001.live_hls.zte.com&programid=ch00000000000000001694&contentid=ch00000000000000001694&videoid=ch00000090990000001286&recommendtype=0&userid=1004802317138&boid=001&stbid=02%3A00%3A00%3A00%3A00%3A00&terminalflag=1&profilecode=&usersessionid=CCJLYZ04O9IXXX&NeedJITP=1&JITPMediaType=DASH&JITPDRMType=NO
 
 #EXTINF:-1 ch-number="3" tvg-id="PBB" tvg-logo="https://static.wikia.nocookie.net/bigbrother/images/d/dc/PBBCOLLAB2_EYE.png" group-title="Live Television",PBB All-Access
 #KODIPROP:inputstreamaddon=inputstream.adaptive
@@ -117,6 +117,7 @@ http://136.158.97.2:6610/001/2/ch00000090990000001252/manifest.mpd?AuthInfo=v87H
 https://qp-pldt-live-bpk-ucd-prod.akamaized.net/bpk-tv/cg_buko_sd/default/index.mpd
 
 
+
 ***** MOVIES *****
 
 #EXTINF:-1 ch-number="30" tvg-id="3rsTV.ph" tvg-logo="https://i.imgur.com/50RyQA7.jpeg" group-title="Live Television",3rsTV
@@ -174,16 +175,16 @@ https://qp-pldt-live-bpk-01-prod.akamaized.net/bpk-tv/cg_thrill_sd/default/index
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=f56b57b32d7e4b2cb21748c0b56761a7:3df06a89aa01b32655a77d93e09e266f
-#https://qp-pldt-live-bpk-02-prod.akamaized.net/bpk-tv/hitsmovies/default/index.mpd
+https://qp-pldt-live-bpk-02-prod.akamaized.net/bpk-tv/hitsmovies/default/index.mpd
 
-#EXTINF:-1 ch-number="40" tvg-id="MovieSphere" tvg-logo="https://lionsgatechannels.com/assets/img/moviesphere/movie-sphere-large-logo.png" group-title="Live Television",Moviesphere by Lionsgate
+#EXTINF:-1 ch-number="41" tvg-id="MovieSphere" tvg-logo="https://lionsgatechannels.com/assets/img/moviesphere/movie-sphere-large-logo.png" group-title="Live Television",Moviesphere by Lionsgate
 https://cplaymax.netlify.app/moviesphere/cplaymax/playlist.m3u8
 
 #EXTINF:-1 ch-number="41" tvg-id="Star.Movies.in" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_STAR_MOVIES/images/LOGO_HD/image.png" group-title="Live Television",Star Movies India
-https://converse.nathcreqtives.com/channels/star-movies-hd/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySWQiOiJQSENPUk5FUiIsImlhdCI6MTc3OTUzNzM0MSwiZXhwIjoxNzg0NzIxMzQxLCJhY2NvdW50RXhwaXJlZCI6ZmFsc2UsImFjY291bnRFeHBpcmVzQXQiOjE3ODQ3MjEzNDEsImFsbG93ZWRPcmlnaW5zIjpbImh0dHBzOi8vKiJdfQ.gwh-25mE-Da2DHwyZ0byGWiMo8lBFOD4ve5AJ3dZkpU
+#https://converse.nathcreqtives.com/channels/star-movies-hd/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySWQiOiJQSENPUk5FUiIsImlhdCI6MTc3OTUzNzM0MSwiZXhwIjoxNzg0NzIxMzQxLCJhY2NvdW50RXhwaXJlZCI6ZmFsc2UsImFjY291bnRFeHBpcmVzQXQiOjE3ODQ3MjEzNDEsImFsbG93ZWRPcmlnaW5zIjpbImh0dHBzOi8vKiJdfQ.gwh-25mE-Da2DHwyZ0byGWiMo8lBFOD4ve5AJ3dZkpU
 
 #EXTINF:-1 ch-number="42" tvg-id="Star.Movies.Select.HD.in" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_STAR_MOVIES_SELECT/images/LOGO_HD/image.png" group-title="Live Television",Star Movies Select India
-https://converse.nathcreqtives.com/channels/star-movies-select/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySWQiOiJQSENPUk5FUiIsImlhdCI6MTc3OTUzNzM0MSwiZXhwIjoxNzg0NzIxMzQxLCJhY2NvdW50RXhwaXJlZCI6ZmFsc2UsImFjY291bnRFeHBpcmVzQXQiOjE3ODQ3MjEzNDEsImFsbG93ZWRPcmlnaW5zIjpbImh0dHBzOi8vKiJdfQ.gwh-25mE-Da2DHwyZ0byGWiMo8lBFOD4ve5AJ3dZkpU
+#https://converse.nathcreqtives.com/channels/star-movies-select/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySWQiOiJQSENPUk5FUiIsImlhdCI6MTc3OTUzNzM0MSwiZXhwIjoxNzg0NzIxMzQxLCJhY2NvdW50RXhwaXJlZCI6ZmFsc2UsImFjY291bnRFeHBpcmVzQXQiOjE3ODQ3MjEzNDEsImFsbG93ZWRPcmlnaW5zIjpbImh0dHBzOi8vKiJdfQ.gwh-25mE-Da2DHwyZ0byGWiMo8lBFOD4ve5AJ3dZkpU
 
 #EXTINF:-1 ch-number="43" tvg-id="MN+.HD.in" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_MNSYMPLUS/images/LOGO_HD/image.png" group-title="Live Television",MN+ India
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -201,6 +202,7 @@ https://times-ott-live.akamaized.net/mnxhd_wv_drm/index.mpd
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=0f852fb8412b11edb8780242ac120002:4cbc004d8c444f9f996db42059ce8178
 https://qp-pldt-live-bpk-02-prod.akamaized.net/bpk-tv/dr_rockextreme/default/index.mpd
+
 
 
 ***** WESTERN *****
