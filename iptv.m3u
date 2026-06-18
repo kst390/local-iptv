@@ -3,7 +3,7 @@
 #EXTINF:-1 ch-number="999" tvg-id="" tvg-logo="",RESERVED
 #https://video.gumlet.io/66fc268e39995a2b6ce85ae3/66fc28d639995a2b6ce8640e/main.m3u8
 
-#EXTINF:-1 ch-number="1",TestCh001
+#EXTINF:-1 ch-number="1" group-title="Live Television",TestCh001
 https://manifest.googlevideo.com/api/manifest/hls_playlist/expire/1781778725/ei/xXQzavjYB_CLqL8Po-rqkA4/ip/120.29.87.171/id/_7jBrOjIgwc.1/itag/96/source/yt_live_broadcast/requiressl/yes/ratebypass/yes/live/1/sgoap/gir%3Dyes%3Bitag%3D140/sgovp/gir%3Dyes%3Bitag%3D137/rqh/1/hls_chunk_host/rr3---sn-jvhja5g3-hoall.googlevideo.com/xpc/EgVo2aDSNQ%3D%3D/bui/ARmQxEWueWGvFqwwVpsnKatZpwveU4xDe6lKoAOzO75UAYrkEabtUeGBHfCsSktEhRIx-BGDudk6NCrz/spc/SQ-umrjRXMzvoBTgskdUYu6ye8GZvj0AYD_mAlVTb2p3dxbU8g/vprv/1/reg/0/playlist_type/DVR/hcs/sd/initcwndbps/1582500/met/1781757125,/mh/ld/mm/44/mn/sn-jvhja5g3-hoall/ms/lva/mv/m/mvi/3/pl/24/rms/lva,lva/dover/11/pacing/0/keepalive/yes/fexp/51565115,51565682,51987686/mt/1781756433/sparams/expire,ei,ip,id,itag,source,requiressl,ratebypass,live,sgoap,sgovp,rqh,xpc,bui,spc,vprv,reg,playlist_type/sig/AHEqNM4wRAIgF3QPMG3XnGexIcU-DkBRjGpbEMoqRizX8FroiVgS2r8CIBfsXCXDqkxic1jGYUby2gDJpLDHKpfEdu6fkpFHT-cw/lsparams/hls_chunk_host,hcs,initcwndbps,met,mh,mm,mn,ms,mv,mvi,pl,rms/lsig/APaTxxMwRgIhAM5VLWu3gEAlLJLmOkg_B1nsiSCa0_a4hmoRAsyTu5faAiEAlXziYejodJJSHUl53LgniO3AjOMCkSJhZfpDYO3Bl-8%3D/playlist/index.m3u8
 
 #EXTINF:-1 ch-number="2" tvg-id="kapamilya-channel.click" tvg-logo="https://i.imgur.com/clvKHdZ.png" group-title="Live Television",Kapamilya Channel
@@ -536,7 +536,7 @@ https://qp-pldt-live-bpk-02-prod.akamaized.net/bpk-tv/cg_tvnpre/default/index.mp
 #KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Linux; Android 13; UltraBox Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML,like Gecko) Version/4.0 Chrome/136.0.7103.61 Mobile Safari/537.36
 https://linearjitp-playback.astro.com.my/dash-wv/linear/2406/default_ott.mpd
 
-#EXTINF:-1 ch-number="106" tvg-id="CJ-ENM" tvg-logo="https://media.licdn.com/dms/image/v2/C560BAQECK6VwgfsOxw/company-logo_200_200/company-logo_200_200/0/1649150829297/cjenm_logo?e=2147483647&v=beta&t=HP4IiNdSOnEroEi97Ij6oPvnDx8R3GiKSVBWrxXeklQ",K-Content by CJ ENM
+#EXTINF:-1 ch-number="106" tvg-id="CJ-ENM" tvg-logo="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/ecd51263-bb0f-4465-af86-f7ed25e58e70/df6xles-e1ff1ab1-781f-40f9-954e-d716413e47dc.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiIvZi9lY2Q1MTI2My1iYjBmLTQ0NjUtYWY4Ni1mN2VkMjVlNThlNzAvZGY2eGxlcy1lMWZmMWFiMS03ODFmLTQwZjktOTU0ZS1kNzE2NDEzZTQ3ZGMucG5nIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.q6Gnbaz6B_CXBc5ANWvHbPXR5YLflADV7yKaa3Bj5cg" group-title="Live Television",K-Content by CJ ENM
 https://d50a1g0nh14ou.cloudfront.net/e91c6419_2e45_4f6c_a646_b912658d73b8/hls/master.m3u8
 
 #EXTINF:-1 ch-number="107" tvg-id="StudioYG" tvg-logo="https://provider-static.plex.tv/epg/images/ott_channels/logos/ygtv_logo_dark.png"  YG TV
