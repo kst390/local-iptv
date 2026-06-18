@@ -76,11 +76,9 @@ http://136.158.97.2:6610/001/2/ch00000090990000001283/manifest.mpd?AuthInfo=v87H
 https://qp-pldt-live-bpk-01-prod.akamaized.net/bpk-tv/knowledge_channel/default/index.mpd
 
 #EXTINF:-1 ch-number="19" tvg-id="DZMM.dzmm" tvg-logo="https://i.imgur.com/npj41pk.png" group-title="Live Television",DZMM Teleradyo
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=47c093e0c9fd4f80839a0337da3dd876:603248b858276f533a13e17f2f48c711
-https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01006-abs-cbn-teleradyo-dash-abscbnono/48fc2f9d-055e-4c0c-adab-a81b6956a20b/index.mpd
+https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01006-abs-cbn-teleradyo-dash-abscbnono/index.mpd
 
 #EXTINF:-1 ch-number="20" tvg-id="anc.click" tvg-logo="https://i.imgur.com/Bcu69bU.png" group-title="Live Television",ANC
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
@@ -185,7 +183,7 @@ https://qp-pldt-live-bpk-02-prod.akamaized.net/bpk-tv/hitsmovies/default/index.m
 #EXTINF:-1 ch-number="41" tvg-id="SONY.PIX.HD.in" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcROncwYx9ga4o3Nd8TQyplmJk_U4PAnkNtt3Cd0mZSByg_FGNDUB0waF7eY" group-title="Live Television",Sony Pix — India
 #EXTVLCOPT:http-referrer=https://b4uplay.com/
 #KODIPROP:inputstream.adaptive.stream_headers=referer=https://b4uplay.com/
-https://b4uplay.com/sliv/stream.m3u8?id=1000009258&e=.m3u8
+#https://b4uplay.com/sliv/stream.m3u8?id=1000009258&e=.m3u8
 
 #EXTINF:-1 ch-number="42" tvg-id="MOVIES.NOW.in" tvg-logo="" group-title="Live Television",Movies Now - India
 #KODIPROP:inputstream.adaptive.license_type=clearkey 
@@ -544,7 +542,7 @@ https://qp-pldt-live-bpk-02-prod.akamaized.net/bpk-tv/cg_tvnpre/default/index.mp
 #KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Linux; Android 13; UltraBox Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML,like Gecko) Version/4.0 Chrome/136.0.7103.61 Mobile Safari/537.36
 https://linearjitp-playback.astro.com.my/dash-wv/linear/2406/default_ott.mpd
 
-#EXTINF:-1 ch-number="106" tvg-id="CJ-ENM" tvg-logo="https://media.licdn.com/dms/image/v2/C560BAQECK6VwgfsOxw/company-logo_200_200/company-logo_200_200/0/1649150829297/cjenm_logo?e=2147483647&v=beta&t=HP4IiNdSOnEroEi97Ij6oPvnDx8R3GiKSVBWrxXeklQ",CJ ENM
+#EXTINF:-1 ch-number="106" tvg-id="CJ-ENM" tvg-logo="https://media.licdn.com/dms/image/v2/C560BAQECK6VwgfsOxw/company-logo_200_200/company-logo_200_200/0/1649150829297/cjenm_logo?e=2147483647&v=beta&t=HP4IiNdSOnEroEi97Ij6oPvnDx8R3GiKSVBWrxXeklQ",K-Content by CJ ENM
 https://d50a1g0nh14ou.cloudfront.net/e91c6419_2e45_4f6c_a646_b912658d73b8/hls/master.m3u8
 
 #EXTINF:-1 ch-number="107" tvg-id="StudioYG" tvg-logo="https://provider-static.plex.tv/epg/images/ott_channels/logos/ygtv_logo_dark.png"  YG TV
