@@ -3,6 +3,9 @@
 #EXTINF:-1 ch-number="999" tvg-id="" tvg-logo="",RESERVED
 #https://video.gumlet.io/66fc268e39995a2b6ce85ae3/66fc28d639995a2b6ce8640e/main.m3u8
 
+#EXTINF:-1 ch-number="1",TestCh001
+https://manifest.googlevideo.com/api/manifest/hls_playlist/expire/1781778725/ei/xXQzavjYB_CLqL8Po-rqkA4/ip/120.29.87.171/id/_7jBrOjIgwc.1/itag/96/source/yt_live_broadcast/requiressl/yes/ratebypass/yes/live/1/sgoap/gir%3Dyes%3Bitag%3D140/sgovp/gir%3Dyes%3Bitag%3D137/rqh/1/hls_chunk_host/rr3---sn-jvhja5g3-hoall.googlevideo.com/xpc/EgVo2aDSNQ%3D%3D/bui/ARmQxEWueWGvFqwwVpsnKatZpwveU4xDe6lKoAOzO75UAYrkEabtUeGBHfCsSktEhRIx-BGDudk6NCrz/spc/SQ-umrjRXMzvoBTgskdUYu6ye8GZvj0AYD_mAlVTb2p3dxbU8g/vprv/1/reg/0/playlist_type/DVR/hcs/sd/initcwndbps/1582500/met/1781757125,/mh/ld/mm/44/mn/sn-jvhja5g3-hoall/ms/lva/mv/m/mvi/3/pl/24/rms/lva,lva/dover/11/pacing/0/keepalive/yes/fexp/51565115,51565682,51987686/mt/1781756433/sparams/expire,ei,ip,id,itag,source,requiressl,ratebypass,live,sgoap,sgovp,rqh,xpc,bui,spc,vprv,reg,playlist_type/sig/AHEqNM4wRAIgF3QPMG3XnGexIcU-DkBRjGpbEMoqRizX8FroiVgS2r8CIBfsXCXDqkxic1jGYUby2gDJpLDHKpfEdu6fkpFHT-cw/lsparams/hls_chunk_host,hcs,initcwndbps,met,mh,mm,mn,ms,mv,mvi,pl,rms/lsig/APaTxxMwRgIhAM5VLWu3gEAlLJLmOkg_B1nsiSCa0_a4hmoRAsyTu5faAiEAlXziYejodJJSHUl53LgniO3AjOMCkSJhZfpDYO3Bl-8%3D/playlist/index.m3u8
+
 #EXTINF:-1 ch-number="2" tvg-id="kapamilya-channel.click" tvg-logo="https://i.imgur.com/clvKHdZ.png" group-title="Live Television",Kapamilya Channel
 http://136.239.173.2:6610/001/2/ch00000090990000001286/manifest.mpd?AuthInfo=v87HD9rEhwHiAdYyrP20Tg5pgSMSITY%2FHYvvCWJRp%2Bqw65FFCygtQMRRIUPF0xuXytokK1MIobcue1ImXa0ZEA%3D%3D&version=v1.0&BreakPoint=0&virtualDomain=001.live_hls.zte.com&programid=ch00000000000000001694&contentid=ch00000000000000001694&videoid=ch00000090990000001286&recommendtype=0&userid=1004802317138&boid=001&stbid=02%3A00%3A00%3A00%3A00%3A00&terminalflag=1&profilecode=&usersessionid=CCJLYZ04O9IXXX&NeedJITP=1&JITPMediaType=DASH&JITPDRMType=NO
 
