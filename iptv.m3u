@@ -173,32 +173,38 @@ https://qp-pldt-live-bpk-02-prod.akamaized.net/bpk-tv/hitsmovies/default/index.m
 #EXTINF:-1 ch-number="41" tvg-id="" tvg-logo="https://img.dge-prod.dicelaboratory.com/original/2026/02/26103244-32nscymlhkhrxqir.png" group-title="Live Television",Blast Movies
 #http://cdn2.djdoolky76.com/blast/300023.m3u8
 
-#EXTINF:-1 ch-number="42" tvg-id="studiouniversal" tvg-logo="https://img.dge-prod.dicelaboratory.com/original/2024/11/28095948-t3juppy69xl64pap.png" group-title="Live Television",Studio Universal
+#EXTINF:-1 ch-number="41" tvg-id="studiouniversal" tvg-logo="https://img.dge-prod.dicelaboratory.com/original/2024/11/28095948-t3juppy69xl64pap.png" group-title="Live Television",Studio Universal
 http://cdn2.djdoolky76.com/blast/275710.m3u8
 
-#EXTINF:-1 ch-number="43" tvg-id="MOVIES.NOW.in" tvg-logo="https://i.imgur.com/lShH4Z8.png" group-title="Live Television",Movies Now - India
+#EXTINF:-1 ch-number="42" tvg-id="MOVIES.NOW.in" tvg-logo="https://i.imgur.com/lShH4Z8.png" group-title="Live Television",Movies Now - India
 #KODIPROP:inputstream.adaptive.license_type=clearkey 
 #KODIPROP:inputstream.adaptive.license_key=40f019b86241d23ef075633fd7f1e927:058dec845bd340178a388edd104a015e
 https://times-ott-live.akamaized.net/moviesnow_wv_drm/index.mpd
 
-#EXTINF:-1 ch-number="44" tvg-id="MN+.HD.in" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_MNSYMPLUS/images/LOGO_HD/image.png" group-title="Live Television",MN+ — India
+#EXTINF:-1 ch-number="43" tvg-id="MN+.HD.in" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_MNSYMPLUS/images/LOGO_HD/image.png" group-title="Live Television",MN+ — India
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"BY3shFvTQBeKOI7dEEoBXg", "kid":"QPAZuGJB0j7wdWM/1/HpJw" } ], "type":"temporary" }
 https://times-ott-live.akamaized.net/mnplus_wv_drm/index.mpd
 
-#EXTINF:-1 ch-number="45" tvg-id="MNX.in" tvg-logo="https://upload.wikimedia.org/wikipedia/en/5/50/MNX_new_logo.png" group-title="Live Television",MNX — India
+#EXTINF:-1 ch-number="44" tvg-id="MNX.in" tvg-logo="https://upload.wikimedia.org/wikipedia/en/5/50/MNX_new_logo.png" group-title="Live Television",MNX — India
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"BY3shFvTQBeKOI7dEEoBXg", "kid":"QPAZuGJB0j7wdWM/1/HpJw" } ], "type":"temporary" }
 https://times-ott-live.akamaized.net/mnxhd_wv_drm/index.mpd
 
-#EXTINF:-1 ch-number="46" tvg-id="3rs.MovieBox.ph" tvg-logo="https://i.imgur.com/b4rjf8n.png" group-title="Live Television",3rs MovieBox
+#EXTINF:-1 ch-number="45" tvg-id="Star.Movies.in" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_STAR_MOVIES/images/LOGO_HD/image.png" group-title="Live Television",Star Movies — India
+http://desyra.co:80/samsung2861/manager5554/979
+
+#EXTINF:-1 ch-number="46" tvg-id="Star.Movies.Select.HD.in" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_STAR_MOVIES_SELECT/images/LOGO_HD/image.png" group-title="Live Television" group-title="Unsorted",Star Movies Select — India
+http://desyra.co:80/samsung2861/manager5554/218
+
+#EXTINF:-1 ch-number="47" tvg-id="3rs.MovieBox.ph" tvg-logo="https://i.imgur.com/b4rjf8n.png" group-title="Live Television",3rs MovieBox
 https://3rsmoviebox.elektriko4444.workers.dev/moon.m3u8
 
-#EXTINF:-1 ch-number="47" tvg-id="3rsTV.ph" tvg-logo="https://i.imgur.com/50RyQA7.jpeg" group-title="Live Television",3rsTV
+#EXTINF:-1 ch-number="48" tvg-id="3rsTV.ph" tvg-logo="https://i.imgur.com/50RyQA7.jpeg" group-title="Live Television",3rsTV
 https://3rstv.elektriko4444.workers.dev/peanut.m3u8
 
 #EXTINF:-1 ch-number="48" tvg-id="Moviesphere" tvg-logo="https://lionsgatechannels.com/assets/img/moviesphere/movie-sphere-large-logo.png" group-title="Live Television",MovieSphere
-https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00353-lionsgatestudio-moviesphere-lgus/playlist.m3u8
+#https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00353-lionsgatestudio-moviesphere-lgus/playlist.m3u8
 
 #EXTINF:-1 ch-number="49" tvg-id="tvN.Movies.HD.my" tvg-logo="https://i.imgur.com/c4XvwO2.png" group-title="Live Television",tvN Movies
 #KODIPROP:inputstreamaddon=inputstream.adaptive
