@@ -355,21 +355,21 @@ https://otte.live.fly.ww.aiv-cdn.net/syd-nitro/live/clients/dash/enc/8m8cd46i1t/
 #EXTINF:-1 ch-number="75" tvg-id="edgesports" tvg-logo="https://ewsat.com/img/EDGE_SPORT.png" group-title="Live Television",Edge Sports
 http://136.239.158.18:6610/001/2/ch00000090990000001406/manifest.mpd?AuthInfo=v87HD9rEhwHiAdYyrP20Tg5pgSMSITY%2FHYvvCWJRp%2BrD3MimqPOP6OVIBIcXmXdDytokK1MIobcue1ImXa0ZEA%3D%3D&version=v1.0&BreakPoint=0&virtualDomain=001.live_hls.zte.com&programid=ch00000000000000001926&contentid=ch00000000000000001926&videoid=ch00000090990000001406&recommendtype=0&userid=1198953858973&boid=001&stbid=02%3A00%3A00%3A00%3A00%3A00&terminalflag=1&profilecode=&usersessionid=KQCW8SZJ4IXXXX&NeedJITP=1&JITPMediaType=DASH&JITPDRMType=NO
 
-#EXTINF:-1 ch-number="76" tvg-id="fightsports" tvg-logo="https://i.imgur.com/nV55veq.png" group-title="Live Television",TRIAL: Fight Sports
+#EXTINF:-1 ch-number="76" tvg-id="fightsports" tvg-logo="https://i.imgur.com/nV55veq.png" group-title="Live Television",Fight Sports
 https://cdnbal1.indihometv.com/atm/DASH/fightsport/fightsport-avc1_2500000=7-3277707030000000.mpd
 
-#EXTNF:-1 ch-number="77" tvg-id="NFL" tvg-logo="http://img.platform.wurl.dev/channel/1313/lg/f01ee9/LG-Logo-PNG-100x100_v1.png" group-title="Live Television",TRIAL: NFL
+#EXTNF:-1 ch-number="77" tvg-id="NFL" tvg-logo="http://img.platform.wurl.dev/channel/1313/lg/f01ee9/LG-Logo-PNG-100x100_v1.png" group-title="Live Television",NFL
 https://wurllg.global.transmit.live/hls/689629d4e139235851c80caf/v1/lg_nflchannel_1/lg_us/latest/main/hls/playlist.m3u8
 
 #EXTINF:-1 ch-number="78" tvg-id="UFC.TV.ca" tvg-logo="https://1000logos.net/wp-content/uploads/2017/06/Logo-UFC.png" group-title="Live Television",UFC TV
 #https://converse.nathcreqtives.com/channels/xtream-ufc-tv-995c9965/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySWQiOiJQSENPUk5FUiIsImlhdCI6MTc3OTUzNzM0MSwiZXhwIjoxNzg0NzIxMzQxLCJhY2NvdW50RXhwaXJlZCI6ZmFsc2UsImFjY291bnRFeHBpcmVzQXQiOjE3ODQ3MjEzNDEsImFsbG93ZWRPcmlnaW5zIjpbImh0dHBzOi8vKiJdfQ.gwh-25mE-Da2DHwyZ0byGWiMo8lBFOD4ve5AJ3dZkpU
 
-#EXTINF:-1 ch-number="78" tvg-id="299" tvg-logo="https://img.dge-prod.dicelaboratory.com/AUTOx150/2026/06/01100422-06frvrwe8w3np6fv.png" group-title="Live Television",TRIAL: World Cup TV | Aleph Arena
+#EXTINF:-1 ch-number="78" tvg-id="299" tvg-logo="https://img.dge-prod.dicelaboratory.com/AUTOx150/2026/06/01100422-06frvrwe8w3np6fv.png" group-title="Live Television",World Cup TV | Aleph Arena
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=74d68f9d541c4430a0e94292bd478a65:a0a26dd189e54352b488343102a49efb 
 http://burasuto.wasabih.net/blast/304343/master.mpd
 
-#EXTINF:-1 ch-number="79" tvg-id="299" tvg-logo="https://img.dge-prod.dicelaboratory.com/original/2026/06/01100741-xohdgirjqlyydgxq.png" group-title="Live Television",TRIAL: World Cup TV 2
+#EXTINF:-1 ch-number="79" tvg-id="299" tvg-logo="https://img.dge-prod.dicelaboratory.com/original/2026/06/01100741-xohdgirjqlyydgxq.png" group-title="Live Television",World Cup TV 2
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=d11ffa8974f541b1af02d124f7ccefa4:4e40c22c8b9849119670532becfb9306
 http://burasuto.wasabih.net/blast/304344/master.mpd
