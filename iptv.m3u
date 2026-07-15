@@ -9,7 +9,6 @@ http://136.239.173.2:6610/001/2/ch00000090990000001286/manifest.mpd?AuthInfo=v87
 #EXTINF:-1 ch-number="3" tvg-id="kapamilya-channel.click" tvg-logo="https://i.imgur.com/hlCWCDp.png" group-title="Live Television",iWant Kapamilya Channel
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=292dee4236d04054910e9706ee22626b:b7c5d3220f6eb6e042a2bcb367b5c09b
 https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01006-abs-cbn-kapcha-dash-abscbnono/manifest.mpd
 
