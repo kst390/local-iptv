@@ -1,6 +1,6 @@
 #EXTM3U refresh="3" url-tvg="https://raw.githubusercontent.com/atone77721/CIGNAL_EPG/main/merged_epg.xml.gz,https://iptv-epg.org/files/epg-ph.xml.gz,https://epgshare01.online/epgshare01/epg_ripper_PH2.xml.gz,https://epgshare01.online/epgshare01/epg_ripper_HK1.xml.gz,https://epgshare01.online/epgshare01/epg_ripper_MY1.xml.gz,https://iptv-epg.org/files/epg-kr.xml.gz,https://epgshare01.online/epgshare01/epg_ripper_IN4.xml.gz,https://akariko.netgenx.site/epg/kai-epg.xml,https://raw.githubusercontent.com/kst390/local-iptv/main/xml.xml,http://cdn2.djdoolky76.com/epg.xml"
 
-#EXTINF:-1 ch-number="3" group-title="Live Television",RESERVED
+#EXTINF:-1 ch-number="1" group-title="Live Television",RESERVED
 https://video.gumlet.io/66fc268e39995a2b6ce85ae3/66fc28d639995a2b6ce8640e/main.m3u8
 
 #EXTINF:-1 ch-number="2" tvg-id="kapamilya-channel.click" tvg-logo="https://i.imgur.com/clvKHdZ.png" group-title="Live Television",Kapamilya Channel
