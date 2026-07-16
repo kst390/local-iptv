@@ -1,8 +1,0 @@
-#EXTM3U
-#EXT-X-VERSION:3
-#EXT-X-TARGETDURATION:10
-#EXT-X-MEDIA-SEQUENCE:0
-#EXTHTTP:{"User-Agent":"Chrome"}
-#EXTINF:10.000000,
-https://github.com/kst390/local-iptv/raw/refs/heads/main/nba3-to-530.ts
-#EXT-X-ENDLIST
