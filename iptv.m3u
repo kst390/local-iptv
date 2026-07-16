@@ -11,7 +11,7 @@
 #KODIPROP:inputstream.adaptive.license_key=3cdb78338a104ed594175a49532c823d:9c7810c46873053be29d26bf6f753664
 #https://amg19223-amg19223c11-amgplt0352.playout.now3.amagi.tv/playlist/amg19223-amg19223c11-amgplt0352/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="Live Television",TESTCH001
+#EXTINF:-1 group-title="Live Television",TESTCH001
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=f40a52a3ac9b4702bdd5b735d910fd2f:35e4893c6e76546085941be3010932d4
 #KODIPROP:inputstream.adaptive.common_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36&Referer=https://www.iwanttfc.com/&Origin=https://www.iwanttfc.com
@@ -69,14 +69,7 @@ http://136.158.97.2:6610/001/2/ch00000090990000001252/manifest.mpd?AuthInfo=v87H
 #EXTINF:-1 tvg-id="CONV:ALL TV" tvg-logo="https://static.wikia.nocookie.net/abscbn/images/c/c6/ALLTV.png" group-title="Live Television",ALLTV
 http://136.239.158.10:6610/001/2/ch00000090990000001179/manifest.mpd?AuthInfo=v87HD9rEhwHiAdYyrP20Tg5pgSMSITY%2FHYvvCWJRp%2Bow35sHUcBhGBpxqddBGYEnytokK1MIobcue1ImXa0ZEA%3D%3D&version=v1.0&BreakPoint=0&virtualDomain=001.live_hls.zte.com&programid=ch00000000000000001415&contentid=ch00000000000000001415&videoid=ch00000090990000001179&recommendtype=0&userid=1205050496206&boid=001&stbid=02%3A00%3A00%3A00%3A00%3A00&terminalflag=1&profilecode=&usersessionid=02WMA0HI2O3AXX&NeedJITP=1&JITPMediaType=DASH&JITPDRMType=NO
 
-#EXTINF:-1 tvg-id="kapatid_hd.cignal" tvg-logo="https://static.wikia.nocookie.net/tv5network/images/6/60/Kapatid_Channel_white_%282025%29.png/revision/latest/scale-to-width-down/1200?cb=20251229143124" group-title="Live Television", Kapatid Channel
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=8f7a2c913d6b4e5a9f127c8d4e6a1b90:a73d3d1211fb23084c62572706f4539
-#https://ucdn.mediaquest.com.ph/bpk-tv/kapatid_hd/default/index.mpd
-
-#EXTINF:-1 tvg-id="kapatid_hd.cignal" tvg-logo="https://static.wikia.nocookie.net/tv5network/images/6/60/Kapatid_Channel_white_%282025%29.png/revision/latest/scale-to-width-down/1200?cb=20251229143124" group-title="Live Television", Kapatid Channel
+#EXTINF:-1 tvg-id="kapatid_hd.cignal" tvg-logo="https://static.wikia.nocookie.net/tv5network/images/6/60/Kapatid_Channel_white_%282025%29.png" group-title="Live Television",Kapatid Channel
 https://video.gumlet.io/6a268725746ebc0f11c1634a/6a58e4f1a756a01e636b3e20/main.m3u8
 
 #EXTINF:-1 tvg-id="BuKo.ph" tvg-logo="https://i.imgur.com/Wv0K5Yc.png" group-title="Live Television",BuKo
