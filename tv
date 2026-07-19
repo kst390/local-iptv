@@ -200,16 +200,15 @@ https://times-ott-live.akamaized.net/mnplus_wv_drm/index.mpd
 https://times-ott-live.akamaized.net/romedynow_wv_drm/index.mpd
 
 #EXTINF:-1 ch-number="54" tvg-id="Star.Movies.in" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_STAR_MOVIES/images/LOGO_HD/image.png" group-title="Live Television",Star Movies — India
+https://video.gumlet.io/6a268725746ebc0f11c1634a/6a5cdee39c3fca7761f88c2c/main.m3u8
+
+#EXTINF:-1 ch-number="54" tvg-id="Star.Movies.in" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_STAR_MOVIES/images/LOGO_HD/image.png" group-title="Live Television",Star Movies — India
 #KODIPROP:inputstream.adaptive.stream_headers=User-Agent=VLC/3.0.21 LibVLC/3.0.21
 #http://desyra.co:80/samsung2861/manager5554/979
 
 #EXTINF:-1 ch-number="55" tvg-id="Star.Movies.Select.HD.in" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_STAR_MOVIES_SELECT/images/LOGO_HD/image.png" group-title="Live Television" group-title="Live Television",Star Movies Select — India
 #KODIPROP:inputstream.adaptive.stream_headers=User-Agent=VLC/3.0.21 LibVLC/3.0.21
 #http://desyra.co:80/samsung2861/manager5554/218
-
-#EXTINF:-1 ch-number="54" tvg-id="Star.Movies.in" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_STAR_MOVIES/images/LOGO_HD/image.png" group-title="Live Television",Star Movies — India
-https://video.gumlet.io/6a268725746ebc0f11c1634a/6a5cdee39c3fca7761f88c2c/main.m3u8
-
 #EXTINF:-1 ch-number="56" tvg-id="HITS.MOVIES.hk" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/391_144.png" group-title="Live Television",HITS Movies
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
