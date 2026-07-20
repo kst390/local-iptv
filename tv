@@ -61,10 +61,16 @@ http://136.239.158.10:6610/001/2/ch00000090990000001179/manifest.mpd?AuthInfo=v8
 https://ucdn.mediaquest.com.ph/bpk-tv/kapatid_hd/default/index.mpd
 
 #EXTINF:-1 ch-number="18" tvg-id="BuKo.ph" tvg-logo="https://i.imgur.com/Wv0K5Yc.png" group-title="Live Television",BuKo
-https://video.gumlet.io/6a268725746ebc0f11c1634a/6a5cc7649c3fca7761f6dc7f/main.m3u8
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=c8b1d5f42a674e93b8016f2d9c7a5e34:168bbf02d7eca252a61a402e25cb33f5
+https://ucdn.mediaquest.com.ph/bpk-tv/cg_buko_sd/default/index.mpd
 
 #EXTINF:-1 ch-number="19" tvg-id="truefm_tv" tvg-logo="https://static.wikia.nocookie.net/russel/images/9/98/True_TV_Logo_2024.png" group-title="Live Television",True FM TV
-https://video.gumlet.io/6a268725746ebc0f11c1634a/6a5cc7649c3fca7761f6dc7f/main.mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=8c4e9a516d724f30b2187a3c5e9d6041:e25c167573772b510ff8e5282560a349
+https://ucdn.mediaquest.com.ph/bpk-tv/truefm_tv/default/index.mpd
 
 #EXTINF:-1 ch-number="20" tvg-shift="2" tvg-id="OnePH.ph" tvg-logo="https://i.imgur.com/gkluDe9.png" group-title="Live Television",One PH
 http://136.239.173.2:6610/001/2/ch00000090990000001198/manifest.mpd?AuthInfo=v87HD9rEhwHiAdYyrP20TsXah2%2FZLFNNIdWrVrXDMApEZXvFy78Lv6DKuHrHIWsTsyK4TH4mOENKJ45mwOyS0g%3D%3D&version=v1.0&BreakPoint=0&virtualDomain=001.live_hls.zte.com&programid=ch00000000000000001418&contentid=ch00000000000000001418&videoid=ch00000090990000001198&recommendtype=0&userid=1529671159516&boid=001&stbid=02%3A00%3A00%3A00%3A00%3A00&terminalflag=1&profilecode=&usersessionid=P4UJ3LAHAFIXXX&NeedJITP=1&JITPMediaType=DASH&JITPDRMType=NO&IASHttpSessionId=RR20451520260101155239020714&ispcode=55
@@ -113,7 +119,7 @@ http://136.239.173.10:6610/001/2/ch00000090990000001078/manifest.mpd?AuthInfo=v8
 #EXTINF:-1 ch-number="34" tvg-id="viva-cinema.click" tvg-logo="https://static.wikia.nocookie.net/tvfanon6528/images/2/2f/Viva_Cinema_%282021-.n.v.%29.png" group-title="Live Television",Viva Cinema
 http://136.239.158.18:6610/001/2/ch00000090990000001079/manifest.mpd?AuthInfo=v87HD9rEhwHiAdYyrP20Tg5pgSMSITY%2FHYvvCWJRp%2BoglCgy7TAZamPXsCV8PgebytokK1MIobcue1ImXa0ZEA%3D%3D&version=v1.0&BreakPoint=0&virtualDomain=001.live_hls.zte.com&programid=ch00000000000000001138&contentid=ch00000000000000001138&videoid=ch00000090990000001079&recommendtype=0&userid=1897516127558&boid=001&stbid=02%3A00%3A00%3A00%3A00%3A00&terminalflag=1&profilecode=&usersessionid=1Z8S6AOLQ8XXXX&NeedJITP=1&JITPMediaType=DASH&JITPDRMType=NO
 
-#EXTINF:-1 ch-number="35" tvg-id="CELESTIALMOVIEPINOY.ph" tvg-logo="https://i.imgur.com/e5IZsv3.png" group-title="Live Television",Celestial Movies Pinoy
+#EXTINF:-1 ch-number="35" tvg-shift="2" tvg-id="CELESTIALMOVIEPINOY.ph" tvg-logo="https://i.imgur.com/e5IZsv3.png" group-title="Live Television",Celestial Movies Pinoy
 http://136.239.159.20:6610/001/2/ch00000090990000001077/manifest.mpd?AuthInfo=v87HD9rEhwHiAdYyrP20Tg5pgSMSITY%2FHYvvCWJRp%2BrHUpvQtyXgWxpVCozt4hcgytokK1MIobcue1ImXa0ZEA%3D%3D&version=v1.0&BreakPoint=0&virtualDomain=001.live_hls.zte.com&programid=ch00000000000000001136&contentid=ch00000000000000001136&videoid=ch00000090990000001077&recommendtype=0&userid=1863800460286&boid=001&stbid=02%3A00%3A00%3A00%3A00%3A00&terminalflag=1&profilecode=&usersessionid=EJ21Z5961VKXXX&NeedJITP=1&JITPMediaType=DASH&JITPDRMType=NO
 
 #EXTINF:-1 ch-number="36" tvg-id="TagalogMovieChannel_TMC.ph" tvg-logo="https://i.imgur.com/6mNCite.png" group-title="Live Television",Tagalized Movie Channel
@@ -248,7 +254,7 @@ https://ucdn.mediaquest.com.ph/bpk-tv/dr_rockentertainment/default/index.mpd
 #EXTINF:-1 ch-number="63" tvg-shift="2" tvg-id="Thrill.ph" tvg-logo="https://static.wikia.nocookie.net/logos/images/9/9c/Thrill_logo_2014.png/revision/latest/scale-to-width-down/306?cb=20220502112950&path-prefix=vi" group-title="Live Television",Thrill
 http://136.239.173.10:6610/001/2/ch00000090990000001253/manifest.mpd?AuthInfo=v87HD9rEhwHiAdYyrP20Tg5pgSMSITY%2FHYvvCWJRp%2Bq7M3KTlp1dzcZcVVxlNmQdytokK1MIobcue1ImXa0ZEA%3D%3D&version=v1.0&BreakPoint=0&virtualDomain=001.live_hls.zte.com&programid=ch00000000000000001563&contentid=ch00000000000000001563&videoid=ch00000090990000001253&recommendtype=0&userid=1896007622720&boid=001&stbid=02%3A00%3A00%3A00%3A00%3A00&terminalflag=1&profilecode=&usersessionid=8LJ3RRPRMVYXXX&NeedJITP=1&JITPMediaType=DASH&JITPDRMType=NO
 
-#EXTINF:-1 ch-number="64" tvg-id="Celestial.Classic.Movies.my" tvg-logo="https://i.imgur.com/X7OZ3w5.png" group-title="Live Television",Celestial Classic Movies
+#EXTINF:-1 ch-number="64" tvg-shift="1" tvg-id="Celestial.Classic.Movies.my" tvg-logo="https://i.imgur.com/X7OZ3w5.png" group-title="Live Television",Celestial Classic Movies
 http://136.239.158.18:6610/001/2/ch00000090990000001244/manifest.mpd?AuthInfo=v87HD9rEhwHiAdYyrP20Tg5pgSMSITY%2FHYvvCWJRp%2Bp8jImOa2AKrqwa1m%2FJfhceytokK1MIobcue1ImXa0ZEA%3D%3D&version=v1.0&BreakPoint=0&virtualDomain=001.live_hls.zte.com&programid=ch00000000000000001544&contentid=ch00000000000000001544&videoid=ch00000090990000001244&recommendtype=0&userid=1537952098663&boid=001&stbid=02%3A00%3A00%3A00%3A00%3A00&terminalflag=1&profilecode=&usersessionid=WEF0S27HC1HXXX&NeedJITP=1&JITPMediaType=DASH&JITPDRMType=NO
 
 #EXTINF:-1 ch-number="65" tvg-id="CONV:LOTUS" tvg-logo="https://cms.cignal.tv/Upload/Thumbnails/mo-macau-lotus-tv-3757.png" group-title="Live Television", Lotus Macau
@@ -406,7 +412,7 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/2709/default_ott.mpd
 #KODIPROP:inputstream.adaptive.license_key=4e9a6c317d524f808b163c5a2e7d9048:5079e2288b584f47d4bbf8d149b2a986
 https://ucdn.mediaquest.com.ph/bpk-tv/hgtv_hd1/default/index.mpd
 
-#EXTINF:-1 ch-number="100" tvg-id="GlobalTrekker.ph" tvg-logo="https://linear-poster.astro.com.my/prod/logo/Global-Trekker_190x80_TV-Guide.png" group-title="Live Television",Global Trekker
+#EXTINF:-1 ch-number="100" tvg-shift="1" tvg-id="GlobalTrekker.ph" tvg-logo="https://linear-poster.astro.com.my/prod/logo/Global-Trekker_190x80_TV-Guide.png" group-title="Live Television",Global Trekker
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
@@ -505,7 +511,7 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/5108/default_primary.mpd
 #EXTINF:-1 ch-number="122" tvg-id="KBS.World.hk" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRjrxyZu1bPiJ3SdGvhVf3d3Muj5AqQ7ZkGpw&s" group-title="Live Television",KBS World
 http://mnet.x10.mx/koreaiptv/cable/kbsradio.php?c=world
 
-#EXTINF:-1 ch-number="123" ch-number="60" tvg-id="tvN.Movies.HD.my" tvg-logo="https://i.imgur.com/c4XvwO2.png" group-title="Live Television",tvN Movies — Malaysian feed
+#EXTINF:-1 ch-number="123" ch-number="60" tvg-id="tvN.Movies.HD.my" tvg-logo="https://i.imgur.com/c4XvwO2.png" group-title="Live Television",tvN Movies
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -513,7 +519,7 @@ http://mnet.x10.mx/koreaiptv/cable/kbsradio.php?c=world
 #KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Linux; Android 13; UltraBox Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML,like Gecko) Version/4.0 Chrome/136.0.7103.61 Mobile Safari/537.36
 https://linearjitp-playback.astro.com.my/dash-wv/linear/2406/default_ott.mpd
 
-#EXTINF:-1 ch-number="124" tvg-id="tvN.hk" tvg-logo="http://image.tving.com/upload/cms/caic/CAIC1600/C00551.png" group-title="Live Television",tvN Asia
+#EXTINF:-1 ch-number="124" tvg-id="tvN.hk" tvg-logo="http://image.tving.com/upload/cms/caic/CAIC1600/C00551.png" group-title="Live Television",tvN Premium
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
