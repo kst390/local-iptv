@@ -7,10 +7,8 @@ http://136.239.173.2:6610/001/2/ch00000090990000001339/manifest.mpd?AuthInfo=v87
 http://136.239.173.2:6610/001/2/ch00000090990000001286/manifest.mpd?AuthInfo=v87HD9rEhwHiAdYyrP20Tg5pgSMSITY%2FHYvvCWJRp%2Bqw65FFCygtQMRRIUPF0xuXytokK1MIobcue1ImXa0ZEA%3D%3D&version=v1.0&BreakPoint=0&virtualDomain=001.live_hls.zte.com&programid=ch00000000000000001694&contentid=ch00000000000000001694&videoid=ch00000090990000001286&recommendtype=0&userid=1004802317138&boid=001&stbid=02%3A00%3A00%3A00%3A00%3A00&terminalflag=1&profilecode=&usersessionid=CCJLYZ04O9IXXX&NeedJITP=1&JITPMediaType=DASH&JITPDRMType=NO
 
 #EXTINF:-1 ch-number="3" group-title="YouTube" tvg-id="kapamilya-channel.click" tvg-logo="https://i.imgur.com/HuFc2BX.png",Kapamilya Online Live
-#https://beta-live-phcorner.pages.dev/@abscbnentertainment/index.m3u8
 
 #EXTINF:-1 ch-number="3" group-title="iWant" tvg-id="PBB" tvg-logo="https://static.wikia.nocookie.net/bigbrother/images/b/b2/PBB_COLLAB_3_-_EYE.png/revision/latest?cb=20260814051703",PBB All-Access Livestream
-https://video.gumlet.io/6a268725746ebc0f11c1634a/6a7f11c780185520c28b8650/main.m3u8
 
 #EXTINF:-1 ch-number="4" group-title="Converge" tvg-id="ptv.click" tvg-logo="https://static.wikia.nocookie.net/russel/images/d/dc/PTV_4_Para_Sa_Bayan_Alternative_Logo_June_2017.png",PTV
 http://136.239.173.26:6610/001/2/ch00000090990000001086/manifest.mpd?AuthInfo=v87HD9rEhwHiAdYyrP20Tg5pgSMSITY%2FHYvvCWJRp%2BogpxrMDVv1bZ%2FeMkgHZmwQytokK1MIobcue1ImXa0ZEA%3D%3D&version=v1.0&BreakPoint=0&virtualDomain=001.live_hls.zte.com&programid=ch00000000000000001175&contentid=ch00000000000000001175&videoid=ch00000090990000001086&recommendtype=0&userid=1252187837705&boid=001&stbid=02%3A00%3A00%3A00%3A00%3A00&terminalflag=1&profilecode=&usersessionid=I0ZZE3KB7BIXXX&NeedJITP=1&JITPMediaType=DASH&JITPDRMType=NO
@@ -177,10 +175,10 @@ https://times-ott-live.akamaized.net/mnplus_wv_drm/index.mpd
 https://times-ott-live.akamaized.net/romedynow_wv_drm/index.mpd
 
 #EXTINF:-1 ch-number="54" group-title="Worker/Stream" tvg-id="Star.Movies.in" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_STAR_MOVIES/images/LOGO_HD/image.png",Star Movies (India)
-https://ott.djdoolky76.io/api/streams/100/manifest.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySWQiOjIsInN0cmVhbVRva2VuIjoiOGVkOTY4MTIzODE2ZDQyY2U0Y2I5Y2E0YjBkNTI2ZTRlNDFmMDViZTY5MmE1ZjBjNTE3MjU1MjAwNTE3NWQ5OSIsImlhdCI6MTc4ODE3NTg0MSwiZXhwIjoxNzkwNTUzNTk5fQ.g1UEg6uJi2RNR0adllxiD7-H6Bi-QCS0E0n7db_kIN0
+https://smaplcig.dpdns.org/hehe/india_star_movies_hd_a06r/channel.m3u8
 
 #EXTINF:-1 ch-number="55" group-title="Worker/Stream" tvg-id="Star.Movies.Select.HD.in" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_STAR_MOVIES_SELECT/images/LOGO_HD/image.png",Star Movies Select (India)
-https://ott.djdoolky76.io/api/streams/155/manifest.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySWQiOjIsInN0cmVhbVRva2VuIjoiOGVkOTY4MTIzODE2ZDQyY2U0Y2I5Y2E0YjBkNTI2ZTRlNDFmMDViZTY5MmE1ZjBjNTE3MjU1MjAwNTE3NWQ5OSIsImlhdCI6MTc4ODE3NTg0MSwiZXhwIjoxNzkwNTUzNTk5fQ.g1UEg6uJi2RNR0adllxiD7-H6Bi-QCS0E0n7db_kIN0
+https://smaplcig.dpdns.org/hehe/india_star_movies_select_hd_a06q/channel.m3u8
 
 #EXTINF:-1 ch-number="56" group-title="MediaQuest / Cignal" tvg-id="HITS.MOVIES.hk" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/391_144.png",HITS Movies
 #KODIPROP:inputstreamaddon=inputstream.adaptive
@@ -248,45 +246,49 @@ http://136.239.158.18:6610/001/2/ch00000090990000001083/manifest.mpd?AuthInfo=v8
 #KODIPROP:inputstream.adaptive.license_key=e9c4f7312a854d69b0137f6e8c2a5490:1105fa92173b06885be336b887bc4d26
 https://ucdn.mediaquest.com.ph/bpk-tv/cg_onesportsplus_hd1/default/index.mpd
 
-#EXTINF:-1 ch-number="73" group-title="MediaQuest / Cignal" tvg-shift="2" tvg-id="UAAPVarsityChannel.ph" tvg-logo="https://i.imgur.com/V0sxXci.png", UAAP Varsity 
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=b6c9f4218d734a059e165c3d7a2f8049:948aa5c0d0c15c70efb9257f5b75c379
-https://ucdn.mediaquest.com.ph/bpk-tv/cg_uaap_cplay_sd/default/index.mpd
-
-#EXTINF:-1 ch-number="74" group-title="MediaQuest / Cignal" tvg-shift="2" tvg-id="PBARush.ph" tvg-logo="https://i.imgur.com/F2npB7o.png", PBA RUSH
+#EXTINF:-1 ch-number="73" group-title="MediaQuest / Cignal" tvg-shift="2" tvg-id="PBARush.ph" tvg-logo="https://i.imgur.com/F2npB7o.png", PBA RUSH
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=91a5e6327c844f09b2186d3a5e7c2041:984beb3aeff3554c1a5acc04d6044e55
 https://ucdn.mediaquest.com.ph/bpk-tv/cg_pbarush_hd1/default/index.mpd
 
-#EXTINF:-1 ch-number="75" group-title="MediaQuest / Cignal" tvg-shift="2" tvg-id="NBATVPhilippines.ph" tvg-logo="https://i.imgur.com/x1ZG71v.png",NBA TV Philippines
+#EXTINF:-1 ch-number="74" group-title="MediaQuest / Cignal" tvg-shift="2" tvg-id="NBATVPhilippines.ph" tvg-logo="https://i.imgur.com/x1ZG71v.png",NBA TV Philippines
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=2f7c9a615d834e40b2188a6d3c7f9042:41d2ade5ff1798859420e925d5d2080d
 https://ucdn.mediaquest.com.ph/bpk-tv/cgnl_nba/default/index.mpd
 
-#EXTINF:-1 ch-number="76" group-title="Converge" tvg-id="CONV:TAP SPORTS" tvg-logo="https://i.imgur.com/ZsWDiRF.png",Tap Sports
-http://136.239.173.3:6610/001/2/ch00000090990000001151/manifest.mpd?AuthInfo=v87HD9rEhwHiAdYyrP20Tg5pgSMSITY%2FHYvvCWJRp%2BqvuCQC%2BfGfSFGYE2TZKWpbytokK1MIobcue1ImXa0ZEA%3D%3D&version=v1.0&BreakPoint=0&virtualDomain=001.live_hls.zte.com&programid=ch00000000000000001321&contentid=ch00000000000000001321&videoid=ch00000090990000001151&recommendtype=0&userid=1148739009053&boid=001&stbid=02%3A00%3A00%3A00%3A00%3A00&terminalflag=1&profilecode=&usersessionid=Z6EHYVCYR3XXXX&NeedJITP=1&JITPMediaType=DASH&JITPDRMType=NO
+#EXTINF:-1 ch-number="75" group-title="MediaQuest / Cignal" tvg-shift="2" tvg-id="UAAPVarsityChannel.ph" tvg-logo="https://i.imgur.com/V0sxXci.png", UAAP Varsity 
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=b6c9f4218d734a059e165c3d7a2f8049:948aa5c0d0c15c70efb9257f5b75c379
+https://ucdn.mediaquest.com.ph/bpk-tv/cg_uaap_cplay_sd/default/index.mpd
 
-#EXTINF:-1 ch-number="77" group-title="Converge" tvg-id="CONV:PREMIER SPORTS" tvg-logo="https://img.dge-prod.dicelaboratory.com/AUTOx150/2026/04/30155044-0kku5yurn6llsmti.png",Premier Sports
-http://136.239.173.10:6610/001/2/ch00000090990000001135/manifest.mpd?AuthInfo=v87HD9rEhwHiAdYyrP20Tg5pgSMSITY%2FHYvvCWJRp%2BoP1uzasPUQtxzHrrWIYilSytokK1MIobcue1ImXa0ZEA%3D%3D&version=v1.0&BreakPoint=0&virtualDomain=001.live_hls.zte.com&programid=ch00000000000000001282&contentid=ch00000000000000001282&videoid=ch00000090990000001135&recommendtype=0&userid=1603895214902&boid=001&stbid=02%3A00%3A00%3A00%3A00%3A00&terminalflag=1&profilecode=&usersessionid=ZGWMVRUB2AQXXX&NeedJITP=1&JITPMediaType=DASH&JITPDRMType=NO
+#EXTINF:-1 ch-number="76" group-title="MediaQuest / Cignal" tvg-id="NCAANext" tvg-logo="https://liveplayph.pages.dev/assets/logos/ncaa_nxt_logo.png",NCAA NXT
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=d84f2a917c364e58b10963a7f2c8d451:e75d40a44350a148b32ad27081eadacb
+https://ucdn.mediaquest.com.ph/bpk-tv/cg_ncaa/default/index.mpd
 
-#EXTINF:-1 ch-number="78" group-title="Converge" tvg-id="CONV:PREMIER SPORTS 2" tvg-logo="https://img.dge-prod.dicelaboratory.com/AUTOx150/2026/04/30155105-tfcip80gbtqkmoup.png",Premier Sports 2
-http://161.49.17.2:6610/001/2/ch00000090990000001204/manifest.mpd?AuthInfo=v87HD9rEhwHiAdYyrP20Tg5pgSMSITY%2FHYvvCWJRp%2Br3I6nJHzuTbw9BKFgOyZjfytokK1MIobcue1ImXa0ZEA%3D%3D&version=v1.0&BreakPoint=0&virtualDomain=001.live_hls.zte.com&programid=ch00000000000000001464&contentid=ch00000000000000001464&videoid=ch00000090990000001204&recommendtype=0&userid=1844529598285&boid=001&stbid=02%3A00%3A00%3A00%3A00%3A00&terminalflag=1&profilecode=&usersessionid=QG5AARDQQ8FXXX&NeedJITP=1&JITPMediaType=DASH&JITPDRMType=NO
-
-#EXTINF:-1 ch-number="79" group-title="Converge" tvg-id="premierfootball" tvg-logo="https://static.wikia.nocookie.net/russel/images/4/44/Premier_Football_Logo_November_2020.png/revision/latest/scale-to-width-down/250?cb=20220402065521",Premier Football
-http://161.49.17.2:6610/001/2/ch00000090990000001127/manifest.mpd?AuthInfo=v87HD9rEhwHiAdYyrP20Tg5pgSMSITY%2FHYvvCWJRp%2BqqxWqB5I3LphK7WUAFquWrytokK1MIobcue1ImXa0ZEA%3D%3D&version=v1.0&BreakPoint=0&virtualDomain=001.live_hls.zte.com&programid=ch00000000000000001293&contentid=ch00000000000000001293&videoid=ch00000090990000001127&recommendtype=0&userid=1446387897422&boid=001&stbid=02%3A00%3A00%3A00%3A00%3A00&terminalflag=1&profilecode=&usersessionid=OY4RBOUL5WXXXX&NeedJITP=1&JITPMediaType=DASH&JITPDRMType=NO
-
-#EXTINF:-1 ch-number="80" group-title="MediaQuest / Cignal" tvg-id="PilipinasLive" tvg-logo="https://pilipinaslive.com/assets/images/logo/pilipinaslive-logo-wbg.png",PREMIUM: Pilipinas Live
+#EXTINF:-1 ch-number="77" group-title="MediaQuest / Cignal" tvg-id="PilipinasLive" tvg-logo="https://pilipinaslive.com/assets/images/logo/pilipinaslive-logo-wbg.png",PREMIUM Pilipinas Live
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=63055a8904644407a64a57874703f71e:0fd611777d37a7ff8afce19d9cee2e91
 https://ucdn.mediaquest.com.ph/bpk-tv/pl_sdi10/default/index.mpd
+
+#EXTINF:-1 ch-number="78" group-title="Converge" tvg-id="CONV:TAP SPORTS" tvg-logo="https://i.imgur.com/ZsWDiRF.png",Tap Sports
+http://136.239.173.3:6610/001/2/ch00000090990000001151/manifest.mpd?AuthInfo=v87HD9rEhwHiAdYyrP20Tg5pgSMSITY%2FHYvvCWJRp%2BqvuCQC%2BfGfSFGYE2TZKWpbytokK1MIobcue1ImXa0ZEA%3D%3D&version=v1.0&BreakPoint=0&virtualDomain=001.live_hls.zte.com&programid=ch00000000000000001321&contentid=ch00000000000000001321&videoid=ch00000090990000001151&recommendtype=0&userid=1148739009053&boid=001&stbid=02%3A00%3A00%3A00%3A00%3A00&terminalflag=1&profilecode=&usersessionid=Z6EHYVCYR3XXXX&NeedJITP=1&JITPMediaType=DASH&JITPDRMType=NO
+
+#EXTINF:-1 ch-number="79" group-title="Converge" tvg-id="CONV:PREMIER SPORTS" tvg-logo="https://img.dge-prod.dicelaboratory.com/AUTOx150/2026/04/30155044-0kku5yurn6llsmti.png",Premier Sports
+http://136.239.173.10:6610/001/2/ch00000090990000001135/manifest.mpd?AuthInfo=v87HD9rEhwHiAdYyrP20Tg5pgSMSITY%2FHYvvCWJRp%2BoP1uzasPUQtxzHrrWIYilSytokK1MIobcue1ImXa0ZEA%3D%3D&version=v1.0&BreakPoint=0&virtualDomain=001.live_hls.zte.com&programid=ch00000000000000001282&contentid=ch00000000000000001282&videoid=ch00000090990000001135&recommendtype=0&userid=1603895214902&boid=001&stbid=02%3A00%3A00%3A00%3A00%3A00&terminalflag=1&profilecode=&usersessionid=ZGWMVRUB2AQXXX&NeedJITP=1&JITPMediaType=DASH&JITPDRMType=NO
+
+#EXTINF:-1 ch-number="80" group-title="Converge" tvg-id="CONV:PREMIER SPORTS 2" tvg-logo="https://img.dge-prod.dicelaboratory.com/AUTOx150/2026/04/30155105-tfcip80gbtqkmoup.png",Premier Sports 2
+http://161.49.17.2:6610/001/2/ch00000090990000001204/manifest.mpd?AuthInfo=v87HD9rEhwHiAdYyrP20Tg5pgSMSITY%2FHYvvCWJRp%2Br3I6nJHzuTbw9BKFgOyZjfytokK1MIobcue1ImXa0ZEA%3D%3D&version=v1.0&BreakPoint=0&virtualDomain=001.live_hls.zte.com&programid=ch00000000000000001464&contentid=ch00000000000000001464&videoid=ch00000090990000001204&recommendtype=0&userid=1844529598285&boid=001&stbid=02%3A00%3A00%3A00%3A00%3A00&terminalflag=1&profilecode=&usersessionid=QG5AARDQQ8FXXX&NeedJITP=1&JITPMediaType=DASH&JITPDRMType=NO
 
 #EXTINF:-1 ch-number="81" group-title="Worker/Stream" tvg-id="tennischannel1" tvg-logo="https://yt3.googleusercontent.com/6gQtO-Xie-l2U9tLO4QYGN4HJVRbCTzaXewWJD1IqfnNMTxK3sTMGBuoj0hY_PlkpQHxloYPRjc=s900-c-k-c0x00ffffff-no-rj",Tennis Channel
 https://amg01444-tennischannelth-tennischnlintl-lggb-mr3r5.amagi.tv/ts-eu-w1-n2/playlist/amg01444-tennischannelth-tennischnlintl-lggb/cb543d1e796c678e99d43d66d9ef45a1f9661fde1d6988693eb5518975d1073edce2a59caa08ff16388f1ede7f0a66413a3e951fda77118fd87ea341763a1d759f98ac7bc089655ce183503528b37b1e51ff0e14c0530a60dcef1510ca6ce0294b43aa4d6d536489bf51ab744fc1d40dd962288afbdc7c317f535e820b0ce4f20aa2aae50b46dc3ec38b2678b71f6fd79872cbe4761bb1ee3be31ccc2fad48cc8df595d3009ae1c83dfd08f5274976163dc8d037c3921d81d3943f6dc73130104a0ea6b185a41f69d6091315b8d8cebc6ef05c9cd974d13066eb51d8698d228f6da511e8b01bf0e3ebad372b5393cd556528b7f6e0dbab47549352bbf3b9932306dc9c735548d364d42e2a42e1dbc20681c51a8ef66ec58360133ccf8656d9fa9686fcbb99458c2fa89ead785cfeaa8ab46442eb91e600fe3f39ef1b7c88beb0f01f/99/1280x720_2657600/index.m3u8
@@ -575,15 +577,6 @@ http://136.239.173.26:6610/001/2/ch00000090990000001202/manifest.mpd?AuthInfo=v8
 #KODIPROP:inputstream.adaptive.common_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36&Referer=https://www.iwanttfc.com/&Origin=https://www.iwanttfc.com
 #KODIPROP:inputstream.adaptive.license_key=292dee4236d04054910e9706ee22626b:b7c5d3220f6eb6e042a2bcb367b5c09b
 https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01006-abs-cbn-kapcha-dash-abscbnono/manifest.mpd
-
-#EXTINF:-1 ch-number="151" group-title="iWant" tvg-logo="https://pql-static.abs-cbn.com/images/itsshowtime.thumb-landscape.jpg?im_policy=landscapeThumb_tv_fhd",It's Showtime Livestream
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.common_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36&Referer=https://www.iwanttfc.com/&Origin=https://www.iwanttfc.com
-#KODIPROP:inputstream.adaptive.license_key=3cdb78338a104ed594175a49532c823d:9c7810c46873053be29d26bf6f753664
-https://abslive.akamaized.net/dash/live/2027618/itsshowtime/manifest.mpd
-
-#EXTINF:-1 ch-number="152" group-title="Worker/Stream" tvg-logo="https://pql-static.abs-cbn.com/images/itsshowtime.thumb-landscape.jpg?im_policy=landscapeThumb_tv_fhd",It's Showtime Livestream
-
 
 #EXTINF:-1 type="radio" tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/15/MOR_Entertainment_logo.png" group-title="Radio Station (FM/AM)",MOR Entertainment (ABS-CBN)
 https://stream-289.zeno.fm/0ha8ftewqp8uv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiIwaGE4ZnRld3FwOHV2IiwiaG9zdCI6InN0cmVhbS0yODkuemVuby5mbSIsInJ0dGwiOjUsImp0aSI6Im4weUYxOFhMUUNpZ3RGNmRiM0FCT1EiLCJpYXQiOjE3Nzg5MjEwNDYsImV4cCI6MTc3ODkyMTEwNn0.38gcTiir085KN2juW8cSO1vUCGXkdfTEVuWENqYTNgg&aw_0_req_lsid=6539a79957fbed1bacb897ce9ddc7c00
