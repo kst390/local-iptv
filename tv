@@ -6,7 +6,7 @@ http://136.239.173.2:6610/001/2/ch00000090990000001339/manifest.mpd?AuthInfo=v87
 #EXTINF:-1 ch-number="2" group-title="Converge" tvg-id="kapamilya-channel.click" tvg-logo="https://i.imgur.com/GMGFGoz.png",Kapamilya Channel
 http://136.239.173.2:6610/001/2/ch00000090990000001286/manifest.mpd?AuthInfo=v87HD9rEhwHiAdYyrP20Tg5pgSMSITY%2FHYvvCWJRp%2Bqw65FFCygtQMRRIUPF0xuXytokK1MIobcue1ImXa0ZEA%3D%3D&version=v1.0&BreakPoint=0&virtualDomain=001.live_hls.zte.com&programid=ch00000000000000001694&contentid=ch00000000000000001694&videoid=ch00000090990000001286&recommendtype=0&userid=1004802317138&boid=001&stbid=02%3A00%3A00%3A00%3A00%3A00&terminalflag=1&profilecode=&usersessionid=CCJLYZ04O9IXXX&NeedJITP=1&JITPMediaType=DASH&JITPDRMType=NO
 
-#EXTINF:-1 ch-number="3" group-title="iWant" tvg-id="PBB" tvg-logo="https://static.wikia.nocookie.net/bigbrother/images/b/b2/PBB_COLLAB_3_-_EYE.png/revision/latest?cb=20260814051703",PBB All-Access
+#EXTINF:-1 ch-number="3" group-title="iWant" tvg-id="PBB" tvg-logo="https://i.imgur.com/X1VUmzw.png",PBB All-Access
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
@@ -28,10 +28,10 @@ http://136.158.97.2:6610/001/2/ch00000090990000001093/manifest.mpd?AuthInfo=v87H
 #EXTINF:-1 ch-number="8" group-title="Converge" tvg-id="gtv.click" tvg-logo="https://i.imgur.com/geuq18u.png",GTV
 http://136.239.159.18:6610/001/2/ch00000090990000001143/manifest.mpd?AuthInfo=v87HD9rEhwHiAdYyrP20Tg5pgSMSITY%2FHYvvCWJRp%2BrwAtJC%2BsmBQ5ARU076BdkhytokK1MIobcue1ImXa0ZEA%3D%3D&version=v1.0&BreakPoint=0&virtualDomain=001.live_hls.zte.com&programid=ch00000000000000001313&contentid=ch00000000000000001313&videoid=ch00000090990000001143&recommendtype=0&userid=1590268675436&boid=001&stbid=02%3A00%3A00%3A00%3A00%3A00&terminalflag=1&profilecode=&usersessionid=AAIUZ2MAG7XXXX&NeedJITP=1&JITPMediaType=DASH&JITPDRMType=NO
 
-#EXTINF:-1 ch-number="9" group-title="iWant" tvg-id="PBB" tvg-logo="https://static.wikia.nocookie.net/bigbrother/images/b/b2/PBB_COLLAB_3_-_EYE.png/revision/latest?cb=20260814051703",PBB All-Access: Dining Area
+#EXTINF:-1 ch-number="9" group-title="iWant" tvg-id="PBB" tvg-logo="https://i.imgur.com/oZXnkcZ.png",PBB All-Access: Dining Area
 https://video.gumlet.io/6a268725746ebc0f11c1634a/6abc6da20d4cff7ad1227dac/main.m3u8
 
-#EXTINF:-1 ch-number="10" group-title="iWant" tvg-id="PBB" tvg-logo="https://static.wikia.nocookie.net/bigbrother/images/b/b2/PBB_COLLAB_3_-_EYE.png/revision/latest?cb=20260814051703",PBB All-Access: External Den
+#EXTINF:-1 ch-number="10" group-title="iWant" tvg-id="PBB" tvg-logo="https://i.imgur.com/WmZOpKD.png",PBB All-Access: External Den
 https://video.gumlet.io/6a268725746ebc0f11c1634a/6abc6da20d4cff7ad1227dac/main.m3u8
 
 #EXTINF:-1 ch-number="11" group-title="Converge" tvg-id="a2z.click" tvg-logo="https://liveplayph.pages.dev/assets/logos/a2z_logo.png",A2Z
