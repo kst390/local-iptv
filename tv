@@ -1,4 +1,4 @@
-#EXTM3U refresh="2" url-tvg="https://raw.githubusercontent.com/atone77721/CIGNAL_EPG/main/merged_epg.xml.gz,https://iptv-epg.org/files/epg-ph.xml.gz,t,https://epgshare01.online/epgshare01/epg_ripper_HK1.xml.gz,https://epgshare01.online/epgshare01/epg_ripper_MY1.xml.gz,https://iptv-epg.org/files/epg-kr.xml.gz,https://epgshare01.online/epgshare01/epg_ripper_IN4.xml.gz"
+#EXTM3U refresh="2" url-tvg="https://raw.githubusercontent.com/atone77721/CIGNAL_EPG/main/merged_epg.xml.gz,https://epgshare01.online/epgshare01/epg_ripper_PH2.xml.gz,https://epgshare01.online/epgshare01/epg_ripper_HK1.xml.gz,https://epgshare01.online/epgshare01/epg_ripper_MY1.xml.gz,https://iptv-epg.org/files/epg-kr.xml.gz,https://epgshare01.online/epgshare01/epg_ripper_IN4.xml.gz"
 
 #EXTINF:-1 ch-number="1" group-title="Converge" tvg-logo="https://business.inquirer.net/files/2025/11/Converge-ICT-logo_Color-07November2025.png",Advisory Channel
 http://136.239.173.2:6610/001/2/ch00000090990000001339/manifest.mpd?AuthInfo=v87HD9rEhwHiAdYyrP20TsXah2%2FZLFNNIdWrVrXDMArIns6uYH1PmyGMLXykGGlJ2%2FjHNuou2Jtxin49X3LQKw%3D%3D&version=v1.0&BreakPoint=0&virtualDomain=001.live_hls.zte.com&programid=ch00000000000000001830&contentid=ch00000000000000001830&videoid=ch00000090990000001339&recommendtype=0&userid=1484278731567&boid=001&stbid=02%3A00%3A00%3A00%3A00%3A00&terminalflag=1&profilecode=&usersessionid=0BULWC8LCNH8XX&NeedJITP=1&JITPMediaType=DASH&JITPDRMType=NO&IASHttpSessionId=RR20448620260101155241367240&ispcode=55
@@ -13,26 +13,34 @@ http://136.239.173.2:6610/001/2/ch00000090990000001286/manifest.mpd?AuthInfo=v87
 #KODIPROP:inputstream.adaptive.license_key=5208606a1a5e4750bc7aaafa3bbad84c:246d9c7efc6d96d8d596aa294313e17b
 https://absp-live.akamaized.net/dash/live/2099522/pbbcollab30allaccesslivestream/manifest.mpd
 
-#EXTINF:-1 ch-number="4" group-title="Converge" tvg-id="PTV.ph" tvg-logo="https://static.wikia.nocookie.net/russel/images/d/dc/PTV_4_Para_Sa_Bayan_Alternative_Logo_June_2017.png",PTV
+#EXTINF:-1 ch-number="4" group-title="Converge" tvg-id="ptv.click" tvg-logo="https://static.wikia.nocookie.net/russel/images/d/dc/PTV_4_Para_Sa_Bayan_Alternative_Logo_June_2017.png",PTV
 http://136.239.173.26:6610/001/2/ch00000090990000001086/manifest.mpd?AuthInfo=v87HD9rEhwHiAdYyrP20Tg5pgSMSITY%2FHYvvCWJRp%2BogpxrMDVv1bZ%2FeMkgHZmwQytokK1MIobcue1ImXa0ZEA%3D%3D&version=v1.0&BreakPoint=0&virtualDomain=001.live_hls.zte.com&programid=ch00000000000000001175&contentid=ch00000000000000001175&videoid=ch00000090990000001086&recommendtype=0&userid=1252187837705&boid=001&stbid=02%3A00%3A00%3A00%3A00%3A00&terminalflag=1&profilecode=&usersessionid=I0ZZE3KB7BIXXX&NeedJITP=1&JITPMediaType=DASH&JITPDRMType=NO
 
-#EXTINF:-1 ch-number="5" group-title="Converge" tvg-id="tv5.ph.tv5" tvg-logo="https://i.imgur.com/xrhvr2Y.png",TV5
+#EXTINF:-1 ch-number="5" group-title="Converge" tvg-id="tv5.click" tvg-logo="https://i.imgur.com/xrhvr2Y.png",TV5
 http://136.239.158.30:6610/001/2/ch00000090990000001088/manifest.mpd?AuthInfo=v87HD9rEhwHiAdYyrP20Tg5pgSMSITY%2FHYvvCWJRp%2Boh0xOsaoSFLqA0PEh9gVjiytokK1MIobcue1ImXa0ZEA%3D%3D&version=v1.0&BreakPoint=0&virtualDomain=001.live_hls.zte.com&programid=ch00000000000000001213&contentid=ch00000000000000001213&videoid=ch00000090990000001088&recommendtype=0&userid=1150006064464&boid=001&stbid=02%3A00%3A00%3A00%3A00%3A00&terminalflag=1&profilecode=&usersessionid=J62NMXIGLTMXXX&NeedJITP=1&JITPMediaType=DASH&JITPDRMType=NO
 
 #EXTINF:-1 ch-number="6" group-title="Converge" tvg-id="cnn_rptv_prod_hd.cignal" tvg-logo="https://static.wikia.nocookie.net/russel/images/f/fb/RPTV_Alternative_Logo_2024.png",RPTV
 http://136.158.97.2:6610/001/2/ch00000090990000001094/manifest.mpd?AuthInfo=v87HD9rEhwHiAdYyrP20Tg5pgSMSITY%2FHYvvCWJRp%2BplioRPAB6XCf%2FrlkX7xxQZytokK1MIobcue1ImXa0ZEA%3D%3D&version=v1.0&BreakPoint=0&virtualDomain=001.live_hls.zte.com&programid=ch00000000000000001215&contentid=ch00000000000000001215&videoid=ch00000090990000001094&recommendtype=0&userid=1177699247918&boid=001&stbid=02%3A00%3A00%3A00%3A00%3A00&terminalflag=1&profilecode=&usersessionid=YBHPP0KWBIFXXX&NeedJITP=1&JITPMediaType=DASH&JITPDRMType=NO
 
-#EXTINF:-1 ch-number="7" group-title="Converge" tvg-id="GMA.ph" tvg-logo="https://i.imgur.com/qqpsrHd.png",GMA
+#EXTINF:-1 ch-number="7" group-title="Converge" tvg-id="gma.click" tvg-logo="https://i.imgur.com/qqpsrHd.png",GMA
 http://136.158.97.2:6610/001/2/ch00000090990000001093/manifest.mpd?AuthInfo=v87HD9rEhwHiAdYyrP20Tg5pgSMSITY%2FHYvvCWJRp%2BoLvT86fM74ocVChyFS93HUytokK1MIobcue1ImXa0ZEA%3D%3D&version=v1.0&BreakPoint=0&virtualDomain=001.live_hls.zte.com&programid=ch00000000000000001214&contentid=ch00000000000000001214&videoid=ch00000090990000001093&recommendtype=0&userid=1084724632836&boid=001&stbid=02%3A00%3A00%3A00%3A00%3A00&terminalflag=1&profilecode=&usersessionid=FGE3OISG4KGXXX&NeedJITP=1&JITPMediaType=DASH&JITPDRMType=NO
 
 #EXTINF:-1 ch-number="8" group-title="Converge" tvg-id="gtv.click" tvg-logo="https://i.imgur.com/geuq18u.png",GTV
 http://136.239.159.18:6610/001/2/ch00000090990000001143/manifest.mpd?AuthInfo=v87HD9rEhwHiAdYyrP20Tg5pgSMSITY%2FHYvvCWJRp%2BrwAtJC%2BsmBQ5ARU076BdkhytokK1MIobcue1ImXa0ZEA%3D%3D&version=v1.0&BreakPoint=0&virtualDomain=001.live_hls.zte.com&programid=ch00000000000000001313&contentid=ch00000000000000001313&videoid=ch00000090990000001143&recommendtype=0&userid=1590268675436&boid=001&stbid=02%3A00%3A00%3A00%3A00%3A00&terminalflag=1&profilecode=&usersessionid=AAIUZ2MAG7XXXX&NeedJITP=1&JITPMediaType=DASH&JITPDRMType=NO
 
 #EXTINF:-1 ch-number="9" group-title="iWant" tvg-id="PBB" tvg-logo="https://i.imgur.com/oZXnkcZ.png",PBB All-Access: Dining Area
-https://video.gumlet.io/6a268725746ebc0f11c1634a/6abc6da20d4cff7ad1227dac/main.m3u8
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=ac87b335cfd44a8589f96a4f8534c674:4b9066c7778e74b899c2f57d977149b1
+https://absp-live.akamaized.net/dash/live/2099522/pbbcollab30allaccesslivestream-diningarea/manifest.mpd
 
 #EXTINF:-1 ch-number="10" group-title="iWant" tvg-id="PBB" tvg-logo="https://i.imgur.com/WmZOpKD.png",PBB All-Access: External Den
-https://video.gumlet.io/6a268725746ebc0f11c1634a/6abc6da20d4cff7ad1227dac/main.m3u8
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=01f5f16338aa4302b5fc5e3e2c50cd3d:0dbd0f05009fa64614de990f56b3f322
+https://absp-live.akamaized.net/dash/live/2099522/pbbcollab30allaccesslivestream-externalden/manifest.mpd
 
 #EXTINF:-1 ch-number="11" group-title="Converge" tvg-id="a2z.click" tvg-logo="https://liveplayph.pages.dev/assets/logos/a2z_logo.png",A2Z
 http://136.239.173.2:6610/001/2/ch00000090990000001087/manifest.mpd?AuthInfo=v87HD9rEhwHiAdYyrP20Tg5pgSMSITY%2FHYvvCWJRp%2BqHRrK8UUahwItHhKpXgPXKytokK1MIobcue1ImXa0ZEA%3D%3D&version=v1.0&BreakPoint=0&virtualDomain=001.live_hls.zte.com&programid=ch00000000000000001176&contentid=ch00000000000000001176&videoid=ch00000090990000001087&recommendtype=0&userid=1287297673984&boid=001&stbid=02%3A00%3A00%3A00%3A00%3A00&terminalflag=1&profilecode=&usersessionid=U4DB4Z0H2EXXXX&NeedJITP=1&JITPMediaType=DASH&JITPDRMType=NO
