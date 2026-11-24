@@ -6,10 +6,12 @@ http://136.239.173.2:6610/001/2/ch00000090990000001339/manifest.mpd?AuthInfo=v87
 #EXTINF:-1 ch-number="2" group-title="Converge" tvg-id="kapamilya-channel" tvg-logo="https://i.imgur.com/GMGFGoz.png",Kapamilya Channel
 http://136.239.173.2:6610/001/2/ch00000090990000001286/manifest.mpd?AuthInfo=v87HD9rEhwHiAdYyrP20Tg5pgSMSITY%2FHYvvCWJRp%2Bqw65FFCygtQMRRIUPF0xuXytokK1MIobcue1ImXa0ZEA%3D%3D&version=v1.0&BreakPoint=0&virtualDomain=001.live_hls.zte.com&programid=ch00000000000000001694&contentid=ch00000000000000001694&videoid=ch00000090990000001286&recommendtype=0&userid=1004802317138&boid=001&stbid=02%3A00%3A00%3A00%3A00%3A00&terminalflag=1&profilecode=&usersessionid=CCJLYZ04O9IXXX&NeedJITP=1&JITPMediaType=DASH&JITPDRMType=NO
 
-#EXTINF:-1 ch-number="3" type="playlist" group-title="iWant" tvg-id="PBB" tvg-logo="https://img.iwanttfc.com/images/master/PBBCOLLAB3EXTRA_LIVETITLETREATMENT_2026_V1_20261123032458.png",iWant PBB Extra
-https://aps12.playlist.ttvnw.net/v1/playlist/CswHFKaMYz8zEJCkvNUzfplzX2XR4O-fP9j8dn6bcVeQVYgXLFtTYIg-QHjJK6LUJlyZBT3DKizglifFpzSCEQsacVkFdSmVWdvLIEMPJjXNQrbw2IfUfE72sWxNslUkHTJaa9HMNHga35LcFBXRLBxpuP46nnDwLIZqnZeTj8DtM34lSdlkicHW_Srp3yFw5Gx-lq_xZs2qAchDPtCW7pJcXzMhxoMMEVzLLnUZOZG7KLXev6AYP2QOh9WSUjo2HNqpo8I-c7_v3G3jsD1aO9-c3x12FbEK4rafZl-c6VYldc-eqeaFhbDGzj64OFbYJynLUxwI5yyQZcz5IZwEooJXRT6KVK3RvhpdUhTAiUePTd7g8lOXstIzctGMI9Nghti7l_XjGmaCVF6eX37S6YH7kqUoTb073pPqyN0PPX_ClSXguEbsUyxEIiPafTp9BK6EYJrydf383orJrZ1i3vlxVmizRpbJ9FVkTaq-MkVZTkRLf96_sTQ6MMI3B3VJUQ8MbuapmPZKYkxaulYCL-nXMf5yGGEyD1NT8tVZSfLWK8ZV7zlQHLDi5kh2lJQalJ8MWC1zjaYrkZ9MfL1XgGKxryAYM5L8x76bmhIlGAG8ZAkBMd4L3zTiw0wha53TqSD1vtPam8LP9S66v9Qk0rQuicv3OuvyYHyDVV6A2rfhC7T8XVRaGob0VqVbkxHUWVj5N7lkORe6QpwXmycyAQT-xLpho1Wv3TT1iRDHEl1s3Cl6nwp9DiifnQl_TV0RT7587HTC6OZXQ6khcP8afd5clO3Kf8eJTjFdXZaGIFJqLvwR7oFJkL9oJcYP--2p9TUznIrbeK73aXVoQgXEuGsUoUzhHCEEbEC_mvBzb8DVu-oJqyqinTYM2m7Ilh78DzULK_gWy1bXMNK2pjh9hDPPEMkOkUiy3D1jxIdzAK4GkxN_-k-GB19d6_xdJCGmr0KbDMGwOFdamVO8hTRzw0ZkIM5C_zh0ri3Iw-mpgs8CDaMJb8YpFQclFUHvA8sx-5UA_LHBMqx46OZFKb4uPR-bnZsc5s2K8cwmdGlaAhDZFnvFLVhR6qNQn32L5ry2cZMUO3upmTCs2EyxFacsJYftJz3JhQYM84Ms62osAvhGWpD52d1QRIfV6H7rHQTbojLkRKTRNt-iSrcZil9taME5eimOxjfkxfUSvIGmP2juBy1wLm6emnDR4nwUlhrL6D08N0A0Jh7poltpVqRBSgQvfK_2GJHCPtMn94DbviH2YEBs5pZMQ7NkK7XtxtGiW3sYaVyIiHQ5o5jlKSXlGgwQIXhuLzEEA1sdKsggASoJdXMtd2VzdC0yMNAQ.m3u8
+#EXTINF:-1 ch-number="3" group-title="iWant" tvg-id="PBB" tvg-logo="https://i.imgur.com/X1VUmzw.png",PBB All-Access
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+https://video.gumlet.io/6a268725746ebc0f11c1634a/6abc6da20d4cff7ad1227dac/main.m3u8
 
-#EXTINF:-1 ch-number="0" group-title="iWant" tvg-id="PBB" tvg-logo="https://i.imgur.com/X1VUmzw.png",PBB All-Access
+#EXTINF:-1 ch-number="0" group-title="iWant" tvg-id="PBB" tvg-logo="https://img.iwanttfc.com/images/master/PBBCOLLAB3EXTRA_LIVETITLETREATMENT_2026_V1_20261123032458.png",iWant PBB Extra
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
@@ -38,7 +40,7 @@ http://136.239.159.18:6610/001/2/ch00000090990000001143/manifest.mpd?AuthInfo=v8
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=ea6588d030c94ca89925ac0c49974430:3e6de4afee1eff8e14f9506b76ac9ee6
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/157.0.0.0 Safari/537.36
-https://absp-live.akamaized.net/dash/live/2099522/pbbcollab30allaccesslivestream-diningarea/manifest.mpd
+#https://absp-live.akamaized.net/dash/live/2099522/pbbcollab30allaccesslivestream-diningarea/manifest.mpd
 
 #EXTINF:-1 ch-number="10" group-title="iWant" tvg-id="PBB" tvg-logo="https://i.imgur.com/WmZOpKD.png",PBB All-Access: External Den
 #KODIPROP:inputstreamaddon=inputstream.adaptive
@@ -46,7 +48,7 @@ https://absp-live.akamaized.net/dash/live/2099522/pbbcollab30allaccesslivestream
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=b750a40736a24e60b5a4f256208b92c5:af07292597f692726dcac2bd297ddf8e
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/157.0.0.0 Safari/537.36
-https://absp-live.akamaized.net/dash/live/2099522/pbbcollab30allaccesslivestream-externalden/manifest.mpd
+#https://absp-live.akamaized.net/dash/live/2099522/pbbcollab30allaccesslivestream-externalden/manifest.mpd
 
 #EXTINF:-1 ch-number="11" group-title="Converge" tvg-id="a2z.click" tvg-logo="https://liveplayph.pages.dev/assets/logos/a2z_logo.png",A2Z
 http://136.239.173.2:6610/001/2/ch00000090990000001087/manifest.mpd?AuthInfo=v87HD9rEhwHiAdYyrP20Tg5pgSMSITY%2FHYvvCWJRp%2BqHRrK8UUahwItHhKpXgPXKytokK1MIobcue1ImXa0ZEA%3D%3D&version=v1.0&BreakPoint=0&virtualDomain=001.live_hls.zte.com&programid=ch00000000000000001176&contentid=ch00000000000000001176&videoid=ch00000090990000001087&recommendtype=0&userid=1287297673984&boid=001&stbid=02%3A00%3A00%3A00%3A00%3A00&terminalflag=1&profilecode=&usersessionid=U4DB4Z0H2EXXXX&NeedJITP=1&JITPMediaType=DASH&JITPDRMType=NO
@@ -321,8 +323,7 @@ http://136.239.158.18:6610/001/2/ch00000090990000001406/manifest.mpd?AuthInfo=v8
 https://ucdn.mediaquest.com.ph/bpk-tv/discovery/default/index.mpd
 
 #EXTINF:-1 ch-number="76" group-title="Converge" tvg-id="Discovery.Asia.hk" tvg-logo="https://i.imgur.com/foLICwL.png",Discovery Asia
-https://ott.djdoolky76.io/api/streams/189/manifest.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySWQiOjIsInN0cmVhbVRva2VuIjoiOGVkOTY4MTIzODE2ZDQyY2U0Y2I5Y2E0YjBkNTI2ZTRlNDFmMDViZTY5MmE1ZjBjNTE3MjU1MjAwNTE3NWQ5OSIsImlhdCI6MTc4ODE3NTg0MSwiZXhwIjoxNzkwNTUzNTk5fQ.g1UEg6uJi2RNR0adllxiD7-H6Bi-QCS0E0n7db_kIN0
-
+http://136.239.173.10:6610/001/2/ch00000090990000001334/manifest.mpd?AuthInfo=v87HD9rEhwHiAdYyrP20TsXah2%2FZLFNNIdWrVrXDMAqvvSnkxKfMhap8P4VuFwrV2%2FjHNuou2Jtxin49X3LQKw%3D%3D&version=v1.0&BreakPoint=0&virtualDomain=001.live_hls.zte.com&programid=ch00000000000000001816&contentid=ch00000000000000001816&videoid=ch00000090990000001334&recommendtype=0&userid=1996608135992&boid=001&stbid=02%3A00%3A00%3A00%3A00%3A00&terminalflag=1&profilecode=&usersessionid=0WQVURILRBKFXX&NeedJITP=1&JITPMediaType=DASH&JITPDRMType=NO
 #EXTINF:-1 ch-number="77" group-title="MediaQuest / Cignal" tvg-id="HISTORY.hk" tvg-logo="https://cantseeus.com/wp-content/uploads/2023/10/History_28201529.png",History
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
